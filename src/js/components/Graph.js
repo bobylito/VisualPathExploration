@@ -21,15 +21,25 @@ var Graph = React.createClass({
                               return { source : source,
                                        target : data[s[1]]}; }).value() })
                 .flatten(true).value(),
+        nodes= _.map( data, function(p){
+                    var targetTimes = _.reduce( links, function(n, link){ 
+                      return link.target === p ? n + 1: n }, 0);
+                    p.targetTimes = targetTimes;
+                    console.log(targetTimes);
+                    return p;});
         force= d3.layout
                  .force()
                  .size(size)
-                 .nodes( data )
-                 //.gravity( 0.1 )
+                 .nodes( nodes )
+                 .charge( function(n){
+                    return -0.5 * (n.targetTimes * n.targetTimes * n.targetTimes)})
+                 .gravity( 0.05 )
+                 //.theta( 10 )
                  .links( links )
-                 .linkStrength( 0.01 )
+                 .linkStrength( 0.1 )
                  .linkDistance( function( link ){
-                   return 20 + 80 * (1 - parseFloat(data[ link.source.index ].similiraties[ link.target.index ]));})
+                   var similarity = parseFloat(data[ link.source.index ].similiraties[ link.target.index ]);
+                   return 20 + 80 * (1 - similarity);})
                  .on( "start", this.startSim )
                  .on( "tick", this.tickSim )
                  .on( "end", this.endSim )
@@ -42,21 +52,22 @@ var Graph = React.createClass({
   },
   tickSim : function(){
     this.setState({
-      points : this.state.layout.nodes(),
-      links  : this.state.layout.links()
-    });
+      points : this.state.layout.nodes()});
     //console.log(arguments);
   },
   startSim : function(){
     console.log("Simulation started");
   },
   endSim : function(){
+    this.setState({
+      links  : this.state.layout.links() });
     console.log("Simulation ended");
   },
   render: function(){
     var colors = this.state.colors,
         nodes = _.map( this.state.points, function(p){
-          return <circle id={p.index} cx={p.x} cy={p.y} r="5" fill={colors(p.type)}/> ; }),
+          var radius = 5 + (p.targetTimes );
+          return <circle id={p.index} cx={p.x} cy={p.y} r={radius} fill={colors(p.type)}/> ; }),
         links = _.map( this.state.links, function(l){
           var p1 = l.source,
               p2 = l.target;
