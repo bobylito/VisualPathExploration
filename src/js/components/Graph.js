@@ -14,7 +14,7 @@ var Graph = React.createClass({
                     return _.chain( source.similiraties )
                             .zip( _.range( source.similiraties.length ) )
                             .sortBy( function(s){ return s[0]; })
-                            .first( 2 )
+                            .first( 3 )
                             .map( function(s) {
                               return { source : source,
                                        target : data[s[1]]}; }).value() })
@@ -28,13 +28,14 @@ var Graph = React.createClass({
                  .linkStrength( 0.01 )
                  .linkDistance( function( link ){
                    return 50 * (1 - parseFloat(data[ link.source.index ].similiraties[ link.target.index ]));})
-                 //.on( "start", this.startSim )
+                 .on( "start", this.startSim )
                  .on( "tick", this.tickSim )
-                 //.on( "end", this.endSim )
+                 .on( "end", this.endSim )
                  .start(); 
     return {
       layout : force,
-      points : []
+      points : [],
+      colors : d3.scale.category10()
     };
   },
   tickSim : function(){
@@ -45,18 +46,19 @@ var Graph = React.createClass({
     //console.log(arguments);
   },
   startSim : function(){
-    console.log(arguments);
+    console.log("Simulation started");
   },
   endSim : function(){
-    console.log(arguments);
+    console.log("Simulation ended");
   },
   render: function(){
-    var nodes = _.map( this.state.points, function(p){
-          return <circle id={p.index} cx={p.x} cy={p.y} r="5" fill='steelblue'/> ; }),
+    var colors = this.state.colors,
+        nodes = _.map( this.state.points, function(p){
+          return <circle id={p.index} cx={p.x} cy={p.y} r="5" fill={colors(p.type)}/> ; }),
         links = _.map( this.state.links, function(l){
           var p1 = l.source,
               p2 = l.target;
-          return <line x1={p1.x} y1={p1.y} x2={p2.x} y2={p2.y} stroke="rgba(0,0,0,0.1)" stroke-width="2"/> });
+          return <line x1={p1.x} y1={p1.y} x2={p2.x} y2={p2.y} stroke="rgba(0,0,0,0.1)" strokeWidth="1"/> });
     return <g>{links}{nodes}</g>;
   }
 });
