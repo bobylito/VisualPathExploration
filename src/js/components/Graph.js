@@ -27,7 +27,7 @@ var Graph = React.createClass({
                  .links( links )
                  .linkStrength( 0.01 )
                  .linkDistance( function( link ){
-                   return 50 * (1 - parseFloat(data[ link.source.index ].similiraties[ link.target.index ]));})
+                   return 20 + 80 * (1 - parseFloat(data[ link.source.index ].similiraties[ link.target.index ]));})
                  .on( "start", this.startSim )
                  .on( "tick", this.tickSim )
                  .on( "end", this.endSim )
