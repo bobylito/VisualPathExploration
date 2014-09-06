@@ -2,17 +2,34 @@
 
 var React = require("react/addons");
 var _ = require("underscore");
+var $ = require("jquery");
 
 var Path = require("../data/path.js");
 
 var Main = React.createClass({
   getInitialState : function(){
+    var props = this.props;
+    $.get(props.file)
+     .then(this.parseCsv)
+     .then(this.log.bind(this, "Dataset loaded"));
     return {
-      loadingSteps: []
+      loadingSteps: ["Loading dataset: " + props.file],
+      data : null
     };
   },
-  componentWillMount: function(){
-    //Ajax call
+  log:function(msg){
+    this.setState({
+      loadingSteps: this.state.loadingSteps.concat(msg)});
+  },
+  parseCsv: function(data){
+    this.log("Parsing dataset");
+    var parsed = _.map( data.split("\n"), function(line){
+                    var columns = line.split(","),
+                        data    = _.initial(columns),
+                        type    = _.last(columns);
+                    return Path.create(type, data);});
+    console.log("load");
+    this.setState({data: parsed});
   },
   render: function(){
     var messages = _.map( this.state.loadingSteps, 
