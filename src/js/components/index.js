@@ -5,6 +5,7 @@ var _ = require("underscore");
 var $ = require("jquery");
 
 var Path = require("../data/path.js");
+var Graph= require("./Graph.js");
 
 var Main = React.createClass({
   getInitialState : function(){
@@ -33,11 +34,16 @@ var Main = React.createClass({
   },
   render: function(){
     var messages = _.map( this.state.loadingSteps, 
-                          function(m){
-                            return <li>{m}</li>; });
+                          function(m, id){
+                            return <li key={id}>{m}</li>; }),
+        graph    = this.state.data===null ? 
+                     <g/> :
+                     <Graph data={this.state.data}
+                            width={this.props.width}
+                            height={this.props.height}/>;
     return <div>
-      <svg width={this.props.width} height={this.props.height}>
-  
+      <svg width={this.props.width} height={this.props.height}> 
+        {graph}
       </svg> 
       <div className="log">
         <ul>{messages}</ul>
