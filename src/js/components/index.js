@@ -26,7 +26,7 @@ var Main = React.createClass({
     this.log("Parsing dataset");
     var parsed = _.map( data.split("\n"), function(line){
                     var columns = line.split(","),
-                        data    = _.initial(columns),
+                        data    = _.map( _.initial(columns), parseFloat),
                         type    = _.last(columns);
                     return Path.create(type, data);});
     console.log("load");

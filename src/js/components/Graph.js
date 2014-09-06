@@ -13,9 +13,11 @@ var Graph = React.createClass({
                 .map(function(source){
                     return _.chain( source.similiraties )
                             .zip( _.range( source.similiraties.length ) )
+                            .filter( function(s){ return s[0] != 1; } )
                             .sortBy( function(s){ return s[0]; })
                             .last( 3 )
                             .map( function(s) {
+                              //console.log(s);
                               return { source : source,
                                        target : data[s[1]]}; }).value() })
                 .flatten(true).value(),
