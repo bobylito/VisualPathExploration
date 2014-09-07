@@ -7,7 +7,6 @@ var d3    = require("d3");
 var Graph = React.createClass({
   getInitialState: function(){
     var data = this.props.data,
-        size = this.props.size,
         size = [parseInt(this.props.width, 10), parseInt(this.props.height, 10)],
         links= _.chain(data)
                 .map(function(source){
@@ -45,14 +44,17 @@ var Graph = React.createClass({
                  .on( "end", this.endSim )
                  .start(); 
     return {
+      size   : size,
+      alpha  : null,
       layout : force,
       points : [],
       colors : d3.scale.category10()
     };
   },
-  tickSim : function(){
+  tickSim : function(e){
     this.setState({
-      points : this.state.layout.nodes()});
+        alpha : e.alpha
+      });
     //console.log(arguments);
   },
   startSim : function(){
@@ -60,11 +62,17 @@ var Graph = React.createClass({
   },
   endSim : function(){
     this.setState({
+      alpha  : null,
+      points : this.state.layout.nodes(),
       links  : this.state.layout.links() });
     console.log("Simulation ended");
   },
   render: function(){
-    var colors = this.state.colors,
+    var size   = this.state.size,
+        colors = this.state.colors,
+        loader = this.state.alpha ? <text textAnchor="middle" x={size[0]/2} y={size[1]/2}>
+                                      {"Loading (" + this.state.alpha.toFixed(5) + ")"}</text> :
+                                    <g/>,
         nodes = _.map( this.state.points, function(p){
           var radius = 5 + (p.targetTimes );
           return <circle id={p.index} cx={p.x} cy={p.y} r={radius} fill={colors(p.type)}/> ; }),
@@ -72,7 +80,7 @@ var Graph = React.createClass({
           var p1 = l.source,
               p2 = l.target;
           return <line x1={p1.x} y1={p1.y} x2={p2.x} y2={p2.y} stroke="rgba(0,0,0,0.1)" strokeWidth="1"/> });
-    return <g>{links}{nodes}</g>;
+    return <g>{loader}{links}{nodes}</g>;
   }
 });
 
