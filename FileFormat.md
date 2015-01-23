@@ -19,8 +19,10 @@ All lines start like this:
 
 ID  TYPE
 
+The columns are tab-separated.
+
 #### Text bound 
-The format of each line follows the following pattern:
+The format of each line follows the following pattern (separated by tabs):
 
 ID  TYPE    CSTART  CEND    SURFACE[|Extra Info]*
 
@@ -30,6 +32,8 @@ Where
 * CSTART, CEND is the character start and end respectively
 * SURFACE is the 'surface form' or to put it simply, the characters corresponding to this text-bound. 
 * The optional Extra Info depends on each type (see below)
+
+Extra Info contains sub-columns separated by "|".
 
 ##### Sentence
 Sentences do not have extra info, but have a more complex ID. Let us start with an example:
@@ -44,6 +48,7 @@ Sentences do not have extra info, but have a more complex ID. Let us start with 
 Words can have extra information in layers. Here is some examples, again:
 
 `T27	Word 104 111	disease|disease|NN`
+
 `T28	Word 111 112	,|,|,`
 
 The first 4 columns are standard. In the last column we find first the surface form (disease and ","). Then, separated by "|" we find first the canonical form (lemma) and the POS tag. In the case there is extra parts they will follow the format "layername=value", but we can ignore this for now.
@@ -53,7 +58,9 @@ The first 4 columns are standard. In the last column we find first the surface f
 Examples:
 
 `T2	Bacteria 37 57	Borrelia burgdorferi|Borrelia_burgdorferi`
+
 `T3	Habitat 181 185	tick|tick`
+
 `T4	Geographical 202 215	North America|North America`
 
 More or less the same as with words, only there is no POS tag, just surface and canonical.
@@ -87,7 +94,8 @@ Example:
 Despite the fact that the exhaustive list of relation types is not known beforehand (*for this tool, for now*), semantic relationships are rather straight-forward. They only ever have **two** arguments, and these are declared in the format of ROLE:Tx
 Semantic Relations are also directed.
 
-Example
+Example:
+
 `R150	Localization Bacterium:T2 Localization:T4`
 
 So this, for example, defines a relation of type Localization between the entity T2 as the "Bacterium" argument, and T4 as the "Localization" argument.
