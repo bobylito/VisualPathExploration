@@ -1,0 +1,472 @@
+T1-BTID-10093	Sentence 0 24	Borrelia recurrentis A1
+T2-BTID-10093	Sentence 24 36	Description
+T3-BTID-10093	Sentence 36 57	Borrelia recurrentis.
+T4-BTID-10093	Sentence 58 133	Borrelia recurrentis is the causative agent of louse-borne relapsing fever.
+T5-BTID-10093	Sentence 134 266	Prior to World War II, this organism was responsible for large disease outbreaks with a mortality of up to 40% in much of the world.
+T6-BTID-10093	Sentence 267 337	Currently this disease is limited to parts of Africa, China, and Peru.
+T7-BTID-10093	Sentence 338 498	B. recurrentis is transmitted when infected human body lice (Pediculus humanus) are crushed and their fluids contaminate mucous membranes or breaks in the skin.
+T8-BTID-10093	Sentence 499 649	Relapsing fever is characterized by a period of chills, fever, headache, and malaise, an asymptomatic period, followed by another episode of symptoms.
+T9-BTID-10093	Sentence 650 801	This cycle of relapsing is due to changes in the surface proteins of Borrelia, which allow it to avoid detection and removal by the host immune system.
+T10-BTID-10093	Sentence 802 982	This antigenic variation is the result of homologous recombination of silent proteins into an expressed locus, causing partial or complete replacement of one serotype with another.
+T11-BTID-10093	Sentence 983 1101	B. recurrentis has a longer incubation period and longer symptomatic/asymptomatic cycles than other Borrelia species.
+T12-BTID-10093	Sentence 1101 1113	Description
+T13-BTID-10093	Sentence 1113 1137	Borrelia recurrentis A1.
+T14-BTID-10093	Sentence 1138 1232	Borrelia recurrentis isolated from adult patient with louse-borne relapsing fever in Ethiopia.
+T15-BTID-10093	Sentence 1233 1315	This organism will be used for comparative analysis with other Borrelia species.
+T26	Word 0 23	Borrelia recurrentis A1|Borrelia_recurrentis_A1|NN
+T27	Word 23 24	|_|.
+T28	Word 24 35	Description|Description|NN
+T29	Word 35 36	|_|.
+T30	Word 36 56	Borrelia recurrentis|Borrelia_recurrentis|NN
+T31	Word 56 57	.|.|.
+T32	Word 58 78	Borrelia recurrentis|Borrelia_recurrentis|NN
+T33	Word 79 81	is|be|VBZ
+T34	Word 82 85	the|the|DT
+T35	Word 86 95	causative|causative|JJ
+T36	Word 96 101	agent|agent|NN
+T37	Word 102 104	of|of|IN
+T38	Word 105 116	louse-borne|louse-borne|JJ
+T39	Word 117 126	relapsing|relapsing|VBG
+T40	Word 127 132	fever|fever|NN
+T41	Word 132 133	.|.|.
+T42	Word 134 139	Prior|Prior|JJ
+T43	Word 140 142	to|to|TO
+T44	Word 143 148	World|World|NN
+T45	Word 149 152	War|War|NN
+T46	Word 153 155	II|II|CD
+T47	Word 155 156	,|,|,
+T48	Word 157 161	this|this|DT
+T49	Word 162 170	organism|organism|NN
+T50	Word 171 174	was|be|VBD
+T51	Word 175 186	responsible|responsible|JJ
+T52	Word 187 190	for|for|IN
+T53	Word 191 196	large|large|JJ
+T54	Word 197 204	disease|disease|NN
+T55	Word 205 214	outbreaks|outbreak|NNS
+T56	Word 215 219	with|with|IN
+T57	Word 220 221	a|a|DT
+T58	Word 222 231	mortality|mortality|NN
+T59	Word 232 234	of|of|IN
+T60	Word 235 237	up|up|RB
+T61	Word 238 240	to|to|TO
+T62	Word 241 244	40%|40%|CD
+T63	Word 245 247	in|in|IN
+T64	Word 248 252	much|much|RB
+T65	Word 253 255	of|of|IN
+T66	Word 256 259	the|the|DT
+T67	Word 260 265	world|world|NN
+T68	Word 265 266	.|.|.
+T69	Word 267 276	Currently|Currently|RB
+T70	Word 277 281	this|this|DT
+T71	Word 282 289	disease|disease|NN
+T72	Word 290 292	is|be|VBZ
+T73	Word 293 300	limited|limit|JJ
+T74	Word 301 303	to|to|TO
+T75	Word 304 309	parts|part|NNS
+T76	Word 310 312	of|of|IN
+T77	Word 313 319	Africa|Africa|NN
+T78	Word 319 320	,|,|,
+T79	Word 321 326	China|China|NN
+T80	Word 326 327	,|,|,
+T81	Word 328 331	and|and|CC
+T82	Word 332 336	Peru|Peru|NN
+T83	Word 336 337	.|.|.
+T84	Word 338 352	B. recurrentis|B._recurrentis|NN
+T85	Word 353 355	is|be|VBZ
+T86	Word 356 367	transmitted|transmit|VBN
+T87	Word 368 372	when|when|WRB
+T88	Word 373 381	infected|infect|JJ
+T89	Word 382 387	human|human|JJ
+T90	Word 388 392	body|body|NN
+T91	Word 393 397	lice|lice|NN
+T92	Word 398 399	(|(|LRB
+T93	Word 399 408	Pediculus|Pediculus|NN
+T94	Word 409 416	humanus|humanus|NN
+T95	Word 416 417	)|)|RRB
+T96	Word 418 421	are|be|VBP
+T97	Word 422 429	crushed|crush|VBN
+T98	Word 430 433	and|and|CC
+T99	Word 434 439	their|their|PRP$
+T100	Word 440 446	fluids|fluid|NNS
+T101	Word 447 458	contaminate|contaminate|VBP
+T102	Word 459 465	mucous|mucous|JJ
+T103	Word 466 475	membranes|membrane|NNS
+T104	Word 476 478	or|or|CC
+T105	Word 479 485	breaks|break|NNS
+T106	Word 486 488	in|in|IN
+T107	Word 489 492	the|the|DT
+T108	Word 493 497	skin|skin|NN
+T109	Word 497 498	.|.|.
+T110	Word 499 508	Relapsing|Relapse|VBG
+T111	Word 509 514	fever|fever|NN
+T112	Word 515 517	is|be|VBZ
+T113	Word 518 531	characterized|characterize|VBN
+T114	Word 532 534	by|by|IN
+T115	Word 535 536	a|a|DT
+T116	Word 537 543	period|period|NN
+T117	Word 544 546	of|of|IN
+T118	Word 547 553	chills|chill|NNS
+T119	Word 553 554	,|,|,
+T120	Word 555 560	fever|fever|NN
+T121	Word 560 561	,|,|,
+T122	Word 562 570	headache|headache|NN
+T123	Word 570 571	,|,|,
+T124	Word 572 575	and|and|CC
+T125	Word 576 583	malaise|malaise|NN
+T126	Word 583 584	,|,|,
+T127	Word 585 587	an|an|DT
+T128	Word 588 600	asymptomatic|asymptomatic|JJ
+T129	Word 601 607	period|period|NN
+T130	Word 607 608	,|,|,
+T131	Word 609 617	followed|follow|VBN
+T132	Word 618 620	by|by|IN
+T133	Word 621 628	another|another|DT
+T134	Word 629 636	episode|episode|NN
+T135	Word 637 639	of|of|IN
+T136	Word 640 648	symptoms|symptom|NNS
+T137	Word 648 649	.|.|.
+T138	Word 650 654	This|This|DT
+T139	Word 655 660	cycle|cycle|NN
+T140	Word 661 663	of|of|IN
+T141	Word 664 673	relapsing|relapsing|NN
+T142	Word 674 676	is|be|VBZ
+T143	Word 677 680	due|due|JJ
+T144	Word 681 683	to|to|TO
+T145	Word 684 691	changes|change|NNS
+T146	Word 692 694	in|in|IN
+T147	Word 695 698	the|the|DT
+T148	Word 699 706	surface|surface|NN
+T149	Word 707 715	proteins|protein|NNS
+T150	Word 716 718	of|of|IN
+T151	Word 719 727	Borrelia|Borrelia|NN
+T152	Word 727 728	,|,|,
+T153	Word 729 734	which|which|WDT
+T154	Word 735 740	allow|allow|VBP
+T155	Word 741 743	it|it|PRP
+T156	Word 744 746	to|to|TO
+T157	Word 747 752	avoid|avoid|VB
+T158	Word 753 762	detection|detection|NN
+T159	Word 763 766	and|and|CC
+T160	Word 767 774	removal|removal|NN
+T161	Word 775 777	by|by|IN
+T162	Word 778 781	the|the|DT
+T163	Word 782 786	host|host|NN
+T164	Word 787 793	immune|immune|JJ
+T165	Word 794 800	system|system|NN
+T166	Word 800 801	.|.|.
+T167	Word 802 806	This|This|DT
+T168	Word 807 816	antigenic|antigenic|JJ
+T169	Word 817 826	variation|variation|NN
+T170	Word 827 829	is|be|VBZ
+T171	Word 830 833	the|the|DT
+T172	Word 834 840	result|result|NN
+T173	Word 841 843	of|of|IN
+T174	Word 844 854	homologous|homologous|JJ
+T175	Word 855 868	recombination|recombination|NN
+T176	Word 869 871	of|of|IN
+T177	Word 872 878	silent|silent|JJ
+T178	Word 879 887	proteins|protein|NNS
+T179	Word 888 892	into|into|IN
+T180	Word 893 895	an|an|DT
+T181	Word 896 905	expressed|express|VBN
+T182	Word 906 911	locus|locus|NN
+T183	Word 911 912	,|,|,
+T184	Word 913 920	causing|cause|VBG
+T185	Word 921 928	partial|partial|JJ
+T186	Word 929 931	or|or|CC
+T187	Word 932 940	complete|complete|JJ
+T188	Word 941 952	replacement|replacement|NN
+T189	Word 953 955	of|of|IN
+T190	Word 956 959	one|one|CD
+T191	Word 960 968	serotype|serotype|NN
+T192	Word 969 973	with|with|IN
+T193	Word 974 981	another|another|DT
+T194	Word 981 982	.|.|.
+T195	Word 983 997	B. recurrentis|B._recurrentis|NN
+T196	Word 998 1001	has|have|VBZ
+T197	Word 1002 1003	a|a|DT
+T198	Word 1004 1010	longer|long|JJR
+T199	Word 1011 1021	incubation|incubation|NN
+T200	Word 1022 1028	period|period|NN
+T201	Word 1029 1032	and|and|CC
+T202	Word 1033 1039	longer|long|JJR
+T203	Word 1040 1064	symptomatic/asymptomatic|symptomatic/asymptomatic|JJ
+T204	Word 1065 1071	cycles|cycle|NNS
+T205	Word 1072 1076	than|than|IN
+T206	Word 1077 1082	other|other|JJ
+T207	Word 1083 1091	Borrelia|Borrelia|NN
+T208	Word 1092 1099	species|specie|NNS
+T209	Word 1099 1100	.|.|.
+T210	Word 1100 1101	|_|.
+T211	Word 1101 1112	Description|Description|NN
+T212	Word 1112 1113	|_|.
+T213	Word 1113 1136	Borrelia recurrentis A1|Borrelia_recurrentis_A1|NN
+T214	Word 1136 1137	.|.|.
+T215	Word 1138 1158	Borrelia recurrentis|Borrelia_recurrentis|NN
+T216	Word 1159 1167	isolated|isolate|VBN
+T217	Word 1168 1172	from|from|IN
+T218	Word 1173 1178	adult|adult|JJ
+T219	Word 1179 1186	patient|patient|NN
+T220	Word 1187 1191	with|with|IN
+T221	Word 1192 1203	louse-borne|louse-borne|JJ
+T222	Word 1204 1213	relapsing|relapsing|VBG
+T223	Word 1214 1219	fever|fever|NN
+T224	Word 1220 1222	in|in|IN
+T225	Word 1223 1231	Ethiopia|Ethiopia|NN
+T226	Word 1231 1232	.|.|.
+T227	Word 1233 1237	This|This|DT
+T228	Word 1238 1246	organism|organism|NN
+T229	Word 1247 1251	will|will|MD
+T230	Word 1252 1254	be|be|VB
+T231	Word 1255 1259	used|use|VBN
+T232	Word 1260 1263	for|for|IN
+T233	Word 1264 1275	comparative|comparative|JJ
+T234	Word 1276 1284	analysis|analysis|NN
+T235	Word 1285 1289	with|with|IN
+T236	Word 1290 1295	other|other|JJ
+T237	Word 1296 1304	Borrelia|Borrelia|NN
+T238	Word 1305 1312	species|specie|NNS
+T239	Word 1312 1313	.|.|.
+T240	Word 1313 1314	|_|.
+T241	Word 1314 1315	|_|.
+T1	Bacteria 0 23	Borrelia recurrentis A1|Borrelia_recurrentis_A1
+T2	Bacteria 36 56	Borrelia recurrentis|Borrelia_recurrentis
+T3	Bacteria 58 78	Borrelia recurrentis|Borrelia_recurrentis
+T4	Habitat 105 110	louse|louse
+T5	Geographical 313 319	Africa|Africa
+T6	Geographical 321 326	China|China
+T7	Geographical 332 336	Peru|Peru
+T8	Bacteria 338 352	B. recurrentis|B._recurrentis
+T9	Habitat 373 397	infected human body lice|infected human body lice
+T10	Habitat 382 392	human body|human body
+T11	Habitat 382 387	human|human
+T12	Habitat 399 416	Pediculus humanus|Pediculus humanus
+T13	Habitat 440 446	fluids|fluids
+T14	Habitat 479 497	breaks in the skin|breaks in the skin
+T15	Habitat 493 497	skin|skin
+T16	Bacteria 719 727	Borrelia|Borrelia
+T17	Habitat 787 800	immune system|immune system
+T18	Bacteria 983 997	B. recurrentis|B._recurrentis
+T19	Bacteria 1083 1091	Borrelia|Borrelia
+T20	Bacteria 1113 1136	Borrelia recurrentis A1|Borrelia_recurrentis_A1
+T21	Bacteria 1138 1158	Borrelia recurrentis|Borrelia_recurrentis
+T22	Habitat 1173 1186	adult patient|adult patient
+T23	Habitat 1192 1197	louse|louse
+T24	Geographical 1223 1231	Ethiopia|Ethiopia
+T25	Bacteria 1296 1304	Borrelia|Borrelia
+R1	Dependency dependent:T35 sentence:T4-BTID-10093 head:T36 label:ncmod
+R2	Dependency dependent:T34 sentence:T4-BTID-10093 head:T36 label:det
+R3	Dependency dependent:T39 sentence:T4-BTID-10093 head:T40 label:ncmod
+R4	Dependency dependent:T38 sentence:T4-BTID-10093 head:T40 label:ncmod
+R5	Dependency dependent:T40 sentence:T4-BTID-10093 head:T37 label:dobj
+R6	Dependency dependent:T37 sentence:T4-BTID-10093 head:T36 label:ncmod
+R7	Dependency dependent:T36 sentence:T4-BTID-10093 head:T33 label:xcomp
+R8	Dependency dependent:T32 sentence:T4-BTID-10093 head:T33 label:ncsubj
+R9	Dependency dependent:T46 sentence:T5-BTID-10093 head:T45 label:ncmod
+R10	Dependency dependent:T44 sentence:T5-BTID-10093 head:T45 label:ncmod
+R11	Dependency dependent:T45 sentence:T5-BTID-10093 head:T43 label:dobj
+R12	Dependency dependent:T43 sentence:T5-BTID-10093 head:T42 label:iobj
+R13	Dependency dependent:T48 sentence:T5-BTID-10093 head:T49 label:det
+R14	Dependency dependent:T54 sentence:T5-BTID-10093 head:T55 label:ncmod
+R15	Dependency dependent:T53 sentence:T5-BTID-10093 head:T55 label:ncmod
+R16	Dependency dependent:T57 sentence:T5-BTID-10093 head:T58 label:det
+R17	Dependency dependent:T62 sentence:T5-BTID-10093 head:T61 label:dobj
+R18	Dependency dependent:T61 sentence:T5-BTID-10093 head:T60 label:iobj
+R19	Dependency dependent:T59 sentence:T5-BTID-10093 head:T60 label:xcomp
+R20	Dependency dependent:T58 sentence:T5-BTID-10093 head:T59 label:ncmod
+R21	Dependency dependent:T58 sentence:T5-BTID-10093 head:T56 label:dobj
+R22	Dependency dependent:T56 sentence:T5-BTID-10093 head:T55 label:ncmod
+R23	Dependency dependent:T55 sentence:T5-BTID-10093 head:T52 label:dobj
+R24	Dependency dependent:T52 sentence:T5-BTID-10093 head:T51 label:iobj
+R25	Dependency dependent:T51 sentence:T5-BTID-10093 head:T50 label:xcomp
+R26	Dependency dependent:T66 sentence:T5-BTID-10093 head:T67 label:det
+R27	Dependency dependent:T67 sentence:T5-BTID-10093 head:T65 label:dobj
+R28	Dependency dependent:T65 sentence:T5-BTID-10093 head:T64 label:ncmod
+R29	Dependency dependent:T64 sentence:T5-BTID-10093 head:T63 label:dobj
+R30	Dependency dependent:T63 sentence:T5-BTID-10093 head:T50 label:ncmod
+R31	Dependency dependent:T49 sentence:T5-BTID-10093 head:T50 label:ncsubj
+R32	Dependency dependent:T42 sentence:T5-BTID-10093 head:T50 label:ncmod
+R33	Dependency dependent:T70 sentence:T6-BTID-10093 head:T71 label:det
+R34	Dependency dependent:T79 sentence:T6-BTID-10093 head:T78 label:conj
+R35	Dependency dependent:T77 sentence:T6-BTID-10093 head:T78 label:conj
+R36	Dependency dependent:T79 sentence:T6-BTID-10093 head:T76 label:dobj
+R37	Dependency dependent:T77 sentence:T6-BTID-10093 head:T76 label:dobj
+R38	Dependency dependent:T76 sentence:T6-BTID-10093 head:T75 label:ncmod
+R39	Dependency dependent:T82 sentence:T6-BTID-10093 head:T81 label:conj
+R40	Dependency dependent:T75 sentence:T6-BTID-10093 head:T81 label:conj
+R41	Dependency dependent:T82 sentence:T6-BTID-10093 head:T74 label:dobj
+R42	Dependency dependent:T75 sentence:T6-BTID-10093 head:T74 label:dobj
+R43	Dependency dependent:T74 sentence:T6-BTID-10093 head:T73 label:iobj
+R44	Dependency dependent:T73 sentence:T6-BTID-10093 head:T72 label:xcomp
+R45	Dependency dependent:T71 sentence:T6-BTID-10093 head:T72 label:ncsubj
+R46	Dependency dependent:T69 sentence:T6-BTID-10093 head:T72 label:ncmod
+R47	Dependency dependent:T90 sentence:T7-BTID-10093 head:T91 label:ncmod
+R48	Dependency dependent:T89 sentence:T7-BTID-10093 head:T91 label:ncmod
+R49	Dependency dependent:T88 sentence:T7-BTID-10093 head:T91 label:ncmod
+R50	Dependency dependent:T93 sentence:T7-BTID-10093 head:T94 label:ncmod
+R51	Dependency dependent:T94 sentence:T7-BTID-10093 head:T92 label:dobj
+R52	Dependency dependent:T92 sentence:T7-BTID-10093 head:T91 label:ncmod
+R53	Dependency dependent:T96 sentence:T7-BTID-10093 head:T97 label:aux
+R54	Dependency dependent:T91 sentence:T7-BTID-10093 head:T97 label:ncsubj
+R55	Dependency dependent:T99 sentence:T7-BTID-10093 head:T100 label:det
+R56	Dependency dependent:T102 sentence:T7-BTID-10093 head:T103 label:ncmod
+R57	Dependency dependent:T107 sentence:T7-BTID-10093 head:T108 label:det
+R58	Dependency dependent:T108 sentence:T7-BTID-10093 head:T106 label:dobj
+R59	Dependency dependent:T106 sentence:T7-BTID-10093 head:T105 label:ncmod
+R60	Dependency dependent:T105 sentence:T7-BTID-10093 head:T104 label:conj
+R61	Dependency dependent:T103 sentence:T7-BTID-10093 head:T104 label:conj
+R62	Dependency dependent:T105 sentence:T7-BTID-10093 head:T101 label:dobj
+R63	Dependency dependent:T103 sentence:T7-BTID-10093 head:T101 label:dobj
+R64	Dependency dependent:T100 sentence:T7-BTID-10093 head:T101 label:ncsubj
+R65	Dependency dependent:T101 sentence:T7-BTID-10093 head:T98 label:conj
+R66	Dependency dependent:T97 sentence:T7-BTID-10093 head:T98 label:conj
+R67	Dependency dependent:T101 sentence:T7-BTID-10093 head:T87 label:ccomp
+R68	Dependency dependent:T97 sentence:T7-BTID-10093 head:T87 label:ccomp
+R69	Dependency dependent:T87 sentence:T7-BTID-10093 head:T86 label:cmod
+R70	Dependency dependent:T85 sentence:T7-BTID-10093 head:T86 label:aux
+R71	Dependency dependent:T84 sentence:T7-BTID-10093 head:T86 label:ncsubj
+R72	Dependency dependent:T110 sentence:T8-BTID-10093 head:T111 label:ncmod
+R73	Dependency dependent:T115 sentence:T8-BTID-10093 head:T116 label:det
+R74	Dependency dependent:T118 sentence:T8-BTID-10093 head:T117 label:dobj
+R75	Dependency dependent:T117 sentence:T8-BTID-10093 head:T116 label:ncmod
+R76	Dependency dependent:T128 sentence:T8-BTID-10093 head:T129 label:ncmod
+R77	Dependency dependent:T127 sentence:T8-BTID-10093 head:T129 label:det
+R78	Dependency dependent:T133 sentence:T8-BTID-10093 head:T134 label:det
+R79	Dependency dependent:T136 sentence:T8-BTID-10093 head:T135 label:dobj
+R80	Dependency dependent:T135 sentence:T8-BTID-10093 head:T134 label:ncmod
+R81	Dependency dependent:T134 sentence:T8-BTID-10093 head:T132 label:dobj
+R82	Dependency dependent:T132 sentence:T8-BTID-10093 head:T131 label:ncmod
+R83	Dependency dependent:T131 sentence:T8-BTID-10093 head:T129 label:xmod
+R84	Dependency dependent:T129 sentence:T8-BTID-10093 head:T131 label:ncsubj
+R85	Dependency dependent:T129 sentence:T8-BTID-10093 head:T126 label:conj
+R86	Dependency dependent:T125 sentence:T8-BTID-10093 head:T126 label:conj
+R87	Dependency dependent:T129 sentence:T8-BTID-10093 head:T124 label:conj
+R88	Dependency dependent:T125 sentence:T8-BTID-10093 head:T124 label:conj
+R89	Dependency dependent:T122 sentence:T8-BTID-10093 head:T124 label:conj
+R90	Dependency dependent:T129 sentence:T8-BTID-10093 head:T121 label:conj
+R91	Dependency dependent:T125 sentence:T8-BTID-10093 head:T121 label:conj
+R92	Dependency dependent:T122 sentence:T8-BTID-10093 head:T121 label:conj
+R93	Dependency dependent:T120 sentence:T8-BTID-10093 head:T121 label:conj
+R94	Dependency dependent:T129 sentence:T8-BTID-10093 head:T119 label:conj
+R95	Dependency dependent:T125 sentence:T8-BTID-10093 head:T119 label:conj
+R96	Dependency dependent:T122 sentence:T8-BTID-10093 head:T119 label:conj
+R97	Dependency dependent:T120 sentence:T8-BTID-10093 head:T119 label:conj
+R98	Dependency dependent:T116 sentence:T8-BTID-10093 head:T119 label:conj
+R99	Dependency dependent:T129 sentence:T8-BTID-10093 head:T114 label:dobj
+R100	Dependency dependent:T125 sentence:T8-BTID-10093 head:T114 label:dobj
+R101	Dependency dependent:T122 sentence:T8-BTID-10093 head:T114 label:dobj
+R102	Dependency dependent:T120 sentence:T8-BTID-10093 head:T114 label:dobj
+R103	Dependency dependent:T116 sentence:T8-BTID-10093 head:T114 label:dobj
+R104	Dependency dependent:T114 sentence:T8-BTID-10093 head:T113 label:ncmod
+R105	Dependency dependent:T112 sentence:T8-BTID-10093 head:T113 label:aux
+R106	Dependency dependent:T111 sentence:T8-BTID-10093 head:T113 label:ncsubj
+R107	Dependency dependent:T138 sentence:T9-BTID-10093 head:T139 label:det
+R108	Dependency dependent:T141 sentence:T9-BTID-10093 head:T140 label:dobj
+R109	Dependency dependent:T140 sentence:T9-BTID-10093 head:T139 label:ncmod
+R110	Dependency dependent:T148 sentence:T9-BTID-10093 head:T149 label:ncmod
+R111	Dependency dependent:T147 sentence:T9-BTID-10093 head:T149 label:det
+R112	Dependency dependent:T151 sentence:T9-BTID-10093 head:T150 label:dobj
+R113	Dependency dependent:T150 sentence:T9-BTID-10093 head:T149 label:ncmod
+R114	Dependency dependent:T149 sentence:T9-BTID-10093 head:T146 label:dobj
+R115	Dependency dependent:T146 sentence:T9-BTID-10093 head:T145 label:ncmod
+R116	Dependency dependent:T155 sentence:T9-BTID-10093 head:T154 label:dobj
+R117	Dependency dependent:T158 sentence:T9-BTID-10093 head:T157 label:dobj
+R118	Dependency dependent:T155 sentence:T9-BTID-10093 head:T157 label:ncsubj
+R119	Dependency dependent:T157 sentence:T9-BTID-10093 head:T154 label:xcomp
+R120	Dependency dependent:T153 sentence:T9-BTID-10093 head:T154 label:ncsubj
+R121	Dependency dependent:T154 sentence:T9-BTID-10093 head:T145 label:cmod
+R122	Dependency dependent:T164 sentence:T9-BTID-10093 head:T165 label:ncmod
+R123	Dependency dependent:T163 sentence:T9-BTID-10093 head:T165 label:ncmod
+R124	Dependency dependent:T162 sentence:T9-BTID-10093 head:T165 label:det
+R125	Dependency dependent:T165 sentence:T9-BTID-10093 head:T161 label:dobj
+R126	Dependency dependent:T161 sentence:T9-BTID-10093 head:T160 label:ncmod
+R127	Dependency dependent:T160 sentence:T9-BTID-10093 head:T159 label:conj
+R128	Dependency dependent:T145 sentence:T9-BTID-10093 head:T159 label:conj
+R129	Dependency dependent:T160 sentence:T9-BTID-10093 head:T144 label:dobj
+R130	Dependency dependent:T145 sentence:T9-BTID-10093 head:T144 label:dobj
+R131	Dependency dependent:T144 sentence:T9-BTID-10093 head:T143 label:iobj
+R132	Dependency dependent:T143 sentence:T9-BTID-10093 head:T142 label:xcomp
+R133	Dependency dependent:T139 sentence:T9-BTID-10093 head:T142 label:ncsubj
+R134	Dependency dependent:T168 sentence:T10-BTID-10093 head:T169 label:ncmod
+R135	Dependency dependent:T167 sentence:T10-BTID-10093 head:T169 label:det
+R136	Dependency dependent:T171 sentence:T10-BTID-10093 head:T172 label:det
+R137	Dependency dependent:T174 sentence:T10-BTID-10093 head:T175 label:ncmod
+R138	Dependency dependent:T177 sentence:T10-BTID-10093 head:T178 label:ncmod
+R139	Dependency dependent:T178 sentence:T10-BTID-10093 head:T176 label:dobj
+R140	Dependency dependent:T176 sentence:T10-BTID-10093 head:T175 label:ncmod
+R141	Dependency dependent:T181 sentence:T10-BTID-10093 head:T182 label:ncmod
+R142	Dependency dependent:T180 sentence:T10-BTID-10093 head:T182 label:det
+R143	Dependency dependent:T187 sentence:T10-BTID-10093 head:T186 label:conj
+R144	Dependency dependent:T185 sentence:T10-BTID-10093 head:T186 label:conj
+R145	Dependency dependent:T187 sentence:T10-BTID-10093 head:T188 label:ncmod
+R146	Dependency dependent:T185 sentence:T10-BTID-10093 head:T188 label:ncmod
+R147	Dependency dependent:T190 sentence:T10-BTID-10093 head:T191 label:ncmod
+R148	Dependency dependent:T191 sentence:T10-BTID-10093 head:T189 label:dobj
+R149	Dependency dependent:T189 sentence:T10-BTID-10093 head:T188 label:ncmod
+R150	Dependency dependent:T193 sentence:T10-BTID-10093 head:T192 label:dobj
+R151	Dependency dependent:T192 sentence:T10-BTID-10093 head:T188 label:ncmod
+R152	Dependency dependent:T188 sentence:T10-BTID-10093 head:T184 label:dobj
+R153	Dependency dependent:T184 sentence:T10-BTID-10093 head:T182 label:xmod
+R154	Dependency dependent:T182 sentence:T10-BTID-10093 head:T184 label:ncsubj
+R155	Dependency dependent:T182 sentence:T10-BTID-10093 head:T179 label:dobj
+R156	Dependency dependent:T179 sentence:T10-BTID-10093 head:T175 label:ncmod
+R157	Dependency dependent:T175 sentence:T10-BTID-10093 head:T173 label:dobj
+R158	Dependency dependent:T173 sentence:T10-BTID-10093 head:T172 label:ncmod
+R159	Dependency dependent:T172 sentence:T10-BTID-10093 head:T170 label:xcomp
+R160	Dependency dependent:T169 sentence:T10-BTID-10093 head:T170 label:ncsubj
+R161	Dependency dependent:T199 sentence:T11-BTID-10093 head:T200 label:ncmod
+R162	Dependency dependent:T198 sentence:T11-BTID-10093 head:T200 label:ncmod
+R163	Dependency dependent:T197 sentence:T11-BTID-10093 head:T200 label:det
+R164	Dependency dependent:T203 sentence:T11-BTID-10093 head:T204 label:ncmod
+R165	Dependency dependent:T202 sentence:T11-BTID-10093 head:T204 label:ncmod
+R166	Dependency dependent:T204 sentence:T11-BTID-10093 head:T201 label:conj
+R167	Dependency dependent:T200 sentence:T11-BTID-10093 head:T201 label:conj
+R168	Dependency dependent:T207 sentence:T11-BTID-10093 head:T208 label:ncmod
+R169	Dependency dependent:T206 sentence:T11-BTID-10093 head:T208 label:ncmod
+R170	Dependency dependent:T208 sentence:T11-BTID-10093 head:T205 label:dobj
+R171	Dependency dependent:T205 sentence:T11-BTID-10093 head:T204 label:ncmod
+R172	Dependency dependent:T205 sentence:T11-BTID-10093 head:T200 label:ncmod
+R173	Dependency dependent:T204 sentence:T11-BTID-10093 head:T196 label:dobj
+R174	Dependency dependent:T200 sentence:T11-BTID-10093 head:T196 label:dobj
+R175	Dependency dependent:T195 sentence:T11-BTID-10093 head:T196 label:ncsubj
+R176	Dependency dependent:T218 sentence:T14-BTID-10093 head:T219 label:ncmod
+R177	Dependency dependent:T219 sentence:T14-BTID-10093 head:T217 label:dobj
+R178	Dependency dependent:T217 sentence:T14-BTID-10093 head:T216 label:iobj
+R179	Dependency dependent:T222 sentence:T14-BTID-10093 head:T223 label:ncmod
+R180	Dependency dependent:T221 sentence:T14-BTID-10093 head:T223 label:ncmod
+R181	Dependency dependent:T225 sentence:T14-BTID-10093 head:T224 label:dobj
+R182	Dependency dependent:T224 sentence:T14-BTID-10093 head:T223 label:ncmod
+R183	Dependency dependent:T223 sentence:T14-BTID-10093 head:T220 label:dobj
+R184	Dependency dependent:T220 sentence:T14-BTID-10093 head:T216 label:ncmod
+R185	Dependency dependent:T215 sentence:T14-BTID-10093 head:T216 label:ncsubj
+R186	Dependency dependent:T227 sentence:T15-BTID-10093 head:T228 label:det
+R187	Dependency dependent:T233 sentence:T15-BTID-10093 head:T234 label:ncmod
+R188	Dependency dependent:T234 sentence:T15-BTID-10093 head:T232 label:dobj
+R189	Dependency dependent:T232 sentence:T15-BTID-10093 head:T231 label:iobj
+R190	Dependency dependent:T237 sentence:T15-BTID-10093 head:T238 label:ncmod
+R191	Dependency dependent:T236 sentence:T15-BTID-10093 head:T238 label:ncmod
+R192	Dependency dependent:T238 sentence:T15-BTID-10093 head:T235 label:dobj
+R193	Dependency dependent:T235 sentence:T15-BTID-10093 head:T231 label:ncmod
+R194	Dependency dependent:T230 sentence:T15-BTID-10093 head:T231 label:aux
+R195	Dependency dependent:T229 sentence:T15-BTID-10093 head:T231 label:aux
+R196	Dependency dependent:T228 sentence:T15-BTID-10093 head:T231 label:ncsubj
+R197	Localization Bacterium:T2 Localization:T15
+R198	Localization Bacterium:T1 Localization:T24
+R199	Localization Bacterium:T2 Localization:T5
+R200	Localization Bacterium:T1 Localization:T23
+R201	Localization Bacterium:T2 Localization:T14
+R202	Localization Bacterium:T1 Localization:T22
+R203	Localization Bacterium:T2 Localization:T7
+R204	Localization Bacterium:T2 Localization:T13
+R205	Localization Bacterium:T2 Localization:T6
+R206	Localization Bacterium:T2 Localization:T4
+R207	PartOf Host:T4 Part:T13
+R208	Anaphora Anaphor:86-101 Ante:T3
+R209	Anaphora Anaphor:277-289 Ante:T3
+R210	Anaphora Anaphor:373-381 Ante:T8
+R211	Anaphora Anaphor:434-439 Ante:T8
+R212	Anaphora Anaphor:741-743 Ante:T16
+R213	Anaphora Anaphor:1092-1099 Ante:T18
+R214	Anaphora Anaphor:1233-1246 Ante:T21
+R215	Anaphora Anaphor:1238-1246 Ante:T21
+R216	Anaphora Anaphor:1305-1312 Ante:T25

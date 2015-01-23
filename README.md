@@ -1,19 +1,8 @@
 VisualPathExploration tool
 ==========================
 
-This tools aims to display a similarity matrix.
+This is a tool to visualize sentences for the task of Relation Extraction. 
+It is compatible with a modified BioNLP'13 ("Genia") format of input files and it produces two types of visualizations:
 
-Before
-------
-
-Tools you need beforehand
-
- * npm (brew / apt / well you know your os ;P)
- * grunt (npm install -g grunt-cli)
-
-
-Install / User
---------------
-
- * npm install (in the root folder)
- * launch a local server from the root folder (like the one you can find here : https://www.dropbox.com/s/9b12yd7pgxo8p0o/servehttp.py?dl=0 )
+1. Sentences and their parsings (Named Entities, dependencies, POS tags, etc)
+2. The alignment between two sentences

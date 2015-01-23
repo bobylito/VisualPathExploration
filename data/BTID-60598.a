@@ -1,0 +1,237 @@
+T1-BTID-60598	Sentence 0 22	Spirochaeta americana
+T2-BTID-60598	Sentence 22 51	Description and Significance
+T3-BTID-60598	Sentence 51 83	S. americana is an extremophile.
+T4-BTID-60598	Sentence 84 172	It has been found in the highly alkaline anaerobic environment of Mono Lake, California.
+T5-BTID-60598	Sentence 173 250	S. Americana can also inhabit areas with high sulfur and salt concentrations.
+T6-BTID-60598	Sentence 251 298	S. americana has scientists especially excited.
+T7-BTID-60598	Sentence 299 430	Some believe that the harsh environment of Mono Lake is similar to that of Mars, giving hope to the theory that life existed there.
+T8-BTID-60598	Sentence 431 510	S. americana is an obligate anaerobe and has an optimal pH range of 8.0 - 10.5.
+T9-BTID-60598	Sentence 511 620	Cells of the Gram-negative strain were motile and spirochaete-shaped with sizes of 0.2-0.22 x 8-18 microm.
+T15	Word 0 21	Spirochaeta americana|Spirochaeta_americana|NN
+T16	Word 21 22	|_|.
+T17	Word 22 33	Description|Description|NN
+T18	Word 34 37	and|and|CC
+T19	Word 38 50	Significance|Significance|NN
+T20	Word 50 51	|_|.
+T21	Word 51 63	S. americana|S._americana|NN
+T22	Word 64 66	is|be|VBZ
+T23	Word 67 69	an|an|DT
+T24	Word 70 82	extremophile|extremophile|JJ
+T25	Word 82 83	.|.|.
+T26	Word 84 86	It|It|PRP
+T27	Word 87 90	has|have|VBZ
+T28	Word 91 95	been|be|VBN
+T29	Word 96 101	found|find|VBN
+T30	Word 102 104	in|in|IN
+T31	Word 105 108	the|the|DT
+T32	Word 109 115	highly|highly|RB
+T33	Word 116 124	alkaline|alkaline|NN
+T34	Word 125 134	anaerobic|anaerobic|JJ
+T35	Word 135 146	environment|environment|NN
+T36	Word 147 149	of|of|IN
+T37	Word 150 154	Mono|Mono|NN
+T38	Word 155 159	Lake|Lake|NN
+T39	Word 159 160	,|,|,
+T40	Word 161 171	California|California|NN
+T41	Word 171 172	.|.|.
+T42	Word 173 185	S. Americana|S._Americana|NN
+T43	Word 186 189	can|can|MD
+T44	Word 190 194	also|also|RB
+T45	Word 195 202	inhabit|inhabit|VB
+T46	Word 203 208	areas|area|NNS
+T47	Word 209 213	with|with|IN
+T48	Word 214 218	high|high|JJ
+T49	Word 219 225	sulfur|sulfur|NN
+T50	Word 226 229	and|and|CC
+T51	Word 230 234	salt|salt|NN
+T52	Word 235 249	concentrations|concentration|NNS
+T53	Word 249 250	.|.|.
+T54	Word 251 263	S. americana|S._americana|NN
+T55	Word 264 267	has|have|VBZ
+T56	Word 268 278	scientists|scientist|NNS
+T57	Word 279 289	especially|especially|RB
+T58	Word 290 297	excited|excite|VBN
+T59	Word 297 298	.|.|.
+T60	Word 299 303	Some|Some|DT
+T61	Word 304 311	believe|believe|VBP
+T62	Word 312 316	that|that|IN
+T63	Word 317 320	the|the|DT
+T64	Word 321 326	harsh|harsh|NN
+T65	Word 327 338	environment|environment|NN
+T66	Word 339 341	of|of|IN
+T67	Word 342 346	Mono|Mono|NN
+T68	Word 347 351	Lake|Lake|NN
+T69	Word 352 354	is|be|VBZ
+T70	Word 355 362	similar|similar|JJ
+T71	Word 363 365	to|to|TO
+T72	Word 366 370	that|that|DT
+T73	Word 371 373	of|of|IN
+T74	Word 374 378	Mars|Mar|NNS
+T75	Word 378 379	,|,|,
+T76	Word 380 386	giving|give|VBG
+T77	Word 387 391	hope|hope|NN
+T78	Word 392 394	to|to|TO
+T79	Word 395 398	the|the|DT
+T80	Word 399 405	theory|theory|NN
+T81	Word 406 410	that|that|IN
+T82	Word 411 415	life|life|NN
+T83	Word 416 423	existed|exist|VBD
+T84	Word 424 429	there|there|EX
+T85	Word 429 430	.|.|.
+T86	Word 431 443	S. americana|S._americana|NN
+T87	Word 444 446	is|be|VBZ
+T88	Word 447 449	an|an|DT
+T89	Word 450 458	obligate|obligate|JJ
+T90	Word 459 467	anaerobe|anaerobe|NN
+T91	Word 468 471	and|and|CC
+T92	Word 472 475	has|have|VBZ
+T93	Word 476 478	an|an|DT
+T94	Word 479 486	optimal|optimal|JJ
+T95	Word 487 489	pH|pH|NN
+T96	Word 490 495	range|range|NN
+T97	Word 496 498	of|of|IN
+T98	Word 499 500	8|8|CD
+T99	Word 500 501	.|.|.
+T100	Word 501 502	0|0|CD
+T101	Word 503 504	-|-|CD
+T102	Word 505 507	10|10|CD
+T103	Word 507 508	.|.|.
+T104	Word 508 509	5|5|CD
+T105	Word 509 510	.|.|.
+T106	Word 511 516	Cells|Cell|NNS
+T107	Word 517 519	of|of|IN
+T108	Word 520 523	the|the|DT
+T109	Word 524 537	Gram-negative|Gram-negative|JJ
+T110	Word 538 544	strain|strain|NN
+T111	Word 545 549	were|be|VBD
+T112	Word 550 556	motile|motile|JJ
+T113	Word 557 560	and|and|CC
+T114	Word 561 572	spirochaete|spirochaete|JJ
+T115	Word 572 579	-shaped|-shape|JJ
+T116	Word 580 584	with|with|IN
+T117	Word 585 590	sizes|size|NNS
+T118	Word 591 593	of|of|IN
+T119	Word 594 595	0|0|CD
+T120	Word 595 596	.|.|.
+T121	Word 596 599	2-0|2-0|CD
+T122	Word 599 600	.|.|.
+T123	Word 600 602	22|22|CD
+T124	Word 603 604	x|x|CC
+T125	Word 605 609	8-18|8-18|CD
+T126	Word 610 616	microm|microm|NN
+T127	Word 616 617	.|.|.
+T128	Word 617 618	|_|.
+T129	Word 618 619	|_|.
+T130	Word 619 620	|_|.
+T1	Bacteria 0 21	Spirochaeta americana|Spirochaeta_americana
+T2	Bacteria 51 63	S. americana|S._americana
+T3	Habitat 109 171	highly alkaline anaerobic environment of Mono Lake, California|highly alkaline anaerobic environment of Mono Lake, California
+T4	Geographical 150 159	Mono Lake|Mono Lake
+T5	Geographical 161 171	California|California
+T6	Bacteria 173 185	S. Americana|S._Americana
+T7	Habitat 203 249	areas with high sulfur and salt concentrations|areas with high sulfur and salt concentrations
+T8	Habitat 203 249	areas with high sulfur and salt concentrations|areas with high sulfur and salt concentrations
+T9	Bacteria 251 263	S. americana|S._americana
+T10	Habitat 268 278	scientists|scientists
+T11	Geographical 342 351	Mono Lake|Mono Lake
+T12	Geographical 374 378	Mars|Mars
+T13	Bacteria 431 443	S. americana|S._americana
+T14	Bacteria 561 572	spirochaete|spirochaete
+R1	Dependency dependent:T19 sentence:T2-BTID-60598 head:T18 label:conj
+R2	Dependency dependent:T17 sentence:T2-BTID-60598 head:T18 label:conj
+R3	Dependency dependent:T23 sentence:T3-BTID-60598 head:T24 label:det
+R4	Dependency dependent:T24 sentence:T3-BTID-60598 head:T22 label:xcomp
+R5	Dependency dependent:T21 sentence:T3-BTID-60598 head:T22 label:ncsubj
+R6	Dependency dependent:T34 sentence:T4-BTID-60598 head:T35 label:ncmod
+R7	Dependency dependent:T33 sentence:T4-BTID-60598 head:T35 label:ncmod
+R8	Dependency dependent:T32 sentence:T4-BTID-60598 head:T35 label:ncmod
+R9	Dependency dependent:T31 sentence:T4-BTID-60598 head:T35 label:det
+R10	Dependency dependent:T37 sentence:T4-BTID-60598 head:T38 label:ncmod
+R11	Dependency dependent:T40 sentence:T4-BTID-60598 head:T39 label:conj
+R12	Dependency dependent:T38 sentence:T4-BTID-60598 head:T39 label:conj
+R13	Dependency dependent:T40 sentence:T4-BTID-60598 head:T36 label:dobj
+R14	Dependency dependent:T38 sentence:T4-BTID-60598 head:T36 label:dobj
+R15	Dependency dependent:T36 sentence:T4-BTID-60598 head:T35 label:ncmod
+R16	Dependency dependent:T35 sentence:T4-BTID-60598 head:T30 label:dobj
+R17	Dependency dependent:T30 sentence:T4-BTID-60598 head:T29 label:ncmod
+R18	Dependency dependent:T28 sentence:T4-BTID-60598 head:T29 label:aux
+R19	Dependency dependent:T27 sentence:T4-BTID-60598 head:T29 label:aux
+R20	Dependency dependent:T26 sentence:T4-BTID-60598 head:T29 label:ncsubj
+R21	Dependency dependent:T48 sentence:T5-BTID-60598 head:T49 label:ncmod
+R22	Dependency dependent:T51 sentence:T5-BTID-60598 head:T52 label:ncmod
+R23	Dependency dependent:T52 sentence:T5-BTID-60598 head:T50 label:conj
+R24	Dependency dependent:T49 sentence:T5-BTID-60598 head:T50 label:conj
+R25	Dependency dependent:T52 sentence:T5-BTID-60598 head:T47 label:dobj
+R26	Dependency dependent:T49 sentence:T5-BTID-60598 head:T47 label:dobj
+R27	Dependency dependent:T47 sentence:T5-BTID-60598 head:T46 label:ncmod
+R28	Dependency dependent:T46 sentence:T5-BTID-60598 head:T45 label:dobj
+R29	Dependency dependent:T43 sentence:T5-BTID-60598 head:T45 label:aux
+R30	Dependency dependent:T44 sentence:T5-BTID-60598 head:T45 label:ncmod
+R31	Dependency dependent:T42 sentence:T5-BTID-60598 head:T45 label:ncsubj
+R32	Dependency dependent:T57 sentence:T6-BTID-60598 head:T58 label:ncmod
+R33	Dependency dependent:T56 sentence:T6-BTID-60598 head:T55 label:dobj
+R34	Dependency dependent:T54 sentence:T6-BTID-60598 head:T55 label:ncsubj
+R35	Dependency dependent:T64 sentence:T7-BTID-60598 head:T65 label:ncmod
+R36	Dependency dependent:T63 sentence:T7-BTID-60598 head:T65 label:det
+R37	Dependency dependent:T67 sentence:T7-BTID-60598 head:T68 label:ncmod
+R38	Dependency dependent:T68 sentence:T7-BTID-60598 head:T66 label:dobj
+R39	Dependency dependent:T66 sentence:T7-BTID-60598 head:T65 label:ncmod
+R40	Dependency dependent:T74 sentence:T7-BTID-60598 head:T73 label:dobj
+R41	Dependency dependent:T73 sentence:T7-BTID-60598 head:T72 label:ncmod
+R42	Dependency dependent:T72 sentence:T7-BTID-60598 head:T71 label:dobj
+R43	Dependency dependent:T71 sentence:T7-BTID-60598 head:T70 label:iobj
+R44	Dependency dependent:T70 sentence:T7-BTID-60598 head:T69 label:xcomp
+R45	Dependency dependent:T65 sentence:T7-BTID-60598 head:T69 label:ncsubj
+R46	Dependency dependent:T69 sentence:T7-BTID-60598 head:T61 label:ccomp
+R47	Dependency dependent:T77 sentence:T7-BTID-60598 head:T76 label:dobj
+R48	Dependency dependent:T84 sentence:T7-BTID-60598 head:T83 label:ncmod
+R49	Dependency dependent:T82 sentence:T7-BTID-60598 head:T83 label:ncsubj
+R50	Dependency dependent:T83 sentence:T7-BTID-60598 head:T80 label:ccomp
+R51	Dependency dependent:T79 sentence:T7-BTID-60598 head:T80 label:det
+R52	Dependency dependent:T80 sentence:T7-BTID-60598 head:T78 label:dobj
+R53	Dependency dependent:T78 sentence:T7-BTID-60598 head:T76 label:iobj
+R54	Dependency dependent:T76 sentence:T7-BTID-60598 head:T61 label:xmod
+R55	Dependency dependent:T60 sentence:T7-BTID-60598 head:T61 label:ncsubj
+R56	Dependency dependent:T89 sentence:T8-BTID-60598 head:T90 label:ncmod
+R57	Dependency dependent:T88 sentence:T8-BTID-60598 head:T90 label:det
+R58	Dependency dependent:T90 sentence:T8-BTID-60598 head:T87 label:xcomp
+R59	Dependency dependent:T95 sentence:T8-BTID-60598 head:T96 label:ncmod
+R60	Dependency dependent:T94 sentence:T8-BTID-60598 head:T96 label:ncmod
+R61	Dependency dependent:T93 sentence:T8-BTID-60598 head:T96 label:det
+R62	Dependency dependent:T104 sentence:T8-BTID-60598 head:T102 label:ncmod
+R63	Dependency dependent:T102 sentence:T8-BTID-60598 head:T101 label:dobj
+R64	Dependency dependent:T100 sentence:T8-BTID-60598 head:T101 label:ncmod
+R65	Dependency dependent:T101 sentence:T8-BTID-60598 head:T98 label:ncmod
+R66	Dependency dependent:T98 sentence:T8-BTID-60598 head:T97 label:dobj
+R67	Dependency dependent:T97 sentence:T8-BTID-60598 head:T96 label:ncmod
+R68	Dependency dependent:T96 sentence:T8-BTID-60598 head:T92 label:dobj
+R69	Dependency dependent:T92 sentence:T8-BTID-60598 head:T91 label:conj
+R70	Dependency dependent:T87 sentence:T8-BTID-60598 head:T91 label:conj
+R71	Dependency dependent:T86 sentence:T8-BTID-60598 head:T92 label:ncsubj
+R72	Dependency dependent:T86 sentence:T8-BTID-60598 head:T87 label:ncsubj
+R73	Dependency dependent:T109 sentence:T9-BTID-60598 head:T110 label:ncmod
+R74	Dependency dependent:T108 sentence:T9-BTID-60598 head:T110 label:det
+R75	Dependency dependent:T110 sentence:T9-BTID-60598 head:T107 label:dobj
+R76	Dependency dependent:T107 sentence:T9-BTID-60598 head:T106 label:ncmod
+R77	Dependency dependent:T119 sentence:T9-BTID-60598 head:T118 label:dobj
+R78	Dependency dependent:T118 sentence:T9-BTID-60598 head:T117 label:ncmod
+R79	Dependency dependent:T117 sentence:T9-BTID-60598 head:T116 label:dobj
+R80	Dependency dependent:T116 sentence:T9-BTID-60598 head:T115 label:iobj
+R81	Dependency dependent:T114 sentence:T9-BTID-60598 head:T115 label:ncmod
+R82	Dependency dependent:T115 sentence:T9-BTID-60598 head:T113 label:conj
+R83	Dependency dependent:T112 sentence:T9-BTID-60598 head:T113 label:conj
+R84	Dependency dependent:T121 sentence:T9-BTID-60598 head:T115 label:ncmod
+R85	Dependency dependent:T121 sentence:T9-BTID-60598 head:T112 label:ncmod
+R86	Dependency dependent:T115 sentence:T9-BTID-60598 head:T111 label:xmod
+R87	Dependency dependent:T112 sentence:T9-BTID-60598 head:T111 label:xmod
+R88	Dependency dependent:T124 sentence:T9-BTID-60598 head:T125 label:ncmod
+R89	Dependency dependent:T123 sentence:T9-BTID-60598 head:T124 label:dobj
+R90	Dependency dependent:T126 sentence:T9-BTID-60598 head:T111 label:xcomp
+R91	Dependency dependent:T106 sentence:T9-BTID-60598 head:T111 label:ncsubj
+R92	Localization Bacterium:T1 Localization:T4
+R93	Localization Bacterium:T1 Localization:T7
+R94	Localization Bacterium:T1 Localization:T8
+R95	Localization Bacterium:T1 Localization:T5
+R96	Localization Bacterium:T1 Localization:T3
+R97	Anaphora Anaphor:84-86 Ante:T2
+R98	Anaphora Anaphor:538-544 Ante:T13

@@ -1,0 +1,845 @@
+T1-BTID-50177	Sentence 0 27	Wigglesworthia glossinidia
+T2-BTID-50177	Sentence 27 157	Wigglesworthia glossinidia lives in the gut of the tsetse fly, which transmits the parasite that causes African sleeping sickness
+T3-BTID-50177	Sentence 157 274	Wigglesworthia glossinidia (endosymbiont of Glossina brevipalpis) is one of the smallest genomes yet to be sequenced.
+T4-BTID-50177	Sentence 275 387	The bacterium bears the name of the British entomologist who first described it, Sir Vincent Brian Wigglesworth.
+T5-BTID-50177	Sentence 388 468	Wigglesworthia glossinidia lives inside the gut of the blood-sucking tsetse fly.
+T6-BTID-50177	Sentence 469 569	The fly transmits a parasite called a trypanosome which causes the deadly African sleeping sickness.
+T7-BTID-50177	Sentence 570 805	The gram negative bacterium and fly live in symbiosis, The bacterium has co-evolved with its insect host over millions of years; this co-evolution has allowed the bacterium to streamline its genome, eliminating genes found in its host.
+T8-BTID-50177	Sentence 806 908	Wigglesworthia's genome still contains remnants of a free-living organism, such as genes for motility.
+T9-BTID-50177	Sentence 909 1038	Although scientists have never seen Wigglesworthia swim, they found genes that synthesise flagella-whip-like cellular propellers.
+T10-BTID-50177	Sentence 1039 1117	The flagella may help Wigglesworthia travel from adult tsetse flies to larvae.
+T11-BTID-50177	Sentence 1118 1240	The female tsetse fly fertilises its young in its uterus, and the bacteria are then transferred through the mother's milk.
+T12-BTID-50177	Sentence 1241 1344	One theory for flagella is that they may aid bacteria in locomotion to or invasion of the larval cells.
+T13-BTID-50177	Sentence 1345 1480	The genome also contains over 60 genes involved in the synthesis of vitamins-nutrients that the tsetse fly relies on for its fertility.
+T14-BTID-50177	Sentence 1481 1645	This finding confirms previous studies that have indicated that the fly depends on the bacteria to provide these vitamins not found in its restricted diet of blood.
+T15-BTID-50177	Sentence 1646 1709	Without the bacteria (and vitamins), the tsetse fly is sterile.
+T16-BTID-50177	Sentence 1710 1778	This sterility may someday be used to prevent the spread of disease.
+T17-BTID-50177	Sentence 1779 1924	By removing the bacteria from tsetse flies, scientists would stop the development of offspring-reducing fly populations and disease transmission.
+T18-BTID-50177	Sentence 1925 2131	Social and economic deterioration in southern Africa and the growing AIDS epidemic, which leaves people more susceptible to the trypanosome parasite, have led to a rise in sleeping sickness in recent years.
+T19-BTID-50177	Sentence 2132 2224	An estimated 500,000 people now have the disease; about 80 percent of them will die from it.
+T20-BTID-50177	Sentence 2225 2295	The same disease kills about 3 million head of livestock every year.
+T53	Word 0 26	Wigglesworthia glossinidia|Wigglesworthia_glossinidia|NN
+T54	Word 26 27	|_|.
+T55	Word 27 53	Wigglesworthia glossinidia|Wigglesworthia_glossinidia|NN
+T56	Word 54 59	lives|live|NNS
+T57	Word 60 62	in|in|IN
+T58	Word 63 66	the|the|DT
+T59	Word 67 70	gut|gut|NN
+T60	Word 71 73	of|of|IN
+T61	Word 74 77	the|the|DT
+T62	Word 78 84	tsetse|tsetse|NN
+T63	Word 85 88	fly|fly|NN
+T64	Word 88 89	,|,|,
+T65	Word 90 95	which|which|WDT
+T66	Word 96 105	transmits|transmit|VBZ
+T67	Word 106 109	the|the|DT
+T68	Word 110 118	parasite|parasite|NN
+T69	Word 119 123	that|that|WDT
+T70	Word 124 130	causes|cause|VBZ
+T71	Word 131 138	African|African|JJ
+T72	Word 139 147	sleeping|sleeping|NN
+T73	Word 148 156	sickness|sickness|NN
+T74	Word 156 157	|_|.
+T75	Word 157 183	Wigglesworthia glossinidia|Wigglesworthia_glossinidia|NN
+T76	Word 184 185	(|(|LRB
+T77	Word 185 197	endosymbiont|endosymbiont|NN
+T78	Word 198 200	of|of|IN
+T79	Word 201 209	Glossina|Glossina|NN
+T80	Word 210 221	brevipalpis|brevipalpis|NN
+T81	Word 221 222	)|)|RRB
+T82	Word 223 225	is|be|VBZ
+T83	Word 226 229	one|one|CD
+T84	Word 230 232	of|of|IN
+T85	Word 233 236	the|the|DT
+T86	Word 237 245	smallest|small|JJS
+T87	Word 246 253	genomes|genome|NNS
+T88	Word 254 257	yet|yet|RB
+T89	Word 258 260	to|to|TO
+T90	Word 261 263	be|be|VB
+T91	Word 264 273	sequenced|sequence|VBN
+T92	Word 273 274	.|.|.
+T93	Word 275 278	The|The|DT
+T94	Word 279 288	bacterium|bacterium|NN
+T95	Word 289 294	bears|bear|VBZ
+T96	Word 295 298	the|the|DT
+T97	Word 299 303	name|name|NN
+T98	Word 304 306	of|of|IN
+T99	Word 307 310	the|the|DT
+T100	Word 311 318	British|British|NN
+T101	Word 319 331	entomologist|entomologist|NN
+T102	Word 332 335	who|who|WP
+T103	Word 336 341	first|first|RB
+T104	Word 342 351	described|describe|VBD
+T105	Word 352 354	it|it|PRP
+T106	Word 354 355	,|,|,
+T107	Word 356 359	Sir|Sir|NNP
+T108	Word 360 367	Vincent|Vincent|NNP
+T109	Word 368 373	Brian|Brian|NNP
+T110	Word 374 386	Wigglesworth|Wigglesworth|NNP
+T111	Word 386 387	.|.|.
+T112	Word 388 414	Wigglesworthia glossinidia|Wigglesworthia_glossinidia|NN
+T113	Word 415 420	lives|live|NNS
+T114	Word 421 427	inside|inside|VBP
+T115	Word 428 431	the|the|DT
+T116	Word 432 435	gut|gut|NN
+T117	Word 436 438	of|of|IN
+T118	Word 439 442	the|the|DT
+T119	Word 443 456	blood-sucking|blood-sucking|JJ
+T120	Word 457 463	tsetse|tsetse|NN
+T121	Word 464 467	fly|fly|NN
+T122	Word 467 468	.|.|.
+T123	Word 469 472	The|The|DT
+T124	Word 473 476	fly|fly|NN
+T125	Word 477 486	transmits|transmit|VBZ
+T126	Word 487 488	a|a|DT
+T127	Word 489 497	parasite|parasite|NN
+T128	Word 498 504	called|call|VBN
+T129	Word 505 506	a|a|DT
+T130	Word 507 518	trypanosome|trypanosome|NN
+T131	Word 519 524	which|which|WDT
+T132	Word 525 531	causes|cause|VBZ
+T133	Word 532 535	the|the|DT
+T134	Word 536 542	deadly|deadly|RB
+T135	Word 543 550	African|African|JJ
+T136	Word 551 559	sleeping|sleeping|NN
+T137	Word 560 568	sickness|sickness|NN
+T138	Word 568 569	.|.|.
+T139	Word 570 573	The|The|DT
+T140	Word 574 578	gram|gram|JJ
+T141	Word 579 587	negative|negative|JJ
+T142	Word 588 597	bacterium|bacterium|NN
+T143	Word 598 601	and|and|CC
+T144	Word 602 605	fly|fly|RB
+T145	Word 606 610	live|live|JJ
+T146	Word 611 613	in|in|IN
+T147	Word 614 623	symbiosis|symbiosis|NN
+T148	Word 623 624	,|,|,
+T149	Word 625 628	The|The|DT
+T150	Word 629 638	bacterium|bacterium|NN
+T151	Word 639 642	has|have|VBZ
+T152	Word 643 653	co-evolved|co-evolve|VBN
+T153	Word 654 658	with|with|IN
+T154	Word 659 662	its|its|PRP$
+T155	Word 663 669	insect|insect|JJ
+T156	Word 670 674	host|host|NN
+T157	Word 675 679	over|over|IN
+T158	Word 680 688	millions|million|NNS
+T159	Word 689 691	of|of|IN
+T160	Word 692 697	years|year|NNS
+T161	Word 697 698	;|;|:
+T162	Word 699 703	this|this|DT
+T163	Word 704 716	co-evolution|co-evolution|NN
+T164	Word 717 720	has|have|VBZ
+T165	Word 721 728	allowed|allow|VBN
+T166	Word 729 732	the|the|DT
+T167	Word 733 742	bacterium|bacterium|NN
+T168	Word 743 745	to|to|TO
+T169	Word 746 756	streamline|streamline|VB
+T170	Word 757 760	its|its|PRP$
+T171	Word 761 767	genome|genome|NN
+T172	Word 767 768	,|,|,
+T173	Word 769 780	eliminating|eliminate|VBG
+T174	Word 781 786	genes|gene|NNS
+T175	Word 787 792	found|find|VBN
+T176	Word 793 795	in|in|IN
+T177	Word 796 799	its|its|PRP$
+T178	Word 800 804	host|host|NN
+T179	Word 804 805	.|.|.
+T180	Word 806 820	Wigglesworthia|Wigglesworthia|NN
+T181	Word 820 822	's|'s|POS
+T182	Word 823 829	genome|genome|NN
+T183	Word 830 835	still|still|RB
+T184	Word 836 844	contains|contain|VBZ
+T185	Word 845 853	remnants|remnant|NNS
+T186	Word 854 856	of|of|IN
+T187	Word 857 858	a|a|DT
+T188	Word 859 870	free-living|free-living|JJ
+T189	Word 871 879	organism|organism|NN
+T190	Word 879 880	,|,|,
+T191	Word 881 885	such|such|JJ
+T192	Word 886 888	as|as|IN
+T193	Word 889 894	genes|gene|NNS
+T194	Word 895 898	for|for|IN
+T195	Word 899 907	motility|motility|NN
+T196	Word 907 908	.|.|.
+T197	Word 909 917	Although|Although|IN
+T198	Word 918 928	scientists|scientist|NNS
+T199	Word 929 933	have|have|VBP
+T200	Word 934 939	never|never|RB
+T201	Word 940 944	seen|see|VBN
+T202	Word 945 959	Wigglesworthia|Wigglesworthia|NN
+T203	Word 960 964	swim|swim|NN
+T204	Word 964 965	,|,|,
+T205	Word 966 970	they|they|PRP
+T206	Word 971 976	found|find|VBD
+T207	Word 977 982	genes|gene|NNS
+T208	Word 983 987	that|that|WDT
+T209	Word 988 998	synthesise|synthesise|VBP
+T210	Word 999 1017	flagella-whip-like|flagella-whip-like|JJ
+T211	Word 1018 1026	cellular|cellular|JJ
+T212	Word 1027 1037	propellers|propeller|NNS
+T213	Word 1037 1038	.|.|.
+T214	Word 1039 1042	The|The|DT
+T215	Word 1043 1051	flagella|flagella|NNS
+T216	Word 1052 1055	may|may|MD
+T217	Word 1056 1060	help|help|VB
+T218	Word 1061 1075	Wigglesworthia|Wigglesworthia|NN
+T219	Word 1076 1082	travel|travel|NN
+T220	Word 1083 1087	from|from|IN
+T221	Word 1088 1093	adult|adult|JJ
+T222	Word 1094 1100	tsetse|tsetse|NN
+T223	Word 1101 1106	flies|fly|NNS
+T224	Word 1107 1109	to|to|TO
+T225	Word 1110 1116	larvae|larvae|NN
+T226	Word 1116 1117	.|.|.
+T227	Word 1118 1121	The|The|DT
+T228	Word 1122 1128	female|female|JJ
+T229	Word 1129 1135	tsetse|tsetse|NN
+T230	Word 1136 1139	fly|fly|RB
+T231	Word 1140 1150	fertilises|fertilise|VBZ
+T232	Word 1151 1154	its|its|PRP$
+T233	Word 1155 1160	young|young|JJ
+T234	Word 1161 1163	in|in|IN
+T235	Word 1164 1167	its|its|PRP$
+T236	Word 1168 1174	uterus|uterus|NN
+T237	Word 1174 1175	,|,|,
+T238	Word 1176 1179	and|and|CC
+T239	Word 1180 1183	the|the|DT
+T240	Word 1184 1192	bacteria|bacteria|NNS
+T241	Word 1193 1196	are|be|VBP
+T242	Word 1197 1201	then|then|RB
+T243	Word 1202 1213	transferred|transfer|VBN
+T244	Word 1214 1221	through|through|IN
+T245	Word 1222 1225	the|the|DT
+T246	Word 1226 1234	mother's|mother'|NN
+T247	Word 1235 1239	milk|milk|NN
+T248	Word 1239 1240	.|.|.
+T249	Word 1241 1244	One|One|CD
+T250	Word 1245 1251	theory|theory|NN
+T251	Word 1252 1255	for|for|IN
+T252	Word 1256 1264	flagella|flagella|NN
+T253	Word 1265 1267	is|be|VBZ
+T254	Word 1268 1272	that|that|IN
+T255	Word 1273 1277	they|they|PRP
+T256	Word 1278 1281	may|may|MD
+T257	Word 1282 1285	aid|aid|VB
+T258	Word 1286 1294	bacteria|bacteria|NNS
+T259	Word 1295 1297	in|in|IN
+T260	Word 1298 1308	locomotion|locomotion|NN
+T261	Word 1309 1311	to|to|TO
+T262	Word 1312 1314	or|or|CC
+T263	Word 1315 1323	invasion|invasion|NN
+T264	Word 1324 1326	of|of|IN
+T265	Word 1327 1330	the|the|DT
+T266	Word 1331 1337	larval|larval|JJ
+T267	Word 1338 1343	cells|cell|NNS
+T268	Word 1343 1344	.|.|.
+T269	Word 1345 1348	The|The|DT
+T270	Word 1349 1355	genome|genome|NN
+T271	Word 1356 1360	also|also|RB
+T272	Word 1361 1369	contains|contain|VBZ
+T273	Word 1370 1374	over|over|IN
+T274	Word 1375 1377	60|60|CD
+T275	Word 1378 1383	genes|gene|NNS
+T276	Word 1384 1392	involved|involve|VBN
+T277	Word 1393 1395	in|in|IN
+T278	Word 1396 1399	the|the|DT
+T279	Word 1400 1409	synthesis|synthesis|NN
+T280	Word 1410 1412	of|of|IN
+T281	Word 1413 1431	vitamins-nutrients|vitamins-nutrient|NNS
+T282	Word 1432 1436	that|that|IN
+T283	Word 1437 1440	the|the|DT
+T284	Word 1441 1447	tsetse|tsetse|NN
+T285	Word 1448 1451	fly|fly|NN
+T286	Word 1452 1458	relies|rely|VBZ
+T287	Word 1459 1461	on|on|IN
+T288	Word 1462 1465	for|for|IN
+T289	Word 1466 1469	its|its|PRP$
+T290	Word 1470 1479	fertility|fertility|NN
+T291	Word 1479 1480	.|.|.
+T292	Word 1481 1485	This|This|DT
+T293	Word 1486 1493	finding|finding|NN
+T294	Word 1494 1502	confirms|confirm|VBZ
+T295	Word 1503 1511	previous|previous|JJ
+T296	Word 1512 1519	studies|study|NNS
+T297	Word 1520 1524	that|that|WDT
+T298	Word 1525 1529	have|have|VBP
+T299	Word 1530 1539	indicated|indicate|VBN
+T300	Word 1540 1544	that|that|IN
+T301	Word 1545 1548	the|the|DT
+T302	Word 1549 1552	fly|fly|NN
+T303	Word 1553 1560	depends|depend|VBZ
+T304	Word 1561 1563	on|on|IN
+T305	Word 1564 1567	the|the|DT
+T306	Word 1568 1576	bacteria|bacteria|NNS
+T307	Word 1577 1579	to|to|TO
+T308	Word 1580 1587	provide|provide|VB
+T309	Word 1588 1593	these|these|DT
+T310	Word 1594 1602	vitamins|vitamin|NNS
+T311	Word 1603 1606	not|not|RB
+T312	Word 1607 1612	found|find|VBN
+T313	Word 1613 1615	in|in|IN
+T314	Word 1616 1619	its|its|PRP$
+T315	Word 1620 1630	restricted|restricted|JJ
+T316	Word 1631 1635	diet|diet|NN
+T317	Word 1636 1638	of|of|IN
+T318	Word 1639 1644	blood|blood|NN
+T319	Word 1644 1645	.|.|.
+T320	Word 1646 1653	Without|Without|IN
+T321	Word 1654 1657	the|the|DT
+T322	Word 1658 1666	bacteria|bacteria|NNS
+T323	Word 1667 1668	(|(|LRB
+T324	Word 1668 1671	and|and|CC
+T325	Word 1672 1680	vitamins|vitamin|NNS
+T326	Word 1680 1681	)|)|RRB
+T327	Word 1681 1682	,|,|,
+T328	Word 1683 1686	the|the|DT
+T329	Word 1687 1693	tsetse|tsetse|NN
+T330	Word 1694 1697	fly|fly|NN
+T331	Word 1698 1700	is|be|VBZ
+T332	Word 1701 1708	sterile|sterile|JJ
+T333	Word 1708 1709	.|.|.
+T334	Word 1710 1714	This|This|DT
+T335	Word 1715 1724	sterility|sterility|NN
+T336	Word 1725 1728	may|may|MD
+T337	Word 1729 1736	someday|someday|RB
+T338	Word 1737 1739	be|be|VB
+T339	Word 1740 1744	used|use|VBN
+T340	Word 1745 1747	to|to|TO
+T341	Word 1748 1755	prevent|prevent|VB
+T342	Word 1756 1759	the|the|DT
+T343	Word 1760 1766	spread|spread|NN
+T344	Word 1767 1769	of|of|IN
+T345	Word 1770 1777	disease|disease|NN
+T346	Word 1777 1778	.|.|.
+T347	Word 1779 1781	By|By|IN
+T348	Word 1782 1790	removing|remove|VBG
+T349	Word 1791 1794	the|the|DT
+T350	Word 1795 1803	bacteria|bacteria|NNS
+T351	Word 1804 1808	from|from|IN
+T352	Word 1809 1815	tsetse|tsetse|NN
+T353	Word 1816 1821	flies|fly|NNS
+T354	Word 1821 1822	,|,|,
+T355	Word 1823 1833	scientists|scientist|NNS
+T356	Word 1834 1839	would|would|MD
+T357	Word 1840 1844	stop|stop|VB
+T358	Word 1845 1848	the|the|DT
+T359	Word 1849 1860	development|development|NN
+T360	Word 1861 1863	of|of|IN
+T361	Word 1864 1882	offspring-reducing|offspring-reducing|JJ
+T362	Word 1883 1886	fly|fly|NN
+T363	Word 1887 1898	populations|population|NNS
+T364	Word 1899 1902	and|and|CC
+T365	Word 1903 1910	disease|disease|NN
+T366	Word 1911 1923	transmission|transmission|NN
+T367	Word 1923 1924	.|.|.
+T368	Word 1925 1931	Social|Social|JJ
+T369	Word 1932 1935	and|and|CC
+T370	Word 1936 1944	economic|economic|JJ
+T371	Word 1945 1958	deterioration|deterioration|NN
+T372	Word 1959 1961	in|in|IN
+T373	Word 1962 1970	southern|southern|NN
+T374	Word 1971 1977	Africa|Africa|NN
+T375	Word 1978 1981	and|and|CC
+T376	Word 1982 1985	the|the|DT
+T377	Word 1986 1993	growing|grow|VBG
+T378	Word 1994 1998	AIDS|AIDS|NN
+T379	Word 1999 2007	epidemic|epidemic|JJ
+T380	Word 2007 2008	,|,|,
+T381	Word 2009 2014	which|which|WDT
+T382	Word 2015 2021	leaves|leave|VBZ
+T383	Word 2022 2028	people|people|JJ
+T384	Word 2029 2033	more|more|RBR
+T385	Word 2034 2045	susceptible|susceptible|JJ
+T386	Word 2046 2048	to|to|TO
+T387	Word 2049 2052	the|the|DT
+T388	Word 2053 2064	trypanosome|trypanosome|NN
+T389	Word 2065 2073	parasite|parasite|NN
+T390	Word 2073 2074	,|,|,
+T391	Word 2075 2079	have|have|VBP
+T392	Word 2080 2083	led|lead|VBN
+T393	Word 2084 2086	to|to|TO
+T394	Word 2087 2088	a|a|DT
+T395	Word 2089 2093	rise|rise|NN
+T396	Word 2094 2096	in|in|IN
+T397	Word 2097 2105	sleeping|sleep|VBG
+T398	Word 2106 2114	sickness|sickness|NN
+T399	Word 2115 2117	in|in|IN
+T400	Word 2118 2124	recent|recent|JJ
+T401	Word 2125 2130	years|year|NNS
+T402	Word 2130 2131	.|.|.
+T403	Word 2132 2134	An|An|DT
+T404	Word 2135 2144	estimated|estimate|VBN
+T405	Word 2145 2148	500|500|CD
+T406	Word 2148 2149	,|,|,
+T407	Word 2149 2152	000|000|CD
+T408	Word 2153 2159	people|people|NN
+T409	Word 2160 2163	now|now|RB
+T410	Word 2164 2168	have|have|VBP
+T411	Word 2169 2172	the|the|DT
+T412	Word 2173 2180	disease|disease|NN
+T413	Word 2180 2181	;|;|:
+T414	Word 2182 2187	about|about|RB
+T415	Word 2188 2190	80|80|CD
+T416	Word 2191 2198	percent|percent|NN
+T417	Word 2199 2201	of|of|IN
+T418	Word 2202 2206	them|them|PRP
+T419	Word 2207 2211	will|will|MD
+T420	Word 2212 2215	die|die|VB
+T421	Word 2216 2220	from|from|IN
+T422	Word 2221 2223	it|it|PRP
+T423	Word 2223 2224	.|.|.
+T424	Word 2225 2228	The|The|DT
+T425	Word 2229 2233	same|same|JJ
+T426	Word 2234 2241	disease|disease|NN
+T427	Word 2242 2247	kills|kill|NNS
+T428	Word 2248 2253	about|about|IN
+T429	Word 2254 2255	3|3|CD
+T430	Word 2256 2263	million|million|NN
+T431	Word 2264 2268	head|head|NN
+T432	Word 2269 2271	of|of|IN
+T433	Word 2272 2281	livestock|livestock|NN
+T434	Word 2282 2287	every|every|NN
+T435	Word 2288 2292	year|year|NN
+T436	Word 2292 2293	.|.|.
+T437	Word 2293 2294	|_|.
+T438	Word 2294 2295	|_|.
+T1	Bacteria 0 26	Wigglesworthia glossinidia|Wigglesworthia_glossinidia
+T2	Bacteria 27 53	Wigglesworthia glossinidia|Wigglesworthia_glossinidia
+T3	Habitat 67 88	gut of the tsetse fly|gut of the tsetse fly
+T4	Habitat 78 88	tsetse fly|tsetse fly
+T5	Bacteria 157 183	Wigglesworthia glossinidia|Wigglesworthia_glossinidia
+T6	Habitat 201 221	Glossina brevipalpis|Glossina brevipalpis
+T7	Bacteria 279 288	bacterium|bacterium
+T8	Habitat 311 331	British entomologist|British entomologist
+T9	Geographical 311 318	British|British
+T10	Bacteria 388 414	Wigglesworthia glossinidia|Wigglesworthia_glossinidia
+T11	Habitat 432 467	gut of the blood-sucking tsetse fly|gut of the blood-sucking tsetse fly
+T12	Habitat 443 467	blood-sucking tsetse fly|blood-sucking tsetse fly
+T13	Habitat 443 448	blood|blood
+T14	Habitat 473 476	fly|fly
+T15	Habitat 507 518	trypanosome|trypanosome
+T16	Bacteria 588 597	bacterium|bacterium
+T17	Habitat 602 605	fly|fly
+T18	Bacteria 629 638	bacterium|bacterium
+T19	Habitat 663 669	insect|insect
+T20	Bacteria 733 742	bacterium|bacterium
+T21	Bacteria 806 820	Wigglesworthia|Wigglesworthia
+T22	Habitat 859 879	free-living organism|free-living organism
+T23	Habitat 918 928	scientists|scientists
+T24	Bacteria 945 959	Wigglesworthia|Wigglesworthia
+T25	Bacteria 1061 1075	Wigglesworthia|Wigglesworthia
+T26	Habitat 1088 1106	adult tsetse flies|adult tsetse flies
+T27	Habitat 1110 1116	larvae|larvae
+T28	Habitat 1122 1139	female tsetse fly|female tsetse fly
+T29	Habitat 1155 1160	young|young
+T30	Habitat 1168 1174	uterus|uterus
+T31	Bacteria 1184 1192	bacteria|bacteria
+T32	Habitat 1226 1239	mother's milk|mother's milk
+T33	Habitat 1226 1232	mother|mother
+T34	Bacteria 1286 1294	bacteria|bacteria
+T35	Habitat 1331 1343	larval cells|larval cells
+T36	Habitat 1331 1337	larval|larval
+T37	Habitat 1441 1451	tsetse fly|tsetse fly
+T38	Habitat 1549 1552	fly|fly
+T39	Bacteria 1568 1576	bacteria|bacteria
+T40	Habitat 1639 1644	blood|blood
+T41	Bacteria 1658 1666	bacteria|bacteria
+T42	Habitat 1687 1697	tsetse fly|tsetse fly
+T43	Bacteria 1795 1803	bacteria|bacteria
+T44	Habitat 1809 1821	tsetse flies|tsetse flies
+T45	Habitat 1823 1833	scientists|scientists
+T46	Habitat 1864 1873	offspring|offspring
+T47	Habitat 1883 1898	fly populations|fly populations
+T48	Geographical 1962 1977	southern Africa|southern Africa
+T49	Habitat 2022 2028	people|people
+T50	Habitat 2053 2064	trypanosome|trypanosome
+T51	Habitat 2153 2159	people|people
+T52	Habitat 2272 2281	livestock|livestock
+R1	Dependency dependent:T55 sentence:T2-BTID-50177 head:T56 label:ncmod
+R2	Dependency dependent:T58 sentence:T2-BTID-50177 head:T59 label:det
+R3	Dependency dependent:T62 sentence:T2-BTID-50177 head:T63 label:ncmod
+R4	Dependency dependent:T61 sentence:T2-BTID-50177 head:T63 label:det
+R5	Dependency dependent:T67 sentence:T2-BTID-50177 head:T68 label:det
+R6	Dependency dependent:T72 sentence:T2-BTID-50177 head:T73 label:ncmod
+R7	Dependency dependent:T71 sentence:T2-BTID-50177 head:T73 label:ncmod
+R8	Dependency dependent:T73 sentence:T2-BTID-50177 head:T70 label:dobj
+R9	Dependency dependent:T69 sentence:T2-BTID-50177 head:T70 label:ncsubj
+R10	Dependency dependent:T70 sentence:T2-BTID-50177 head:T68 label:cmod
+R11	Dependency dependent:T68 sentence:T2-BTID-50177 head:T66 label:dobj
+R12	Dependency dependent:T65 sentence:T2-BTID-50177 head:T66 label:ncsubj
+R13	Dependency dependent:T66 sentence:T2-BTID-50177 head:T63 label:cmod
+R14	Dependency dependent:T63 sentence:T2-BTID-50177 head:T60 label:dobj
+R15	Dependency dependent:T60 sentence:T2-BTID-50177 head:T59 label:ncmod
+R16	Dependency dependent:T59 sentence:T2-BTID-50177 head:T57 label:dobj
+R17	Dependency dependent:T57 sentence:T2-BTID-50177 head:T56 label:ncmod
+R18	Dependency dependent:T79 sentence:T3-BTID-50177 head:T80 label:ncmod
+R19	Dependency dependent:T80 sentence:T3-BTID-50177 head:T78 label:dobj
+R20	Dependency dependent:T78 sentence:T3-BTID-50177 head:T77 label:ncmod
+R21	Dependency dependent:T77 sentence:T3-BTID-50177 head:T76 label:dobj
+R22	Dependency dependent:T76 sentence:T3-BTID-50177 head:T75 label:ncmod
+R23	Dependency dependent:T86 sentence:T3-BTID-50177 head:T87 label:ncmod
+R24	Dependency dependent:T85 sentence:T3-BTID-50177 head:T87 label:det
+R25	Dependency dependent:T87 sentence:T3-BTID-50177 head:T84 label:dobj
+R26	Dependency dependent:T84 sentence:T3-BTID-50177 head:T83 label:ncmod
+R27	Dependency dependent:T83 sentence:T3-BTID-50177 head:T82 label:xcomp
+R28	Dependency dependent:T88 sentence:T3-BTID-50177 head:T82 label:ncmod
+R29	Dependency dependent:T90 sentence:T3-BTID-50177 head:T91 label:aux
+R30	Dependency dependent:T89 sentence:T3-BTID-50177 head:T82 label:xmod
+R31	Dependency dependent:T75 sentence:T3-BTID-50177 head:T82 label:ncsubj
+R32	Dependency dependent:T93 sentence:T4-BTID-50177 head:T94 label:det
+R33	Dependency dependent:T96 sentence:T4-BTID-50177 head:T97 label:det
+R34	Dependency dependent:T100 sentence:T4-BTID-50177 head:T101 label:ncmod
+R35	Dependency dependent:T99 sentence:T4-BTID-50177 head:T101 label:det
+R36	Dependency dependent:T105 sentence:T4-BTID-50177 head:T104 label:dobj
+R37	Dependency dependent:T103 sentence:T4-BTID-50177 head:T104 label:ncmod
+R38	Dependency dependent:T102 sentence:T4-BTID-50177 head:T104 label:ncsubj
+R39	Dependency dependent:T104 sentence:T4-BTID-50177 head:T101 label:cmod
+R40	Dependency dependent:T109 sentence:T4-BTID-50177 head:T110 label:ncmod
+R41	Dependency dependent:T108 sentence:T4-BTID-50177 head:T110 label:ncmod
+R42	Dependency dependent:T107 sentence:T4-BTID-50177 head:T110 label:ncmod
+R43	Dependency dependent:T110 sentence:T4-BTID-50177 head:T106 label:conj
+R44	Dependency dependent:T101 sentence:T4-BTID-50177 head:T106 label:conj
+R45	Dependency dependent:T110 sentence:T4-BTID-50177 head:T98 label:dobj
+R46	Dependency dependent:T101 sentence:T4-BTID-50177 head:T98 label:dobj
+R47	Dependency dependent:T98 sentence:T4-BTID-50177 head:T97 label:ncmod
+R48	Dependency dependent:T97 sentence:T4-BTID-50177 head:T95 label:dobj
+R49	Dependency dependent:T94 sentence:T4-BTID-50177 head:T95 label:ncsubj
+R50	Dependency dependent:T112 sentence:T5-BTID-50177 head:T113 label:ncmod
+R51	Dependency dependent:T115 sentence:T5-BTID-50177 head:T116 label:det
+R52	Dependency dependent:T120 sentence:T5-BTID-50177 head:T121 label:ncmod
+R53	Dependency dependent:T119 sentence:T5-BTID-50177 head:T121 label:ncmod
+R54	Dependency dependent:T118 sentence:T5-BTID-50177 head:T121 label:det
+R55	Dependency dependent:T121 sentence:T5-BTID-50177 head:T117 label:dobj
+R56	Dependency dependent:T117 sentence:T5-BTID-50177 head:T116 label:ncmod
+R57	Dependency dependent:T116 sentence:T5-BTID-50177 head:T114 label:dobj
+R58	Dependency dependent:T114 sentence:T5-BTID-50177 head:T113 label:ncmod
+R59	Dependency dependent:T123 sentence:T6-BTID-50177 head:T124 label:det
+R60	Dependency dependent:T126 sentence:T6-BTID-50177 head:T127 label:det
+R61	Dependency dependent:T129 sentence:T6-BTID-50177 head:T130 label:det
+R62	Dependency dependent:T134 sentence:T6-BTID-50177 head:T135 label:ncmod
+R63	Dependency dependent:T136 sentence:T6-BTID-50177 head:T137 label:ncmod
+R64	Dependency dependent:T135 sentence:T6-BTID-50177 head:T137 label:ncmod
+R65	Dependency dependent:T133 sentence:T6-BTID-50177 head:T137 label:det
+R66	Dependency dependent:T137 sentence:T6-BTID-50177 head:T132 label:dobj
+R67	Dependency dependent:T131 sentence:T6-BTID-50177 head:T132 label:ncsubj
+R68	Dependency dependent:T132 sentence:T6-BTID-50177 head:T130 label:cmod
+R69	Dependency dependent:T130 sentence:T6-BTID-50177 head:T128 label:obj2
+R70	Dependency dependent:T128 sentence:T6-BTID-50177 head:T127 label:xmod
+R71	Dependency dependent:T127 sentence:T6-BTID-50177 head:T128 label:ncsubj
+R72	Dependency dependent:T127 sentence:T6-BTID-50177 head:T125 label:dobj
+R73	Dependency dependent:T124 sentence:T6-BTID-50177 head:T125 label:ncsubj
+R74	Dependency dependent:T141 sentence:T7-BTID-50177 head:T142 label:ncmod
+R75	Dependency dependent:T140 sentence:T7-BTID-50177 head:T142 label:ncmod
+R76	Dependency dependent:T144 sentence:T7-BTID-50177 head:T143 label:conj
+R77	Dependency dependent:T142 sentence:T7-BTID-50177 head:T143 label:conj
+R78	Dependency dependent:T139 sentence:T7-BTID-50177 head:T144 label:det
+R79	Dependency dependent:T139 sentence:T7-BTID-50177 head:T142 label:det
+R80	Dependency dependent:T147 sentence:T7-BTID-50177 head:T146 label:dobj
+R81	Dependency dependent:T146 sentence:T7-BTID-50177 head:T145 label:iobj
+R82	Dependency dependent:T144 sentence:T7-BTID-50177 head:T145 label:ncsubj
+R83	Dependency dependent:T142 sentence:T7-BTID-50177 head:T145 label:ncsubj
+R84	Dependency dependent:T149 sentence:T7-BTID-50177 head:T150 label:det
+R85	Dependency dependent:T155 sentence:T7-BTID-50177 head:T156 label:ncmod
+R86	Dependency dependent:T154 sentence:T7-BTID-50177 head:T156 label:det
+R87	Dependency dependent:T156 sentence:T7-BTID-50177 head:T153 label:dobj
+R88	Dependency dependent:T160 sentence:T7-BTID-50177 head:T159 label:dobj
+R89	Dependency dependent:T159 sentence:T7-BTID-50177 head:T158 label:ncmod
+R90	Dependency dependent:T158 sentence:T7-BTID-50177 head:T157 label:dobj
+R91	Dependency dependent:T157 sentence:T7-BTID-50177 head:T152 label:ncmod
+R92	Dependency dependent:T151 sentence:T7-BTID-50177 head:T152 label:aux
+R93	Dependency dependent:T150 sentence:T7-BTID-50177 head:T152 label:ncsubj
+R94	Dependency dependent:T152 sentence:T7-BTID-50177 head:T148 label:conj
+R95	Dependency dependent:T145 sentence:T7-BTID-50177 head:T148 label:conj
+R96	Dependency dependent:T162 sentence:T7-BTID-50177 head:T163 label:det
+R97	Dependency dependent:T166 sentence:T7-BTID-50177 head:T167 label:det
+R98	Dependency dependent:T167 sentence:T7-BTID-50177 head:T165 label:dobj
+R99	Dependency dependent:T170 sentence:T7-BTID-50177 head:T171 label:det
+R100	Dependency dependent:T171 sentence:T7-BTID-50177 head:T169 label:dobj
+R101	Dependency dependent:T167 sentence:T7-BTID-50177 head:T169 label:ncsubj
+R102	Dependency dependent:T169 sentence:T7-BTID-50177 head:T165 label:xcomp
+R103	Dependency dependent:T177 sentence:T7-BTID-50177 head:T178 label:det
+R104	Dependency dependent:T178 sentence:T7-BTID-50177 head:T176 label:dobj
+R105	Dependency dependent:T176 sentence:T7-BTID-50177 head:T175 label:ncmod
+R106	Dependency dependent:T175 sentence:T7-BTID-50177 head:T174 label:xmod
+R107	Dependency dependent:T174 sentence:T7-BTID-50177 head:T175 label:ncsubj
+R108	Dependency dependent:T174 sentence:T7-BTID-50177 head:T173 label:dobj
+R109	Dependency dependent:T173 sentence:T7-BTID-50177 head:T165 label:xmod
+R110	Dependency dependent:T164 sentence:T7-BTID-50177 head:T165 label:aux
+R111	Dependency dependent:T163 sentence:T7-BTID-50177 head:T165 label:ncsubj
+R112	Dependency dependent:T165 sentence:T7-BTID-50177 head:T161 label:conj
+R113	Dependency dependent:T152 sentence:T7-BTID-50177 head:T161 label:conj
+R114	Dependency dependent:T145 sentence:T7-BTID-50177 head:T161 label:conj
+R115	Dependency dependent:T180 sentence:T8-BTID-50177 head:T182 label:ncmod
+R116	Dependency dependent:T188 sentence:T8-BTID-50177 head:T189 label:ncmod
+R117	Dependency dependent:T187 sentence:T8-BTID-50177 head:T189 label:det
+R118	Dependency dependent:T189 sentence:T8-BTID-50177 head:T186 label:dobj
+R119	Dependency dependent:T186 sentence:T8-BTID-50177 head:T185 label:ncmod
+R120	Dependency dependent:T195 sentence:T8-BTID-50177 head:T194 label:dobj
+R121	Dependency dependent:T194 sentence:T8-BTID-50177 head:T193 label:ncmod
+R122	Dependency dependent:T193 sentence:T8-BTID-50177 head:T192 label:dobj
+R123	Dependency dependent:T191 sentence:T8-BTID-50177 head:T192 label:ncmod
+R124	Dependency dependent:T192 sentence:T8-BTID-50177 head:T185 label:ncmod
+R125	Dependency dependent:T185 sentence:T8-BTID-50177 head:T184 label:dobj
+R126	Dependency dependent:T183 sentence:T8-BTID-50177 head:T184 label:ncmod
+R127	Dependency dependent:T182 sentence:T8-BTID-50177 head:T184 label:ncsubj
+R128	Dependency dependent:T202 sentence:T9-BTID-50177 head:T203 label:ncmod
+R129	Dependency dependent:T203 sentence:T9-BTID-50177 head:T201 label:dobj
+R130	Dependency dependent:T199 sentence:T9-BTID-50177 head:T201 label:aux
+R131	Dependency dependent:T200 sentence:T9-BTID-50177 head:T201 label:ncmod
+R132	Dependency dependent:T198 sentence:T9-BTID-50177 head:T201 label:ncsubj
+R133	Dependency dependent:T201 sentence:T9-BTID-50177 head:T197 label:ccomp
+R134	Dependency dependent:T211 sentence:T9-BTID-50177 head:T212 label:ncmod
+R135	Dependency dependent:T210 sentence:T9-BTID-50177 head:T212 label:ncmod
+R136	Dependency dependent:T212 sentence:T9-BTID-50177 head:T209 label:dobj
+R137	Dependency dependent:T208 sentence:T9-BTID-50177 head:T209 label:ncsubj
+R138	Dependency dependent:T209 sentence:T9-BTID-50177 head:T207 label:cmod
+R139	Dependency dependent:T207 sentence:T9-BTID-50177 head:T206 label:dobj
+R140	Dependency dependent:T205 sentence:T9-BTID-50177 head:T206 label:ncsubj
+R141	Dependency dependent:T197 sentence:T9-BTID-50177 head:T206 label:cmod
+R142	Dependency dependent:T214 sentence:T10-BTID-50177 head:T215 label:det
+R143	Dependency dependent:T218 sentence:T10-BTID-50177 head:T219 label:ncmod
+R144	Dependency dependent:T222 sentence:T10-BTID-50177 head:T223 label:ncmod
+R145	Dependency dependent:T221 sentence:T10-BTID-50177 head:T223 label:ncmod
+R146	Dependency dependent:T223 sentence:T10-BTID-50177 head:T220 label:dobj
+R147	Dependency dependent:T220 sentence:T10-BTID-50177 head:T219 label:ncmod
+R148	Dependency dependent:T219 sentence:T10-BTID-50177 head:T217 label:dobj
+R149	Dependency dependent:T225 sentence:T10-BTID-50177 head:T224 label:dobj
+R150	Dependency dependent:T224 sentence:T10-BTID-50177 head:T217 label:ncmod
+R151	Dependency dependent:T216 sentence:T10-BTID-50177 head:T217 label:aux
+R152	Dependency dependent:T215 sentence:T10-BTID-50177 head:T217 label:ncsubj
+R153	Dependency dependent:T229 sentence:T11-BTID-50177 head:T230 label:ncmod
+R154	Dependency dependent:T228 sentence:T11-BTID-50177 head:T230 label:ncmod
+R155	Dependency dependent:T227 sentence:T11-BTID-50177 head:T230 label:det
+R156	Dependency dependent:T232 sentence:T11-BTID-50177 head:T233 label:det
+R157	Dependency dependent:T235 sentence:T11-BTID-50177 head:T236 label:det
+R158	Dependency dependent:T236 sentence:T11-BTID-50177 head:T234 label:dobj
+R159	Dependency dependent:T234 sentence:T11-BTID-50177 head:T233 label:ncmod
+R160	Dependency dependent:T233 sentence:T11-BTID-50177 head:T231 label:dobj
+R161	Dependency dependent:T230 sentence:T11-BTID-50177 head:T231 label:ncsubj
+R162	Dependency dependent:T239 sentence:T11-BTID-50177 head:T240 label:det
+R163	Dependency dependent:T246 sentence:T11-BTID-50177 head:T247 label:ncmod
+R164	Dependency dependent:T245 sentence:T11-BTID-50177 head:T247 label:det
+R165	Dependency dependent:T247 sentence:T11-BTID-50177 head:T244 label:dobj
+R166	Dependency dependent:T244 sentence:T11-BTID-50177 head:T243 label:ncmod
+R167	Dependency dependent:T241 sentence:T11-BTID-50177 head:T243 label:aux
+R168	Dependency dependent:T242 sentence:T11-BTID-50177 head:T243 label:ncmod
+R169	Dependency dependent:T240 sentence:T11-BTID-50177 head:T243 label:ncsubj
+R170	Dependency dependent:T243 sentence:T11-BTID-50177 head:T238 label:conj
+R171	Dependency dependent:T231 sentence:T11-BTID-50177 head:T238 label:conj
+R172	Dependency dependent:T249 sentence:T12-BTID-50177 head:T250 label:ncmod
+R173	Dependency dependent:T252 sentence:T12-BTID-50177 head:T251 label:dobj
+R174	Dependency dependent:T251 sentence:T12-BTID-50177 head:T250 label:ncmod
+R175	Dependency dependent:T258 sentence:T12-BTID-50177 head:T257 label:dobj
+R176	Dependency dependent:T266 sentence:T12-BTID-50177 head:T267 label:ncmod
+R177	Dependency dependent:T265 sentence:T12-BTID-50177 head:T267 label:det
+R178	Dependency dependent:T267 sentence:T12-BTID-50177 head:T264 label:dobj
+R179	Dependency dependent:T264 sentence:T12-BTID-50177 head:T263 label:ncmod
+R180	Dependency dependent:T263 sentence:T12-BTID-50177 head:T261 label:dobj
+R181	Dependency dependent:T261 sentence:T12-BTID-50177 head:T260 label:ncmod
+R182	Dependency dependent:T260 sentence:T12-BTID-50177 head:T259 label:dobj
+R183	Dependency dependent:T259 sentence:T12-BTID-50177 head:T257 label:ncmod
+R184	Dependency dependent:T256 sentence:T12-BTID-50177 head:T257 label:aux
+R185	Dependency dependent:T255 sentence:T12-BTID-50177 head:T257 label:ncsubj
+R186	Dependency dependent:T257 sentence:T12-BTID-50177 head:T253 label:ccomp
+R187	Dependency dependent:T250 sentence:T12-BTID-50177 head:T253 label:ncsubj
+R188	Dependency dependent:T269 sentence:T13-BTID-50177 head:T270 label:det
+R189	Dependency dependent:T273 sentence:T13-BTID-50177 head:T274 label:ncmod
+R190	Dependency dependent:T274 sentence:T13-BTID-50177 head:T275 label:ncmod
+R191	Dependency dependent:T278 sentence:T13-BTID-50177 head:T279 label:det
+R192	Dependency dependent:T284 sentence:T13-BTID-50177 head:T285 label:ncmod
+R193	Dependency dependent:T283 sentence:T13-BTID-50177 head:T285 label:det
+R194	Dependency dependent:T289 sentence:T13-BTID-50177 head:T290 label:det
+R195	Dependency dependent:T290 sentence:T13-BTID-50177 head:T288 label:dobj
+R196	Dependency dependent:T287 sentence:T13-BTID-50177 head:T288 label:ncmod
+R197	Dependency dependent:T288 sentence:T13-BTID-50177 head:T286 label:iobj
+R198	Dependency dependent:T285 sentence:T13-BTID-50177 head:T286 label:ncsubj
+R199	Dependency dependent:T286 sentence:T13-BTID-50177 head:T281 label:ccomp
+R200	Dependency dependent:T281 sentence:T13-BTID-50177 head:T280 label:dobj
+R201	Dependency dependent:T280 sentence:T13-BTID-50177 head:T279 label:ncmod
+R202	Dependency dependent:T279 sentence:T13-BTID-50177 head:T277 label:dobj
+R203	Dependency dependent:T277 sentence:T13-BTID-50177 head:T276 label:iobj
+R204	Dependency dependent:T276 sentence:T13-BTID-50177 head:T275 label:xmod
+R205	Dependency dependent:T275 sentence:T13-BTID-50177 head:T276 label:ncsubj
+R206	Dependency dependent:T275 sentence:T13-BTID-50177 head:T272 label:dobj
+R207	Dependency dependent:T271 sentence:T13-BTID-50177 head:T272 label:ncmod
+R208	Dependency dependent:T270 sentence:T13-BTID-50177 head:T272 label:ncsubj
+R209	Dependency dependent:T292 sentence:T14-BTID-50177 head:T293 label:det
+R210	Dependency dependent:T295 sentence:T14-BTID-50177 head:T296 label:ncmod
+R211	Dependency dependent:T301 sentence:T14-BTID-50177 head:T302 label:det
+R212	Dependency dependent:T305 sentence:T14-BTID-50177 head:T306 label:det
+R213	Dependency dependent:T306 sentence:T14-BTID-50177 head:T304 label:dobj
+R214	Dependency dependent:T304 sentence:T14-BTID-50177 head:T303 label:iobj
+R215	Dependency dependent:T309 sentence:T14-BTID-50177 head:T310 label:det
+R216	Dependency dependent:T315 sentence:T14-BTID-50177 head:T316 label:ncmod
+R217	Dependency dependent:T314 sentence:T14-BTID-50177 head:T316 label:det
+R218	Dependency dependent:T318 sentence:T14-BTID-50177 head:T317 label:dobj
+R219	Dependency dependent:T317 sentence:T14-BTID-50177 head:T316 label:ncmod
+R220	Dependency dependent:T316 sentence:T14-BTID-50177 head:T313 label:dobj
+R221	Dependency dependent:T313 sentence:T14-BTID-50177 head:T312 label:ncmod
+R222	Dependency dependent:T311 sentence:T14-BTID-50177 head:T312 label:ncmod
+R223	Dependency dependent:T312 sentence:T14-BTID-50177 head:T310 label:xmod
+R224	Dependency dependent:T310 sentence:T14-BTID-50177 head:T312 label:ncsubj
+R225	Dependency dependent:T310 sentence:T14-BTID-50177 head:T308 label:dobj
+R226	Dependency dependent:T307 sentence:T14-BTID-50177 head:T303 label:xmod
+R227	Dependency dependent:T302 sentence:T14-BTID-50177 head:T303 label:ncsubj
+R228	Dependency dependent:T303 sentence:T14-BTID-50177 head:T299 label:ccomp
+R229	Dependency dependent:T298 sentence:T14-BTID-50177 head:T299 label:aux
+R230	Dependency dependent:T297 sentence:T14-BTID-50177 head:T299 label:ncsubj
+R231	Dependency dependent:T299 sentence:T14-BTID-50177 head:T296 label:cmod
+R232	Dependency dependent:T296 sentence:T14-BTID-50177 head:T294 label:dobj
+R233	Dependency dependent:T293 sentence:T14-BTID-50177 head:T294 label:ncsubj
+R234	Dependency dependent:T321 sentence:T15-BTID-50177 head:T322 label:det
+R235	Dependency dependent:T325 sentence:T15-BTID-50177 head:T323 label:dobj
+R236	Dependency dependent:T323 sentence:T15-BTID-50177 head:T322 label:ncmod
+R237	Dependency dependent:T322 sentence:T15-BTID-50177 head:T320 label:dobj
+R238	Dependency dependent:T329 sentence:T15-BTID-50177 head:T330 label:ncmod
+R239	Dependency dependent:T328 sentence:T15-BTID-50177 head:T330 label:det
+R240	Dependency dependent:T332 sentence:T15-BTID-50177 head:T331 label:xcomp
+R241	Dependency dependent:T330 sentence:T15-BTID-50177 head:T331 label:ncsubj
+R242	Dependency dependent:T320 sentence:T15-BTID-50177 head:T331 label:ncmod
+R243	Dependency dependent:T334 sentence:T16-BTID-50177 head:T335 label:det
+R244	Dependency dependent:T342 sentence:T16-BTID-50177 head:T343 label:det
+R245	Dependency dependent:T345 sentence:T16-BTID-50177 head:T344 label:dobj
+R246	Dependency dependent:T344 sentence:T16-BTID-50177 head:T343 label:ncmod
+R247	Dependency dependent:T343 sentence:T16-BTID-50177 head:T341 label:dobj
+R248	Dependency dependent:T341 sentence:T16-BTID-50177 head:T339 label:xcomp
+R249	Dependency dependent:T338 sentence:T16-BTID-50177 head:T339 label:aux
+R250	Dependency dependent:T336 sentence:T16-BTID-50177 head:T339 label:aux
+R251	Dependency dependent:T337 sentence:T16-BTID-50177 head:T339 label:ncmod
+R252	Dependency dependent:T335 sentence:T16-BTID-50177 head:T339 label:ncsubj
+R253	Dependency dependent:T335 sentence:T16-BTID-50177 head:T341 label:ncsubj
+R254	Dependency dependent:T349 sentence:T17-BTID-50177 head:T350 label:det
+R255	Dependency dependent:T350 sentence:T17-BTID-50177 head:T348 label:dobj
+R256	Dependency dependent:T352 sentence:T17-BTID-50177 head:T353 label:ncmod
+R257	Dependency dependent:T353 sentence:T17-BTID-50177 head:T351 label:dobj
+R258	Dependency dependent:T351 sentence:T17-BTID-50177 head:T348 label:ncmod
+R259	Dependency dependent:T348 sentence:T17-BTID-50177 head:T347 label:xcomp
+R260	Dependency dependent:T358 sentence:T17-BTID-50177 head:T359 label:det
+R261	Dependency dependent:T362 sentence:T17-BTID-50177 head:T363 label:ncmod
+R262	Dependency dependent:T361 sentence:T17-BTID-50177 head:T363 label:ncmod
+R263	Dependency dependent:T363 sentence:T17-BTID-50177 head:T360 label:dobj
+R264	Dependency dependent:T360 sentence:T17-BTID-50177 head:T359 label:ncmod
+R265	Dependency dependent:T365 sentence:T17-BTID-50177 head:T366 label:ncmod
+R266	Dependency dependent:T366 sentence:T17-BTID-50177 head:T364 label:conj
+R267	Dependency dependent:T359 sentence:T17-BTID-50177 head:T364 label:conj
+R268	Dependency dependent:T366 sentence:T17-BTID-50177 head:T357 label:dobj
+R269	Dependency dependent:T359 sentence:T17-BTID-50177 head:T357 label:dobj
+R270	Dependency dependent:T356 sentence:T17-BTID-50177 head:T357 label:aux
+R271	Dependency dependent:T355 sentence:T17-BTID-50177 head:T357 label:ncsubj
+R272	Dependency dependent:T347 sentence:T17-BTID-50177 head:T357 label:ncmod
+R273	Dependency dependent:T370 sentence:T18-BTID-50177 head:T369 label:conj
+R274	Dependency dependent:T368 sentence:T18-BTID-50177 head:T369 label:conj
+R275	Dependency dependent:T370 sentence:T18-BTID-50177 head:T371 label:ncmod
+R276	Dependency dependent:T368 sentence:T18-BTID-50177 head:T371 label:ncmod
+R277	Dependency dependent:T373 sentence:T18-BTID-50177 head:T374 label:ncmod
+R278	Dependency dependent:T374 sentence:T18-BTID-50177 head:T372 label:dobj
+R279	Dependency dependent:T372 sentence:T18-BTID-50177 head:T371 label:ncmod
+R280	Dependency dependent:T377 sentence:T18-BTID-50177 head:T378 label:ncmod
+R281	Dependency dependent:T376 sentence:T18-BTID-50177 head:T378 label:det
+R282	Dependency dependent:T384 sentence:T18-BTID-50177 head:T383 label:ncmod
+R283	Dependency dependent:T383 sentence:T18-BTID-50177 head:T382 label:dobj
+R284	Dependency dependent:T388 sentence:T18-BTID-50177 head:T389 label:ncmod
+R285	Dependency dependent:T387 sentence:T18-BTID-50177 head:T389 label:det
+R286	Dependency dependent:T389 sentence:T18-BTID-50177 head:T386 label:dobj
+R287	Dependency dependent:T386 sentence:T18-BTID-50177 head:T385 label:iobj
+R288	Dependency dependent:T385 sentence:T18-BTID-50177 head:T382 label:xcomp
+R289	Dependency dependent:T381 sentence:T18-BTID-50177 head:T382 label:ncsubj
+R290	Dependency dependent:T382 sentence:T18-BTID-50177 head:T378 label:cmod
+R291	Dependency dependent:T378 sentence:T18-BTID-50177 head:T375 label:conj
+R292	Dependency dependent:T371 sentence:T18-BTID-50177 head:T375 label:conj
+R293	Dependency dependent:T394 sentence:T18-BTID-50177 head:T395 label:det
+R294	Dependency dependent:T398 sentence:T18-BTID-50177 head:T397 label:dobj
+R295	Dependency dependent:T400 sentence:T18-BTID-50177 head:T401 label:ncmod
+R296	Dependency dependent:T401 sentence:T18-BTID-50177 head:T399 label:dobj
+R297	Dependency dependent:T399 sentence:T18-BTID-50177 head:T397 label:ncmod
+R298	Dependency dependent:T397 sentence:T18-BTID-50177 head:T396 label:xcomp
+R299	Dependency dependent:T396 sentence:T18-BTID-50177 head:T395 label:xmod
+R300	Dependency dependent:T395 sentence:T18-BTID-50177 head:T397 label:ncsubj
+R301	Dependency dependent:T395 sentence:T18-BTID-50177 head:T393 label:dobj
+R302	Dependency dependent:T391 sentence:T18-BTID-50177 head:T392 label:aux
+R303	Dependency dependent:T378 sentence:T18-BTID-50177 head:T392 label:ncsubj
+R304	Dependency dependent:T371 sentence:T18-BTID-50177 head:T392 label:ncsubj
+R305	Dependency dependent:T407 sentence:T19-BTID-50177 head:T408 label:ncmod
+R306	Dependency dependent:T405 sentence:T19-BTID-50177 head:T408 label:ncmod
+R307	Dependency dependent:T404 sentence:T19-BTID-50177 head:T408 label:ncmod
+R308	Dependency dependent:T403 sentence:T19-BTID-50177 head:T408 label:det
+R309	Dependency dependent:T411 sentence:T19-BTID-50177 head:T412 label:det
+R310	Dependency dependent:T414 sentence:T19-BTID-50177 head:T415 label:ncmod
+R311	Dependency dependent:T415 sentence:T19-BTID-50177 head:T416 label:ncmod
+R312	Dependency dependent:T418 sentence:T19-BTID-50177 head:T417 label:dobj
+R313	Dependency dependent:T417 sentence:T19-BTID-50177 head:T416 label:ncmod
+R314	Dependency dependent:T422 sentence:T19-BTID-50177 head:T421 label:dobj
+R315	Dependency dependent:T421 sentence:T19-BTID-50177 head:T420 label:iobj
+R316	Dependency dependent:T419 sentence:T19-BTID-50177 head:T420 label:aux
+R317	Dependency dependent:T416 sentence:T19-BTID-50177 head:T420 label:ncsubj
+R318	Dependency dependent:T420 sentence:T19-BTID-50177 head:T412 label:cmod
+R319	Dependency dependent:T412 sentence:T19-BTID-50177 head:T420 label:dobj
+R320	Dependency dependent:T412 sentence:T19-BTID-50177 head:T410 label:dobj
+R321	Dependency dependent:T409 sentence:T19-BTID-50177 head:T410 label:ncmod
+R322	Dependency dependent:T408 sentence:T19-BTID-50177 head:T410 label:ncsubj
+R323	Dependency dependent:T426 sentence:T20-BTID-50177 head:T427 label:ncmod
+R324	Dependency dependent:T425 sentence:T20-BTID-50177 head:T427 label:ncmod
+R325	Dependency dependent:T424 sentence:T20-BTID-50177 head:T427 label:det
+R326	Dependency dependent:T429 sentence:T20-BTID-50177 head:T430 label:ncmod
+R327	Dependency dependent:T430 sentence:T20-BTID-50177 head:T431 label:ncmod
+R328	Dependency dependent:T433 sentence:T20-BTID-50177 head:T434 label:ncmod
+R329	Dependency dependent:T434 sentence:T20-BTID-50177 head:T435 label:ncmod
+R330	Dependency dependent:T435 sentence:T20-BTID-50177 head:T432 label:dobj
+R331	Dependency dependent:T432 sentence:T20-BTID-50177 head:T431 label:ncmod
+R332	Dependency dependent:T431 sentence:T20-BTID-50177 head:T428 label:dobj
+R333	Dependency dependent:T428 sentence:T20-BTID-50177 head:T427 label:ncmod
+R334	Localization Bacterium:T1 Localization:T52
+R335	Localization Bacterium:T1 Localization:T48
+R336	Localization Bacterium:T1 Localization:T51
+R337	Localization Bacterium:T1 Localization:T4
+R338	Localization Bacterium:T1 Localization:T32
+R339	Localization Bacterium:T1 Localization:T28
+R340	Localization Bacterium:T1 Localization:T29
+R341	Localization Bacterium:T1 Localization:T19
+R342	Localization Bacterium:T1 Localization:T26
+R343	Localization Bacterium:T1 Localization:T3
+R344	Localization Bacterium:T1 Localization:T27
+R345	Localization Bacterium:T1 Localization:T4
+R346	PartOf Host:T51 Part:T40
+R347	PartOf Host:T27 Part:T35
+R348	PartOf Host:T52 Part:T40
+R349	PartOf Host:T28 Part:T30
+R350	PartOf Host:T28 Part:T32
+R351	PartOf Host:T4 Part:T3
+R352	PartOf Host:T12 Part:T11
+R353	Anaphora Anaphor:106-118 Ante:T2
+R354	Anaphora Anaphor:110-118 Ante:T2
+R355	Anaphora Anaphor:185-197 Ante:T5
+R356	Anaphora Anaphor:275-288 Ante:T5
+R357	Anaphora Anaphor:279-288 Ante:T5
+R358	Anaphora Anaphor:352-354 Ante:T5
+R359	Anaphora Anaphor:489-497 Ante:T10
+R360	Anaphora Anaphor:588-597 Ante:T10
+R361	Anaphora Anaphor:625-638 Ante:T10
+R362	Anaphora Anaphor:629-638 Ante:T10
+R363	Anaphora Anaphor:659-662 Ante:T10
+R364	Anaphora Anaphor:729-742 Ante:T10
+R365	Anaphora Anaphor:733-742 Ante:T10
+R366	Anaphora Anaphor:757-760 Ante:T10
+R367	Anaphora Anaphor:796-799 Ante:T10
+R368	Anaphora Anaphor:871-879 Ante:T21
+R369	Anaphora Anaphor:966-970 Ante:T24
+R370	Anaphora Anaphor:1151-1154 Ante:T25
+R371	Anaphora Anaphor:1164-1167 Ante:T25
+R372	Anaphora Anaphor:1180-1192 Ante:T25
+R373	Anaphora Anaphor:1184-1192 Ante:T25
+R374	Anaphora Anaphor:1273-1277 Ante:T25
+R375	Anaphora Anaphor:1286-1294 Ante:T25
+R376	Anaphora Anaphor:1466-1469 Ante:T25
+R377	Anaphora Anaphor:1564-1576 Ante:T5
+R378	Anaphora Anaphor:1568-1576 Ante:T5
+R379	Anaphora Anaphor:1616-1619 Ante:T5
+R380	Anaphora Anaphor:1654-1666 Ante:T5
+R381	Anaphora Anaphor:1658-1666 Ante:T5
+R382	Anaphora Anaphor:1791-1803 Ante:T5
+R383	Anaphora Anaphor:1795-1803 Ante:T5
+R384	Anaphora Anaphor:2065-2073 Ante:T5
+R385	Anaphora Anaphor:2169-2180 Ante:T5
+R386	Anaphora Anaphor:2202-2206 Ante:T5
+R387	Anaphora Anaphor:2221-2223 Ante:T5

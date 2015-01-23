@@ -1,0 +1,356 @@
+T1-BTID-10088	Sentence 0 25	Borrelia burgdorferi B31
+T2-BTID-10088	Sentence 25 37	Description
+T3-BTID-10088	Sentence 37 58	Borrelia burgdorferi.
+T4-BTID-10088	Sentence 59 227	This organism is the causative agent of Lyme disease, a multisystemic disease that is considered to be the most prevalent tick-born disease in North America and Europe.
+T5-BTID-10088	Sentence 228 286	This organism was isolated from Ixodes scapularis in 1982.
+T6-BTID-10088	Sentence 287 387	The bacterium is a microaerophilic spirochete that contains seven periplasmic flagella per cell end.
+T7-BTID-10088	Sentence 388 498	Motility is by rapid rotation around the long axis, flexation of the cell and locomotion along a helical path.
+T8-BTID-10088	Sentence 499 647	The most distinctive property is the presence of periplasmic flagella wound around the helical protoplasmic cylinder and encased in an outer sheath.
+T9-BTID-10088	Sentence 648 807	B. burgdorferi has an unusual genome, which includes a linear chromosome and numerous circular plasmids, in some cases containing up to 20 different plasmids.
+T10-BTID-10088	Sentence 807 819	Description
+T11-BTID-10088	Sentence 819 851	Borrelia burgdorferi strain B31.
+T12-BTID-10088	Sentence 852 1010	This is the type strain (ATCC 35210) for this organism and was derived by limited dilutional cloning from the original Lyme-disease tick isolate derived by A.
+T13-BTID-10088	Sentence 1011 1021	Barbour.
+T13	Word 0 24	Borrelia burgdorferi B31|Borrelia_burgdorferi_B31|NN
+T14	Word 24 25	|_|.
+T15	Word 25 36	Description|Description|NN
+T16	Word 36 37	|_|.
+T17	Word 37 57	Borrelia burgdorferi|Borrelia_burgdorferi|NN
+T18	Word 57 58	.|.|.
+T19	Word 59 63	This|This|DT
+T20	Word 64 72	organism|organism|NN
+T21	Word 73 75	is|be|VBZ
+T22	Word 76 79	the|the|DT
+T23	Word 80 89	causative|causative|JJ
+T24	Word 90 95	agent|agent|NN
+T25	Word 96 98	of|of|IN
+T26	Word 99 103	Lyme|Lyme|NN
+T27	Word 104 111	disease|disease|NN
+T28	Word 111 112	,|,|,
+T29	Word 113 114	a|a|DT
+T30	Word 115 128	multisystemic|multisystemic|JJ
+T31	Word 129 136	disease|disease|NN
+T32	Word 137 141	that|that|WDT
+T33	Word 142 144	is|be|VBZ
+T34	Word 145 155	considered|consider|VBN
+T35	Word 156 158	to|to|TO
+T36	Word 159 161	be|be|VB
+T37	Word 162 165	the|the|DT
+T38	Word 166 170	most|most|RBS
+T39	Word 171 180	prevalent|prevalent|JJ
+T40	Word 181 190	tick-born|tick-born|JJ
+T41	Word 191 198	disease|disease|NN
+T42	Word 199 201	in|in|IN
+T43	Word 202 207	North|North|NN
+T44	Word 208 215	America|America|NN
+T45	Word 216 219	and|and|CC
+T46	Word 220 226	Europe|Europe|NN
+T47	Word 226 227	.|.|.
+T48	Word 228 232	This|This|DT
+T49	Word 233 241	organism|organism|NN
+T50	Word 242 245	was|be|VBD
+T51	Word 246 254	isolated|isolate|VBN
+T52	Word 255 259	from|from|IN
+T53	Word 260 266	Ixodes|Ixodes|NNS
+T54	Word 267 277	scapularis|scapularis|VBN
+T55	Word 278 280	in|in|IN
+T56	Word 281 285	1982|1982|CD
+T57	Word 285 286	.|.|.
+T58	Word 287 290	The|The|DT
+T59	Word 291 300	bacterium|bacterium|NN
+T60	Word 301 303	is|be|VBZ
+T61	Word 304 305	a|a|DT
+T62	Word 306 321	microaerophilic|microaerophilic|JJ
+T63	Word 322 332	spirochete|spirochete|NN
+T64	Word 333 337	that|that|WDT
+T65	Word 338 346	contains|contain|VBZ
+T66	Word 347 352	seven|seven|CD
+T67	Word 353 364	periplasmic|periplasmic|JJ
+T68	Word 365 373	flagella|flagella|NNS
+T69	Word 374 377	per|per|IN
+T70	Word 378 382	cell|cell|NN
+T71	Word 383 386	end|end|NN
+T72	Word 386 387	.|.|.
+T73	Word 388 396	Motility|Motility|NN
+T74	Word 397 399	is|be|VBZ
+T75	Word 400 402	by|by|IN
+T76	Word 403 408	rapid|rapid|JJ
+T77	Word 409 417	rotation|rotation|NN
+T78	Word 418 424	around|around|IN
+T79	Word 425 428	the|the|DT
+T80	Word 429 433	long|long|JJ
+T81	Word 434 438	axis|axis|NN
+T82	Word 438 439	,|,|,
+T83	Word 440 449	flexation|flexation|NN
+T84	Word 450 452	of|of|IN
+T85	Word 453 456	the|the|DT
+T86	Word 457 461	cell|cell|NN
+T87	Word 462 465	and|and|CC
+T88	Word 466 476	locomotion|locomotion|NN
+T89	Word 477 482	along|along|IN
+T90	Word 483 484	a|a|DT
+T91	Word 485 492	helical|helical|JJ
+T92	Word 493 497	path|path|NN
+T93	Word 497 498	.|.|.
+T94	Word 499 502	The|The|DT
+T95	Word 503 507	most|most|RBS
+T96	Word 508 519	distinctive|distinctive|JJ
+T97	Word 520 528	property|property|NN
+T98	Word 529 531	is|be|VBZ
+T99	Word 532 535	the|the|DT
+T100	Word 536 544	presence|presence|NN
+T101	Word 545 547	of|of|IN
+T102	Word 548 559	periplasmic|periplasmic|JJ
+T103	Word 560 568	flagella|flagella|NN
+T104	Word 569 574	wound|wound|NN
+T105	Word 575 581	around|around|IN
+T106	Word 582 585	the|the|DT
+T107	Word 586 593	helical|helical|JJ
+T108	Word 594 606	protoplasmic|protoplasmic|JJ
+T109	Word 607 615	cylinder|cylinder|NN
+T110	Word 616 619	and|and|CC
+T111	Word 620 627	encased|encase|VBN
+T112	Word 628 630	in|in|IN
+T113	Word 631 633	an|an|DT
+T114	Word 634 639	outer|outer|JJ
+T115	Word 640 646	sheath|sheath|NN
+T116	Word 646 647	.|.|.
+T117	Word 648 662	B. burgdorferi|B._burgdorferi|NN
+T118	Word 663 666	has|have|VBZ
+T119	Word 667 669	an|an|DT
+T120	Word 670 677	unusual|unusual|JJ
+T121	Word 678 684	genome|genome|NN
+T122	Word 684 685	,|,|,
+T123	Word 686 691	which|which|WDT
+T124	Word 692 700	includes|include|VBZ
+T125	Word 701 702	a|a|DT
+T126	Word 703 709	linear|linear|JJ
+T127	Word 710 720	chromosome|chromosome|NN
+T128	Word 721 724	and|and|CC
+T129	Word 725 733	numerous|numerous|JJ
+T130	Word 734 742	circular|circular|JJ
+T131	Word 743 751	plasmids|plasmid|NNS
+T132	Word 751 752	,|,|,
+T133	Word 753 755	in|in|IN
+T134	Word 756 760	some|some|DT
+T135	Word 761 766	cases|case|NNS
+T136	Word 767 777	containing|contain|VBG
+T137	Word 778 780	up|up|RB
+T138	Word 781 783	to|to|TO
+T139	Word 784 786	20|20|CD
+T140	Word 787 796	different|different|JJ
+T141	Word 797 805	plasmids|plasmid|NNS
+T142	Word 805 806	.|.|.
+T143	Word 806 807	|_|.
+T144	Word 807 818	Description|Description|NN
+T145	Word 818 819	|_|.
+T146	Word 819 850	Borrelia burgdorferi strain B31|Borrelia_burgdorferi_strain_B31|NN
+T147	Word 850 851	.|.|.
+T148	Word 852 856	This|This|DT
+T149	Word 857 859	is|be|VBZ
+T150	Word 860 863	the|the|DT
+T151	Word 864 868	type|type|NN
+T152	Word 869 875	strain|strain|NN
+T153	Word 876 877	(|(|LRB
+T154	Word 877 887	ATCC 35210|ATCC_35210|NN
+T155	Word 887 888	)|)|RRB
+T156	Word 889 892	for|for|IN
+T157	Word 893 897	this|this|DT
+T158	Word 898 906	organism|organism|NN
+T159	Word 907 910	and|and|CC
+T160	Word 911 914	was|be|VBD
+T161	Word 915 922	derived|derive|VBN
+T162	Word 923 925	by|by|IN
+T163	Word 926 933	limited|limited|JJ
+T164	Word 934 944	dilutional|dilutional|JJ
+T165	Word 945 952	cloning|cloning|NN
+T166	Word 953 957	from|from|IN
+T167	Word 958 961	the|the|DT
+T168	Word 962 970	original|original|JJ
+T169	Word 971 983	Lyme-disease|Lyme-disease|NN
+T170	Word 984 988	tick|tick|NN
+T171	Word 989 996	isolate|isolate|NN
+T172	Word 997 1004	derived|derive|VBN
+T173	Word 1005 1007	by|by|IN
+T174	Word 1008 1009	A|A|NN
+T175	Word 1009 1010	.|.|.
+T176	Word 1011 1018	Barbour|Barbour|NN
+T177	Word 1018 1019	.|.|.
+T178	Word 1019 1020	|_|.
+T179	Word 1020 1021	|_|.
+T1	Bacteria 0 24	Borrelia burgdorferi B31|Borrelia_burgdorferi_B31
+T2	Bacteria 37 57	Borrelia burgdorferi|Borrelia_burgdorferi
+T3	Habitat 181 185	tick|tick
+T4	Geographical 202 215	North America|North America
+T5	Geographical 220 226	Europe|Europe
+T6	Habitat 260 277	Ixodes scapularis|Ixodes scapularis
+T7	Bacteria 291 300	bacterium|bacterium
+T8	Bacteria 322 332	spirochete|spirochete
+T9	Bacteria 648 662	B. burgdorferi|B._burgdorferi
+T10	Bacteria 819 850	Borrelia burgdorferi strain B31|Borrelia_burgdorferi_strain_B31
+T11	Bacteria 877 887	ATCC 35210|ATCC_35210
+T12	Habitat 984 988	tick|tick
+R1	Dependency dependent:T19 sentence:T4-BTID-10088 head:T20 label:det
+R2	Dependency dependent:T23 sentence:T4-BTID-10088 head:T24 label:ncmod
+R3	Dependency dependent:T22 sentence:T4-BTID-10088 head:T24 label:det
+R4	Dependency dependent:T26 sentence:T4-BTID-10088 head:T27 label:ncmod
+R5	Dependency dependent:T30 sentence:T4-BTID-10088 head:T31 label:ncmod
+R6	Dependency dependent:T29 sentence:T4-BTID-10088 head:T31 label:det
+R7	Dependency dependent:T38 sentence:T4-BTID-10088 head:T39 label:ncmod
+R8	Dependency dependent:T40 sentence:T4-BTID-10088 head:T41 label:ncmod
+R9	Dependency dependent:T39 sentence:T4-BTID-10088 head:T41 label:ncmod
+R10	Dependency dependent:T37 sentence:T4-BTID-10088 head:T41 label:det
+R11	Dependency dependent:T43 sentence:T4-BTID-10088 head:T44 label:ncmod
+R12	Dependency dependent:T44 sentence:T4-BTID-10088 head:T42 label:dobj
+R13	Dependency dependent:T42 sentence:T4-BTID-10088 head:T41 label:ncmod
+R14	Dependency dependent:T41 sentence:T4-BTID-10088 head:T36 label:xcomp
+R15	Dependency dependent:T36 sentence:T4-BTID-10088 head:T34 label:xcomp
+R16	Dependency dependent:T33 sentence:T4-BTID-10088 head:T34 label:aux
+R17	Dependency dependent:T32 sentence:T4-BTID-10088 head:T34 label:ncsubj
+R18	Dependency dependent:T32 sentence:T4-BTID-10088 head:T36 label:ncsubj
+R19	Dependency dependent:T34 sentence:T4-BTID-10088 head:T31 label:cmod
+R20	Dependency dependent:T46 sentence:T4-BTID-10088 head:T45 label:conj
+R21	Dependency dependent:T31 sentence:T4-BTID-10088 head:T45 label:conj
+R22	Dependency dependent:T46 sentence:T4-BTID-10088 head:T28 label:conj
+R23	Dependency dependent:T31 sentence:T4-BTID-10088 head:T28 label:conj
+R24	Dependency dependent:T27 sentence:T4-BTID-10088 head:T28 label:conj
+R25	Dependency dependent:T46 sentence:T4-BTID-10088 head:T25 label:dobj
+R26	Dependency dependent:T31 sentence:T4-BTID-10088 head:T25 label:dobj
+R27	Dependency dependent:T27 sentence:T4-BTID-10088 head:T25 label:dobj
+R28	Dependency dependent:T25 sentence:T4-BTID-10088 head:T24 label:ncmod
+R29	Dependency dependent:T24 sentence:T4-BTID-10088 head:T21 label:xcomp
+R30	Dependency dependent:T20 sentence:T4-BTID-10088 head:T21 label:ncsubj
+R31	Dependency dependent:T48 sentence:T5-BTID-10088 head:T49 label:det
+R32	Dependency dependent:T56 sentence:T5-BTID-10088 head:T55 label:dobj
+R33	Dependency dependent:T55 sentence:T5-BTID-10088 head:T54 label:ncmod
+R34	Dependency dependent:T54 sentence:T5-BTID-10088 head:T53 label:xmod
+R35	Dependency dependent:T53 sentence:T5-BTID-10088 head:T54 label:ncsubj
+R36	Dependency dependent:T53 sentence:T5-BTID-10088 head:T52 label:dobj
+R37	Dependency dependent:T52 sentence:T5-BTID-10088 head:T51 label:iobj
+R38	Dependency dependent:T50 sentence:T5-BTID-10088 head:T51 label:aux
+R39	Dependency dependent:T49 sentence:T5-BTID-10088 head:T51 label:ncsubj
+R40	Dependency dependent:T58 sentence:T6-BTID-10088 head:T59 label:det
+R41	Dependency dependent:T62 sentence:T6-BTID-10088 head:T63 label:ncmod
+R42	Dependency dependent:T61 sentence:T6-BTID-10088 head:T63 label:det
+R43	Dependency dependent:T67 sentence:T6-BTID-10088 head:T68 label:ncmod
+R44	Dependency dependent:T66 sentence:T6-BTID-10088 head:T68 label:ncmod
+R45	Dependency dependent:T70 sentence:T6-BTID-10088 head:T71 label:ncmod
+R46	Dependency dependent:T71 sentence:T6-BTID-10088 head:T69 label:dobj
+R47	Dependency dependent:T69 sentence:T6-BTID-10088 head:T68 label:ncmod
+R48	Dependency dependent:T68 sentence:T6-BTID-10088 head:T65 label:dobj
+R49	Dependency dependent:T64 sentence:T6-BTID-10088 head:T65 label:ncsubj
+R50	Dependency dependent:T65 sentence:T6-BTID-10088 head:T63 label:cmod
+R51	Dependency dependent:T63 sentence:T6-BTID-10088 head:T60 label:xcomp
+R52	Dependency dependent:T59 sentence:T6-BTID-10088 head:T60 label:ncsubj
+R53	Dependency dependent:T76 sentence:T7-BTID-10088 head:T77 label:ncmod
+R54	Dependency dependent:T80 sentence:T7-BTID-10088 head:T81 label:ncmod
+R55	Dependency dependent:T79 sentence:T7-BTID-10088 head:T81 label:det
+R56	Dependency dependent:T81 sentence:T7-BTID-10088 head:T78 label:dobj
+R57	Dependency dependent:T78 sentence:T7-BTID-10088 head:T77 label:ncmod
+R58	Dependency dependent:T85 sentence:T7-BTID-10088 head:T86 label:det
+R59	Dependency dependent:T86 sentence:T7-BTID-10088 head:T84 label:dobj
+R60	Dependency dependent:T84 sentence:T7-BTID-10088 head:T83 label:ncmod
+R61	Dependency dependent:T88 sentence:T7-BTID-10088 head:T87 label:conj
+R62	Dependency dependent:T83 sentence:T7-BTID-10088 head:T87 label:conj
+R63	Dependency dependent:T91 sentence:T7-BTID-10088 head:T92 label:ncmod
+R64	Dependency dependent:T90 sentence:T7-BTID-10088 head:T92 label:det
+R65	Dependency dependent:T92 sentence:T7-BTID-10088 head:T89 label:dobj
+R66	Dependency dependent:T89 sentence:T7-BTID-10088 head:T88 label:ncmod
+R67	Dependency dependent:T89 sentence:T7-BTID-10088 head:T83 label:ncmod
+R68	Dependency dependent:T88 sentence:T7-BTID-10088 head:T82 label:conj
+R69	Dependency dependent:T83 sentence:T7-BTID-10088 head:T82 label:conj
+R70	Dependency dependent:T77 sentence:T7-BTID-10088 head:T82 label:conj
+R71	Dependency dependent:T88 sentence:T7-BTID-10088 head:T75 label:dobj
+R72	Dependency dependent:T83 sentence:T7-BTID-10088 head:T75 label:dobj
+R73	Dependency dependent:T77 sentence:T7-BTID-10088 head:T75 label:dobj
+R74	Dependency dependent:T75 sentence:T7-BTID-10088 head:T74 label:iobj
+R75	Dependency dependent:T73 sentence:T7-BTID-10088 head:T74 label:ncsubj
+R76	Dependency dependent:T95 sentence:T8-BTID-10088 head:T96 label:ncmod
+R77	Dependency dependent:T96 sentence:T8-BTID-10088 head:T97 label:ncmod
+R78	Dependency dependent:T94 sentence:T8-BTID-10088 head:T97 label:det
+R79	Dependency dependent:T99 sentence:T8-BTID-10088 head:T100 label:det
+R80	Dependency dependent:T103 sentence:T8-BTID-10088 head:T104 label:ncmod
+R81	Dependency dependent:T102 sentence:T8-BTID-10088 head:T104 label:ncmod
+R82	Dependency dependent:T104 sentence:T8-BTID-10088 head:T101 label:dobj
+R83	Dependency dependent:T101 sentence:T8-BTID-10088 head:T100 label:ncmod
+R84	Dependency dependent:T108 sentence:T8-BTID-10088 head:T109 label:ncmod
+R85	Dependency dependent:T107 sentence:T8-BTID-10088 head:T109 label:ncmod
+R86	Dependency dependent:T106 sentence:T8-BTID-10088 head:T109 label:det
+R87	Dependency dependent:T109 sentence:T8-BTID-10088 head:T105 label:dobj
+R88	Dependency dependent:T114 sentence:T8-BTID-10088 head:T115 label:ncmod
+R89	Dependency dependent:T113 sentence:T8-BTID-10088 head:T115 label:det
+R90	Dependency dependent:T115 sentence:T8-BTID-10088 head:T112 label:dobj
+R91	Dependency dependent:T112 sentence:T8-BTID-10088 head:T111 label:ncmod
+R92	Dependency dependent:T111 sentence:T8-BTID-10088 head:T110 label:conj
+R93	Dependency dependent:T105 sentence:T8-BTID-10088 head:T110 label:conj
+R94	Dependency dependent:T111 sentence:T8-BTID-10088 head:T100 label:xmod
+R95	Dependency dependent:T100 sentence:T8-BTID-10088 head:T111 label:ncsubj
+R96	Dependency dependent:T105 sentence:T8-BTID-10088 head:T100 label:ncmod
+R97	Dependency dependent:T100 sentence:T8-BTID-10088 head:T98 label:xcomp
+R98	Dependency dependent:T97 sentence:T8-BTID-10088 head:T98 label:ncsubj
+R99	Dependency dependent:T120 sentence:T9-BTID-10088 head:T121 label:ncmod
+R100	Dependency dependent:T119 sentence:T9-BTID-10088 head:T121 label:det
+R101	Dependency dependent:T126 sentence:T9-BTID-10088 head:T127 label:ncmod
+R102	Dependency dependent:T125 sentence:T9-BTID-10088 head:T127 label:det
+R103	Dependency dependent:T130 sentence:T9-BTID-10088 head:T131 label:ncmod
+R104	Dependency dependent:T129 sentence:T9-BTID-10088 head:T131 label:ncmod
+R105	Dependency dependent:T134 sentence:T9-BTID-10088 head:T135 label:det
+R106	Dependency dependent:T135 sentence:T9-BTID-10088 head:T133 label:dobj
+R107	Dependency dependent:T138 sentence:T9-BTID-10088 head:T139 label:ncmod
+R108	Dependency dependent:T137 sentence:T9-BTID-10088 head:T139 label:ncmod
+R109	Dependency dependent:T140 sentence:T9-BTID-10088 head:T141 label:ncmod
+R110	Dependency dependent:T139 sentence:T9-BTID-10088 head:T141 label:ncmod
+R111	Dependency dependent:T141 sentence:T9-BTID-10088 head:T136 label:dobj
+R112	Dependency dependent:T133 sentence:T9-BTID-10088 head:T136 label:ncmod
+R113	Dependency dependent:T136 sentence:T9-BTID-10088 head:T131 label:xmod
+R114	Dependency dependent:T131 sentence:T9-BTID-10088 head:T136 label:ncsubj
+R115	Dependency dependent:T131 sentence:T9-BTID-10088 head:T128 label:conj
+R116	Dependency dependent:T127 sentence:T9-BTID-10088 head:T128 label:conj
+R117	Dependency dependent:T131 sentence:T9-BTID-10088 head:T124 label:dobj
+R118	Dependency dependent:T127 sentence:T9-BTID-10088 head:T124 label:dobj
+R119	Dependency dependent:T123 sentence:T9-BTID-10088 head:T124 label:ncsubj
+R120	Dependency dependent:T124 sentence:T9-BTID-10088 head:T121 label:cmod
+R121	Dependency dependent:T121 sentence:T9-BTID-10088 head:T118 label:dobj
+R122	Dependency dependent:T117 sentence:T9-BTID-10088 head:T118 label:ncsubj
+R123	Dependency dependent:T151 sentence:T12-BTID-10088 head:T152 label:ncmod
+R124	Dependency dependent:T150 sentence:T12-BTID-10088 head:T152 label:det
+R125	Dependency dependent:T154 sentence:T12-BTID-10088 head:T153 label:dobj
+R126	Dependency dependent:T153 sentence:T12-BTID-10088 head:T152 label:ncmod
+R127	Dependency dependent:T157 sentence:T12-BTID-10088 head:T158 label:det
+R128	Dependency dependent:T158 sentence:T12-BTID-10088 head:T156 label:dobj
+R129	Dependency dependent:T156 sentence:T12-BTID-10088 head:T152 label:ncmod
+R130	Dependency dependent:T152 sentence:T12-BTID-10088 head:T149 label:xcomp
+R131	Dependency dependent:T164 sentence:T12-BTID-10088 head:T165 label:ncmod
+R132	Dependency dependent:T163 sentence:T12-BTID-10088 head:T165 label:ncmod
+R133	Dependency dependent:T165 sentence:T12-BTID-10088 head:T162 label:dobj
+R134	Dependency dependent:T162 sentence:T12-BTID-10088 head:T161 label:ncmod
+R135	Dependency dependent:T170 sentence:T12-BTID-10088 head:T171 label:ncmod
+R136	Dependency dependent:T169 sentence:T12-BTID-10088 head:T171 label:ncmod
+R137	Dependency dependent:T168 sentence:T12-BTID-10088 head:T171 label:ncmod
+R138	Dependency dependent:T167 sentence:T12-BTID-10088 head:T171 label:det
+R139	Dependency dependent:T174 sentence:T12-BTID-10088 head:T173 label:dobj
+R140	Dependency dependent:T173 sentence:T12-BTID-10088 head:T172 label:ncmod
+R141	Dependency dependent:T172 sentence:T12-BTID-10088 head:T171 label:xmod
+R142	Dependency dependent:T171 sentence:T12-BTID-10088 head:T172 label:ncsubj
+R143	Dependency dependent:T171 sentence:T12-BTID-10088 head:T166 label:dobj
+R144	Dependency dependent:T166 sentence:T12-BTID-10088 head:T161 label:iobj
+R145	Dependency dependent:T160 sentence:T12-BTID-10088 head:T161 label:aux
+R146	Dependency dependent:T161 sentence:T12-BTID-10088 head:T159 label:conj
+R147	Dependency dependent:T149 sentence:T12-BTID-10088 head:T159 label:conj
+R148	Dependency dependent:T148 sentence:T12-BTID-10088 head:T161 label:ncsubj
+R149	Dependency dependent:T148 sentence:T12-BTID-10088 head:T149 label:ncsubj
+R150	Localization Bacterium:T2 Localization:T4
+R151	Localization Bacterium:T2 Localization:T5
+R152	Localization Bacterium:T2 Localization:T3
+R153	Localization Bacterium:T2 Localization:T6
+R154	Anaphora Anaphor:59-72 Ante:T2
+R155	Anaphora Anaphor:64-72 Ante:T2
+R156	Anaphora Anaphor:80-95 Ante:T2
+R157	Anaphora Anaphor:228-241 Ante:T2
+R158	Anaphora Anaphor:233-241 Ante:T2
+R159	Anaphora Anaphor:287-300 Ante:T2
+R160	Anaphora Anaphor:291-300 Ante:T2
+R161	Anaphora Anaphor:864-875 Ante:T10
+R162	Anaphora Anaphor:869-875 Ante:T10
+R163	Anaphora Anaphor:893-906 Ante:T11
+R164	Anaphora Anaphor:898-906 Ante:T11

@@ -1,0 +1,195 @@
+T1-BTID-60596	Sentence 0 10	Spirillum
+T2-BTID-60596	Sentence 10 39	Description and Significance
+T3-BTID-60596	Sentence 39 151	Spirillum bacteria are thought to have been first described by van Leeuwenhoek in the 1670s and later by Muller.
+T4-BTID-60596	Sentence 152 250	S. volutans is a large bacterium as well as an obligate microaerophile with a helical structure.
+T5-BTID-60596	Sentence 250 258	Ecology
+T6-BTID-60596	Sentence 258 387	S. volutans has been found in the water of a cooling tower of a sugar-beet refinery in England and from water of a polluted pond.
+T7-BTID-60596	Sentence 388 469	It is thought that the bacterium can be found in many bodies of stagnant water.
+T16	Word 0 9	Spirillum|Spirillum|NN
+T17	Word 9 10	|_|.
+T18	Word 10 21	Description|Description|NN
+T19	Word 22 25	and|and|CC
+T20	Word 26 38	Significance|Significance|NN
+T21	Word 38 39	|_|.
+T22	Word 39 48	Spirillum|Spirillum|NN
+T23	Word 49 57	bacteria|bacteria|NNS
+T24	Word 58 61	are|be|VBP
+T25	Word 62 69	thought|think|VBN
+T26	Word 70 72	to|to|TO
+T27	Word 73 77	have|have|VB
+T28	Word 78 82	been|be|VBN
+T29	Word 83 88	first|first|RB
+T30	Word 89 98	described|describe|VBN
+T31	Word 99 101	by|by|IN
+T32	Word 102 105	van|van|NN
+T33	Word 106 117	Leeuwenhoek|Leeuwenhoek|NN
+T34	Word 118 120	in|in|IN
+T35	Word 121 124	the|the|DT
+T36	Word 125 130	1670s|1670|NN
+T37	Word 131 134	and|and|CC
+T38	Word 135 140	later|later|RB
+T39	Word 141 143	by|by|IN
+T40	Word 144 150	Muller|Muller|NN
+T41	Word 150 151	.|.|.
+T42	Word 152 163	S. volutans|S._volutan|NNS
+T43	Word 164 166	is|be|VBZ
+T44	Word 167 168	a|a|DT
+T45	Word 169 174	large|large|JJ
+T46	Word 175 184	bacterium|bacterium|NN
+T47	Word 185 187	as|as|RB
+T48	Word 188 192	well|well|RB
+T49	Word 193 195	as|as|IN
+T50	Word 196 198	an|an|DT
+T51	Word 199 207	obligate|obligate|JJ
+T52	Word 208 222	microaerophile|microaerophile|NN
+T53	Word 223 227	with|with|IN
+T54	Word 228 229	a|a|DT
+T55	Word 230 237	helical|helical|JJ
+T56	Word 238 247	structure|structure|NN
+T57	Word 247 248	.|.|.
+T58	Word 248 249	|_|.
+T59	Word 249 250	|_|.
+T60	Word 250 257	Ecology|Ecology|NN
+T61	Word 257 258	|_|.
+T62	Word 258 269	S. volutans|S._volutans|NNS
+T63	Word 270 273	has|have|VBZ
+T64	Word 274 278	been|be|VBN
+T65	Word 279 284	found|find|VBN
+T66	Word 285 287	in|in|IN
+T67	Word 288 291	the|the|DT
+T68	Word 292 297	water|water|NN
+T69	Word 298 300	of|of|IN
+T70	Word 301 302	a|a|DT
+T71	Word 303 310	cooling|cool|VBG
+T72	Word 311 316	tower|tower|NN
+T73	Word 317 319	of|of|IN
+T74	Word 320 321	a|a|DT
+T75	Word 322 332	sugar-beet|sugar-beet|JJ
+T76	Word 333 341	refinery|refinery|NN
+T77	Word 342 344	in|in|IN
+T78	Word 345 352	England|England|NN
+T79	Word 353 356	and|and|CC
+T80	Word 357 361	from|from|IN
+T81	Word 362 367	water|water|NN
+T82	Word 368 370	of|of|IN
+T83	Word 371 372	a|a|DT
+T84	Word 373 381	polluted|polluted|JJ
+T85	Word 382 386	pond|pond|NN
+T86	Word 386 387	.|.|.
+T87	Word 388 390	It|It|PRP
+T88	Word 391 393	is|be|VBZ
+T89	Word 394 401	thought|think|VBN
+T90	Word 402 406	that|that|IN
+T91	Word 407 410	the|the|DT
+T92	Word 411 420	bacterium|bacterium|NN
+T93	Word 421 424	can|can|MD
+T94	Word 425 427	be|be|VB
+T95	Word 428 433	found|find|VBN
+T96	Word 434 436	in|in|IN
+T97	Word 437 441	many|many|JJ
+T98	Word 442 448	bodies|body|NNS
+T99	Word 449 451	of|of|IN
+T100	Word 452 460	stagnant|stagnant|JJ
+T101	Word 461 466	water|water|NN
+T102	Word 466 467	.|.|.
+T103	Word 467 468	|_|.
+T104	Word 468 469	|_|.
+T1	Bacteria 0 9	Spirillum|Spirillum
+T2	Bacteria 39 48	Spirillum|Spirillum
+T3	Bacteria 49 57	bacteria|bacteria
+T4	Bacteria 152 163	S. volutans|S._volutan
+T5	Bacteria 175 184	bacterium|bacterium
+T6	Bacteria 258 269	S. volutans|S._volutans
+T7	Habitat 292 352	water of a cooling tower of a sugar-beet refinery in England|water of a cooling tower of a sugar-beet refinery in England
+T8	Habitat 303 352	cooling tower of a sugar-beet refinery in England|cooling tower of a sugar-beet refinery in England
+T9	Habitat 322 352	sugar-beet refinery in England|sugar-beet refinery in England
+T10	Habitat 322 332	sugar-beet|sugar-beet
+T11	Geographical 345 352	England|England
+T12	Habitat 362 386	water of a polluted pond|water of a polluted pond
+T13	Habitat 373 386	polluted pond|polluted pond
+T14	Bacteria 411 420	bacterium|bacterium
+T15	Habitat 452 466	stagnant water|stagnant water
+R1	Dependency dependent:T20 sentence:T2-BTID-60596 head:T19 label:conj
+R2	Dependency dependent:T18 sentence:T2-BTID-60596 head:T19 label:conj
+R3	Dependency dependent:T22 sentence:T3-BTID-60596 head:T23 label:ncmod
+R4	Dependency dependent:T29 sentence:T3-BTID-60596 head:T30 label:ncmod
+R5	Dependency dependent:T32 sentence:T3-BTID-60596 head:T33 label:ncmod
+R6	Dependency dependent:T35 sentence:T3-BTID-60596 head:T36 label:det
+R7	Dependency dependent:T36 sentence:T3-BTID-60596 head:T34 label:dobj
+R8	Dependency dependent:T34 sentence:T3-BTID-60596 head:T33 label:ncmod
+R9	Dependency dependent:T33 sentence:T3-BTID-60596 head:T31 label:dobj
+R10	Dependency dependent:T38 sentence:T3-BTID-60596 head:T37 label:conj
+R11	Dependency dependent:T31 sentence:T3-BTID-60596 head:T37 label:conj
+R12	Dependency dependent:T38 sentence:T3-BTID-60596 head:T30 label:ncmod
+R13	Dependency dependent:T31 sentence:T3-BTID-60596 head:T30 label:ncmod
+R14	Dependency dependent:T40 sentence:T3-BTID-60596 head:T39 label:dobj
+R15	Dependency dependent:T39 sentence:T3-BTID-60596 head:T30 label:ncmod
+R16	Dependency dependent:T28 sentence:T3-BTID-60596 head:T30 label:aux
+R17	Dependency dependent:T27 sentence:T3-BTID-60596 head:T30 label:aux
+R18	Dependency dependent:T30 sentence:T3-BTID-60596 head:T25 label:xcomp
+R19	Dependency dependent:T24 sentence:T3-BTID-60596 head:T25 label:aux
+R20	Dependency dependent:T23 sentence:T3-BTID-60596 head:T25 label:ncsubj
+R21	Dependency dependent:T23 sentence:T3-BTID-60596 head:T30 label:ncsubj
+R22	Dependency dependent:T45 sentence:T4-BTID-60596 head:T46 label:ncmod
+R23	Dependency dependent:T44 sentence:T4-BTID-60596 head:T46 label:det
+R24	Dependency dependent:T48 sentence:T4-BTID-60596 head:T49 label:ncmod
+R25	Dependency dependent:T47 sentence:T4-BTID-60596 head:T49 label:ncmod
+R26	Dependency dependent:T51 sentence:T4-BTID-60596 head:T52 label:ncmod
+R27	Dependency dependent:T50 sentence:T4-BTID-60596 head:T52 label:det
+R28	Dependency dependent:T55 sentence:T4-BTID-60596 head:T56 label:ncmod
+R29	Dependency dependent:T54 sentence:T4-BTID-60596 head:T56 label:det
+R30	Dependency dependent:T56 sentence:T4-BTID-60596 head:T53 label:dobj
+R31	Dependency dependent:T53 sentence:T4-BTID-60596 head:T52 label:ncmod
+R32	Dependency dependent:T52 sentence:T4-BTID-60596 head:T49 label:conj
+R33	Dependency dependent:T46 sentence:T4-BTID-60596 head:T49 label:conj
+R34	Dependency dependent:T52 sentence:T4-BTID-60596 head:T43 label:xcomp
+R35	Dependency dependent:T46 sentence:T4-BTID-60596 head:T43 label:xcomp
+R36	Dependency dependent:T42 sentence:T4-BTID-60596 head:T43 label:ncsubj
+R37	Dependency dependent:T67 sentence:T6-BTID-60596 head:T68 label:det
+R38	Dependency dependent:T71 sentence:T6-BTID-60596 head:T72 label:ncmod
+R39	Dependency dependent:T70 sentence:T6-BTID-60596 head:T72 label:det
+R40	Dependency dependent:T75 sentence:T6-BTID-60596 head:T76 label:ncmod
+R41	Dependency dependent:T74 sentence:T6-BTID-60596 head:T76 label:det
+R42	Dependency dependent:T78 sentence:T6-BTID-60596 head:T77 label:dobj
+R43	Dependency dependent:T77 sentence:T6-BTID-60596 head:T76 label:ncmod
+R44	Dependency dependent:T76 sentence:T6-BTID-60596 head:T73 label:dobj
+R45	Dependency dependent:T73 sentence:T6-BTID-60596 head:T72 label:ncmod
+R46	Dependency dependent:T72 sentence:T6-BTID-60596 head:T69 label:dobj
+R47	Dependency dependent:T69 sentence:T6-BTID-60596 head:T68 label:ncmod
+R48	Dependency dependent:T68 sentence:T6-BTID-60596 head:T66 label:dobj
+R49	Dependency dependent:T84 sentence:T6-BTID-60596 head:T85 label:ncmod
+R50	Dependency dependent:T83 sentence:T6-BTID-60596 head:T85 label:det
+R51	Dependency dependent:T85 sentence:T6-BTID-60596 head:T82 label:dobj
+R52	Dependency dependent:T82 sentence:T6-BTID-60596 head:T81 label:ncmod
+R53	Dependency dependent:T81 sentence:T6-BTID-60596 head:T80 label:dobj
+R54	Dependency dependent:T80 sentence:T6-BTID-60596 head:T79 label:conj
+R55	Dependency dependent:T66 sentence:T6-BTID-60596 head:T79 label:conj
+R56	Dependency dependent:T80 sentence:T6-BTID-60596 head:T65 label:ncmod
+R57	Dependency dependent:T66 sentence:T6-BTID-60596 head:T65 label:ncmod
+R58	Dependency dependent:T64 sentence:T6-BTID-60596 head:T65 label:aux
+R59	Dependency dependent:T63 sentence:T6-BTID-60596 head:T65 label:aux
+R60	Dependency dependent:T62 sentence:T6-BTID-60596 head:T65 label:ncsubj
+R61	Dependency dependent:T91 sentence:T7-BTID-60596 head:T92 label:det
+R62	Dependency dependent:T97 sentence:T7-BTID-60596 head:T98 label:ncmod
+R63	Dependency dependent:T100 sentence:T7-BTID-60596 head:T101 label:ncmod
+R64	Dependency dependent:T101 sentence:T7-BTID-60596 head:T99 label:dobj
+R65	Dependency dependent:T99 sentence:T7-BTID-60596 head:T98 label:ncmod
+R66	Dependency dependent:T98 sentence:T7-BTID-60596 head:T96 label:dobj
+R67	Dependency dependent:T96 sentence:T7-BTID-60596 head:T95 label:ncmod
+R68	Dependency dependent:T94 sentence:T7-BTID-60596 head:T95 label:aux
+R69	Dependency dependent:T93 sentence:T7-BTID-60596 head:T95 label:aux
+R70	Dependency dependent:T92 sentence:T7-BTID-60596 head:T95 label:ncsubj
+R71	Dependency dependent:T95 sentence:T7-BTID-60596 head:T89 label:ccomp
+R72	Dependency dependent:T88 sentence:T7-BTID-60596 head:T89 label:aux
+R73	Localization Bacterium:T6 Localization:T11
+R74	Localization Bacterium:T6 Localization:T8
+R75	Localization Bacterium:T6 Localization:T9
+R76	Localization Bacterium:T6 Localization:T7
+R77	Localization Bacterium:T6 Localization:T13
+R78	Localization Bacterium:T6 Localization:T15
+R79	Localization Bacterium:T6 Localization:T12
+R80	Anaphora Anaphor:49-57 Ante:T2
+R81	Anaphora Anaphor:175-184 Ante:T4
+R82	Anaphora Anaphor:388-390 Ante:T6
+R83	Anaphora Anaphor:407-420 Ante:T6
+R84	Anaphora Anaphor:411-420 Ante:T6

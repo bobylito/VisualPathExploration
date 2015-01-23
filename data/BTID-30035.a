@@ -1,0 +1,541 @@
+T1-BTID-30035	Sentence 0 45	Why sequence another Bacillus cereus strain?
+T2-BTID-30035	Sentence 45 120	Bacteria of the group cereus are ubiquitous and usually isolated from soil.
+T3-BTID-30035	Sentence 121 281	However, these microorganisms are the real predators and from time-to-time can be isolated from dead insects or even animals, those deaths they were the cause.
+T4-BTID-30035	Sentence 281 505	Bacillus cereus is an acronym for the large group of bacteria which includes B. thuringiensis (insect killer), B. anthracis (animal killer), B. weihenstephanensis (able to grow in cold soil), B. mycoides (forming filaments).
+T5-BTID-30035	Sentence 506 628	If no one of the above properties is detected, the Bacillus of this group is usually labeled by a neutral name B. cereus.
+T6-BTID-30035	Sentence 628 760	The bacteria of this group is now attracting increasing interest of researchers working on bacilli and other gram-positive bacteria.
+T7-BTID-30035	Sentence 761 960	One of the fundamental and practical questions is how the ecological adaptation of these bacteria produces lines pathogenic for animals and insects (like B. anthracis or some B. thuringiensis lines).
+T8-BTID-30035	Sentence 961 1053	Intensive phylogenetic studies revealed the epidemic structure of this bacterial population.
+T9-BTID-30035	Sentence 1054 1210	Some strains of B. cereus are non-hazardous (such strains are used as animal probiotics), other strains caused food poisoning, either emetic or diarrheic.
+T10-BTID-30035	Sentence 1210 1418	Gathering such data will certainly inspire new ideas about the short time evolution of these bacteria, which should allow scientists to predict, and if necessary to stop, its potential pathogenic emergence.
+T36	Word 0 3	Why|Why|NN
+T37	Word 4 12	sequence|sequence|NN
+T38	Word 13 20	another|another|DT
+T39	Word 21 36	Bacillus cereus|Bacillus_cereus|NN
+T40	Word 37 43	strain|strain|NN
+T41	Word 43 44	?|?|.
+T42	Word 44 45	|_|.
+T43	Word 45 53	Bacteria|Bacteria|NN
+T44	Word 54 56	of|of|IN
+T45	Word 57 60	the|the|DT
+T46	Word 61 66	group|group|NN
+T47	Word 67 73	cereus|cereus|NNS
+T48	Word 74 77	are|be|VBP
+T49	Word 78 88	ubiquitous|ubiquitous|JJ
+T50	Word 89 92	and|and|CC
+T51	Word 93 100	usually|usually|RB
+T52	Word 101 109	isolated|isolate|VBN
+T53	Word 110 114	from|from|IN
+T54	Word 115 119	soil|soil|NN
+T55	Word 119 120	.|.|.
+T56	Word 121 128	However|However|RB
+T57	Word 128 129	,|,|,
+T58	Word 130 135	these|these|DT
+T59	Word 136 150	microorganisms|microorganism|NNS
+T60	Word 151 154	are|be|VBP
+T61	Word 155 158	the|the|DT
+T62	Word 159 163	real|real|JJ
+T63	Word 164 173	predators|predator|NNS
+T64	Word 174 177	and|and|CC
+T65	Word 178 182	from|from|IN
+T66	Word 183 195	time-to-time|time-to-time|NN
+T67	Word 196 199	can|can|MD
+T68	Word 200 202	be|be|VB
+T69	Word 203 211	isolated|isolate|VBN
+T70	Word 212 216	from|from|IN
+T71	Word 217 221	dead|dead|JJ
+T72	Word 222 229	insects|insect|NNS
+T73	Word 230 232	or|or|CC
+T74	Word 233 237	even|even|RB
+T75	Word 238 245	animals|animal|NNS
+T76	Word 245 246	,|,|,
+T77	Word 247 252	those|those|DT
+T78	Word 253 259	deaths|death|IN
+T79	Word 260 264	they|they|PRP
+T80	Word 265 269	were|be|VBD
+T81	Word 270 273	the|the|DT
+T82	Word 274 279	cause|cause|NN
+T83	Word 279 280	.|.|.
+T84	Word 280 281	|_|.
+T85	Word 281 296	Bacillus cereus|Bacillus_cereus|NN
+T86	Word 297 299	is|be|VBZ
+T87	Word 300 302	an|an|DT
+T88	Word 303 310	acronym|acronym|NN
+T89	Word 311 314	for|for|IN
+T90	Word 315 318	the|the|DT
+T91	Word 319 324	large|large|JJ
+T92	Word 325 330	group|group|NN
+T93	Word 331 333	of|of|IN
+T94	Word 334 342	bacteria|bacteria|NNS
+T95	Word 343 348	which|which|WDT
+T96	Word 349 357	includes|include|VBZ
+T97	Word 358 374	B. thuringiensis|B._thuringiensis|NN
+T98	Word 375 376	(|(|LRB
+T99	Word 376 382	insect|insect|NN
+T100	Word 383 389	killer|killer|NN
+T101	Word 389 390	)|)|RRB
+T102	Word 390 391	,|,|,
+T103	Word 392 404	B. anthracis|B._anthracis|NN
+T104	Word 405 406	(|(|LRB
+T105	Word 406 412	animal|animal|NN
+T106	Word 413 419	killer|killer|NN
+T107	Word 419 420	)|)|RRB
+T108	Word 420 421	,|,|,
+T109	Word 422 443	B. weihenstephanensis|B._weihenstephanensis|NN
+T110	Word 444 445	(|(|LRB
+T111	Word 445 449	able|able|JJ
+T112	Word 450 452	to|to|TO
+T113	Word 453 457	grow|grow|VB
+T114	Word 458 460	in|in|IN
+T115	Word 461 465	cold|cold|JJ
+T116	Word 466 470	soil|soil|NN
+T117	Word 470 471	)|)|RRB
+T118	Word 471 472	,|,|,
+T119	Word 473 484	B. mycoides|B._mycoide|NNS
+T120	Word 485 486	(|(|LRB
+T121	Word 486 493	forming|form|NN
+T122	Word 494 503	filaments|filament|NNS
+T123	Word 503 504	)|)|RRB
+T124	Word 504 505	.|.|.
+T125	Word 506 508	If|If|IN
+T126	Word 509 511	no|no|DT
+T127	Word 512 515	one|one|CD
+T128	Word 516 518	of|of|IN
+T129	Word 519 522	the|the|DT
+T130	Word 523 528	above|above|JJ
+T131	Word 529 539	properties|property|NNS
+T132	Word 540 542	is|be|VBZ
+T133	Word 543 551	detected|detect|VBN
+T134	Word 551 552	,|,|,
+T135	Word 553 556	the|the|DT
+T136	Word 557 565	Bacillus|Bacillus|NN
+T137	Word 566 568	of|of|IN
+T138	Word 569 573	this|this|DT
+T139	Word 574 579	group|group|NN
+T140	Word 580 582	is|be|VBZ
+T141	Word 583 590	usually|usually|RB
+T142	Word 591 598	labeled|label|VBN
+T143	Word 599 601	by|by|IN
+T144	Word 602 603	a|a|DT
+T145	Word 604 611	neutral|neutral|JJ
+T146	Word 612 616	name|name|NN
+T147	Word 617 626	B. cereus|B._cereus|NN
+T148	Word 626 627	.|.|.
+T149	Word 627 628	|_|.
+T150	Word 628 631	The|The|DT
+T151	Word 632 640	bacteria|bacteria|NNS
+T152	Word 641 643	of|of|IN
+T153	Word 644 648	this|this|DT
+T154	Word 649 654	group|group|NN
+T155	Word 655 657	is|be|VBZ
+T156	Word 658 661	now|now|RB
+T157	Word 662 672	attracting|attract|VBG
+T158	Word 673 683	increasing|increase|VBG
+T159	Word 684 692	interest|interest|NN
+T160	Word 693 695	of|of|IN
+T161	Word 696 707	researchers|researcher|NNS
+T162	Word 708 715	working|work|VBG
+T163	Word 716 718	on|on|IN
+T164	Word 719 726	bacilli|bacilli|NN
+T165	Word 727 730	and|and|CC
+T166	Word 731 736	other|other|JJ
+T167	Word 737 750	gram-positive|gram-positive|JJ
+T168	Word 751 759	bacteria|bacteria|NNS
+T169	Word 759 760	.|.|.
+T170	Word 761 764	One|One|CD
+T171	Word 765 767	of|of|IN
+T172	Word 768 771	the|the|DT
+T173	Word 772 783	fundamental|fundamental|JJ
+T174	Word 784 787	and|and|CC
+T175	Word 788 797	practical|practical|JJ
+T176	Word 798 807	questions|question|NNS
+T177	Word 808 810	is|be|VBZ
+T178	Word 811 814	how|how|WRB
+T179	Word 815 818	the|the|DT
+T180	Word 819 829	ecological|ecological|JJ
+T181	Word 830 840	adaptation|adaptation|NN
+T182	Word 841 843	of|of|IN
+T183	Word 844 849	these|these|DT
+T184	Word 850 858	bacteria|bacteria|NNS
+T185	Word 859 867	produces|produce|VBZ
+T186	Word 868 873	lines|line|NNS
+T187	Word 874 884	pathogenic|pathogenic|JJ
+T188	Word 885 888	for|for|IN
+T189	Word 889 896	animals|animal|NNS
+T190	Word 897 900	and|and|CC
+T191	Word 901 908	insects|insect|NNS
+T192	Word 909 910	(|(|LRB
+T193	Word 910 914	like|like|IN
+T194	Word 915 927	B. anthracis|B._anthracis|NN
+T195	Word 928 930	or|or|CC
+T196	Word 931 935	some|some|DT
+T197	Word 936 952	B. thuringiensis|B._thuringiensis|NN
+T198	Word 953 958	lines|line|NNS
+T199	Word 958 959	)|)|RRB
+T200	Word 959 960	.|.|.
+T201	Word 961 970	Intensive|Intensive|JJ
+T202	Word 971 983	phylogenetic|phylogenetic|JJ
+T203	Word 984 991	studies|study|NNS
+T204	Word 992 1000	revealed|reveal|VBD
+T205	Word 1001 1004	the|the|DT
+T206	Word 1005 1013	epidemic|epidemic|JJ
+T207	Word 1014 1023	structure|structure|NN
+T208	Word 1024 1026	of|of|IN
+T209	Word 1027 1031	this|this|DT
+T210	Word 1032 1041	bacterial|bacterial|JJ
+T211	Word 1042 1052	population|population|NN
+T212	Word 1052 1053	.|.|.
+T213	Word 1054 1058	Some|Some|DT
+T214	Word 1059 1066	strains|strain|NNS
+T215	Word 1067 1069	of|of|IN
+T216	Word 1070 1079	B. cereus|B._cereus|NNS
+T217	Word 1080 1083	are|be|VBP
+T218	Word 1084 1097	non-hazardous|non-hazardous|JJ
+T219	Word 1098 1099	(|(|LRB
+T220	Word 1099 1103	such|such|JJ
+T221	Word 1104 1111	strains|strain|NNS
+T222	Word 1112 1115	are|be|VBP
+T223	Word 1116 1120	used|use|VBN
+T224	Word 1121 1123	as|as|IN
+T225	Word 1124 1130	animal|animal|NN
+T226	Word 1131 1141	probiotics|probiotic|NNS
+T227	Word 1141 1142	)|)|RRB
+T228	Word 1142 1143	,|,|,
+T229	Word 1144 1149	other|other|JJ
+T230	Word 1150 1157	strains|strain|NNS
+T231	Word 1158 1164	caused|cause|VBD
+T232	Word 1165 1169	food|food|JJ
+T233	Word 1170 1179	poisoning|poisoning|NN
+T234	Word 1179 1180	,|,|,
+T235	Word 1181 1187	either|either|CC
+T236	Word 1188 1194	emetic|emetic|JJ
+T237	Word 1195 1197	or|or|CC
+T238	Word 1198 1207	diarrheic|diarrheic|JJ
+T239	Word 1207 1208	.|.|.
+T240	Word 1208 1209	|_|.
+T241	Word 1209 1210	|_|.
+T242	Word 1210 1219	Gathering|Gather|VBG
+T243	Word 1220 1224	such|such|JJ
+T244	Word 1225 1229	data|datum|NNS
+T245	Word 1230 1234	will|will|MD
+T246	Word 1235 1244	certainly|certainly|RB
+T247	Word 1245 1252	inspire|inspire|VB
+T248	Word 1253 1256	new|new|JJ
+T249	Word 1257 1262	ideas|idea|NNS
+T250	Word 1263 1268	about|about|IN
+T251	Word 1269 1272	the|the|DT
+T252	Word 1273 1278	short|short|JJ
+T253	Word 1279 1283	time|time|NN
+T254	Word 1284 1293	evolution|evolution|NN
+T255	Word 1294 1296	of|of|IN
+T256	Word 1297 1302	these|these|DT
+T257	Word 1303 1311	bacteria|bacteria|NNS
+T258	Word 1311 1312	,|,|,
+T259	Word 1313 1318	which|which|WDT
+T260	Word 1319 1325	should|should|MD
+T261	Word 1326 1331	allow|allow|VB
+T262	Word 1332 1342	scientists|scientist|NNS
+T263	Word 1343 1345	to|to|TO
+T264	Word 1346 1353	predict|predict|VB
+T265	Word 1353 1354	,|,|,
+T266	Word 1355 1358	and|and|CC
+T267	Word 1359 1361	if|if|IN
+T268	Word 1362 1371	necessary|necessary|JJ
+T269	Word 1372 1374	to|to|TO
+T270	Word 1375 1379	stop|stop|NN
+T271	Word 1379 1380	,|,|,
+T272	Word 1381 1384	its|its|PRP$
+T273	Word 1385 1394	potential|potential|JJ
+T274	Word 1395 1405	pathogenic|pathogenic|JJ
+T275	Word 1406 1415	emergence|emergence|NN
+T276	Word 1415 1416	.|.|.
+T277	Word 1416 1417	|_|.
+T278	Word 1417 1418	|_|.
+T1	Bacteria 21 36	Bacillus cereus|Bacillus_cereus
+T2	Bacteria 45 53	Bacteria|Bacteria
+T3	Bacteria 67 73	cereus|cereus
+T4	Habitat 115 119	soil|soil
+T5	Habitat 136 150	microorganisms|microorganisms
+T7	Habitat 217 245	dead insects or even animals|dead insects or even animals
+T6	Habitat 217 229	dead insects|dead insects
+T8	Habitat 238 245	animals|animals
+T9	Bacteria 281 296	Bacillus cereus|Bacillus_cereus
+T10	Bacteria 334 342	bacteria|bacteria
+T11	Bacteria 358 374	B. thuringiensis|B._thuringiensis
+T12	Habitat 376 382	insect|insect
+T13	Bacteria 392 404	B. anthracis|B._anthracis
+T14	Habitat 406 412	animal|animal
+T15	Bacteria 422 443	B. weihenstephanensis|B._weihenstephanensis
+T16	Habitat 461 470	cold soil|cold soil
+T17	Bacteria 473 484	B. mycoides|B._mycoide
+T18	Bacteria 557 565	Bacillus|Bacillus
+T19	Bacteria 617 626	B. cereus|B._cereus
+T20	Bacteria 632 640	bacteria|bacteria
+T21	Habitat 696 707	researchers|researchers
+T22	Bacteria 719 726	bacilli|bacilli
+T23	Bacteria 751 759	bacteria|bacteria
+T24	Bacteria 850 858	bacteria|bacteria
+T25	Habitat 889 896	animals|animals
+T26	Habitat 901 908	insects|insects
+T27	Bacteria 915 927	B. anthracis|B._anthracis
+T28	Bacteria 936 952	B. thuringiensis|B._thuringiensis
+T29	Bacteria 1032 1041	bacterial|bacterial
+T30	Bacteria 1070 1079	B. cereus|B._cereus
+T31	Habitat 1124 1141	animal probiotics|animal probiotics
+T32	Habitat 1124 1130	animal|animal
+T33	Habitat 1165 1169	food|food
+T34	Bacteria 1303 1311	bacteria|bacteria
+T35	Habitat 1332 1342	scientists|scientists
+R1	Dependency dependent:T36 sentence:T1-BTID-30035 head:T37 label:ncmod
+R2	Dependency dependent:T39 sentence:T1-BTID-30035 head:T38 label:dobj
+R3	Dependency dependent:T38 sentence:T1-BTID-30035 head:T37 label:ncmod
+R4	Dependency dependent:T37 sentence:T1-BTID-30035 head:T40 label:ncsubj
+R5	Dependency dependent:T46 sentence:T2-BTID-30035 head:T47 label:ncmod
+R6	Dependency dependent:T45 sentence:T2-BTID-30035 head:T47 label:det
+R7	Dependency dependent:T49 sentence:T2-BTID-30035 head:T48 label:xcomp
+R8	Dependency dependent:T54 sentence:T2-BTID-30035 head:T53 label:dobj
+R9	Dependency dependent:T53 sentence:T2-BTID-30035 head:T52 label:iobj
+R10	Dependency dependent:T51 sentence:T2-BTID-30035 head:T52 label:ncmod
+R11	Dependency dependent:T52 sentence:T2-BTID-30035 head:T50 label:conj
+R12	Dependency dependent:T48 sentence:T2-BTID-30035 head:T50 label:conj
+R13	Dependency dependent:T52 sentence:T2-BTID-30035 head:T47 label:xmod
+R14	Dependency dependent:T47 sentence:T2-BTID-30035 head:T52 label:ncsubj
+R15	Dependency dependent:T48 sentence:T2-BTID-30035 head:T47 label:xmod
+R16	Dependency dependent:T47 sentence:T2-BTID-30035 head:T48 label:ncsubj
+R17	Dependency dependent:T47 sentence:T2-BTID-30035 head:T44 label:dobj
+R18	Dependency dependent:T44 sentence:T2-BTID-30035 head:T43 label:ncmod
+R19	Dependency dependent:T58 sentence:T3-BTID-30035 head:T59 label:det
+R20	Dependency dependent:T62 sentence:T3-BTID-30035 head:T63 label:ncmod
+R21	Dependency dependent:T61 sentence:T3-BTID-30035 head:T63 label:det
+R22	Dependency dependent:T63 sentence:T3-BTID-30035 head:T60 label:xcomp
+R23	Dependency dependent:T66 sentence:T3-BTID-30035 head:T65 label:dobj
+R24	Dependency dependent:T65 sentence:T3-BTID-30035 head:T64 label:conj
+R25	Dependency dependent:T60 sentence:T3-BTID-30035 head:T64 label:conj
+R26	Dependency dependent:T60 sentence:T3-BTID-30035 head:T59 label:xmod
+R27	Dependency dependent:T59 sentence:T3-BTID-30035 head:T60 label:ncsubj
+R28	Dependency dependent:T65 sentence:T3-BTID-30035 head:T59 label:ncmod
+R29	Dependency dependent:T71 sentence:T3-BTID-30035 head:T72 label:ncmod
+R30	Dependency dependent:T74 sentence:T3-BTID-30035 head:T75 label:ncmod
+R31	Dependency dependent:T75 sentence:T3-BTID-30035 head:T73 label:conj
+R32	Dependency dependent:T72 sentence:T3-BTID-30035 head:T73 label:conj
+R33	Dependency dependent:T75 sentence:T3-BTID-30035 head:T70 label:dobj
+R34	Dependency dependent:T72 sentence:T3-BTID-30035 head:T70 label:dobj
+R35	Dependency dependent:T70 sentence:T3-BTID-30035 head:T69 label:iobj
+R36	Dependency dependent:T77 sentence:T3-BTID-30035 head:T78 label:det
+R37	Dependency dependent:T81 sentence:T3-BTID-30035 head:T82 label:det
+R38	Dependency dependent:T82 sentence:T3-BTID-30035 head:T80 label:xcomp
+R39	Dependency dependent:T79 sentence:T3-BTID-30035 head:T80 label:ncsubj
+R40	Dependency dependent:T80 sentence:T3-BTID-30035 head:T78 label:cmod
+R41	Dependency dependent:T78 sentence:T3-BTID-30035 head:T69 label:ncmod
+R42	Dependency dependent:T68 sentence:T3-BTID-30035 head:T69 label:aux
+R43	Dependency dependent:T67 sentence:T3-BTID-30035 head:T69 label:aux
+R44	Dependency dependent:T59 sentence:T3-BTID-30035 head:T69 label:ncsubj
+R45	Dependency dependent:T56 sentence:T3-BTID-30035 head:T69 label:ncmod
+R46	Dependency dependent:T87 sentence:T4-BTID-30035 head:T88 label:det
+R47	Dependency dependent:T91 sentence:T4-BTID-30035 head:T92 label:ncmod
+R48	Dependency dependent:T90 sentence:T4-BTID-30035 head:T92 label:det
+R49	Dependency dependent:T94 sentence:T4-BTID-30035 head:T93 label:dobj
+R50	Dependency dependent:T93 sentence:T4-BTID-30035 head:T92 label:ncmod
+R51	Dependency dependent:T99 sentence:T4-BTID-30035 head:T100 label:ncmod
+R52	Dependency dependent:T105 sentence:T4-BTID-30035 head:T106 label:ncmod
+R53	Dependency dependent:T106 sentence:T4-BTID-30035 head:T104 label:dobj
+R54	Dependency dependent:T104 sentence:T4-BTID-30035 head:T103 label:ncmod
+R55	Dependency dependent:T115 sentence:T4-BTID-30035 head:T116 label:ncmod
+R56	Dependency dependent:T116 sentence:T4-BTID-30035 head:T114 label:dobj
+R57	Dependency dependent:T114 sentence:T4-BTID-30035 head:T113 label:ncmod
+R58	Dependency dependent:T113 sentence:T4-BTID-30035 head:T111 label:xcomp
+R59	Dependency dependent:T113 sentence:T4-BTID-30035 head:T109 label:xmod
+R60	Dependency dependent:T109 sentence:T4-BTID-30035 head:T108 label:conj
+R61	Dependency dependent:T103 sentence:T4-BTID-30035 head:T108 label:conj
+R62	Dependency dependent:T109 sentence:T4-BTID-30035 head:T102 label:conj
+R63	Dependency dependent:T103 sentence:T4-BTID-30035 head:T102 label:conj
+R64	Dependency dependent:T100 sentence:T4-BTID-30035 head:T102 label:conj
+R65	Dependency dependent:T109 sentence:T4-BTID-30035 head:T98 label:dobj
+R66	Dependency dependent:T103 sentence:T4-BTID-30035 head:T98 label:dobj
+R67	Dependency dependent:T100 sentence:T4-BTID-30035 head:T98 label:dobj
+R68	Dependency dependent:T98 sentence:T4-BTID-30035 head:T97 label:ncmod
+R69	Dependency dependent:T121 sentence:T4-BTID-30035 head:T122 label:ncmod
+R70	Dependency dependent:T122 sentence:T4-BTID-30035 head:T120 label:dobj
+R71	Dependency dependent:T120 sentence:T4-BTID-30035 head:T119 label:ncmod
+R72	Dependency dependent:T119 sentence:T4-BTID-30035 head:T118 label:conj
+R73	Dependency dependent:T97 sentence:T4-BTID-30035 head:T118 label:conj
+R74	Dependency dependent:T119 sentence:T4-BTID-30035 head:T96 label:dobj
+R75	Dependency dependent:T97 sentence:T4-BTID-30035 head:T96 label:dobj
+R76	Dependency dependent:T95 sentence:T4-BTID-30035 head:T96 label:ncsubj
+R77	Dependency dependent:T96 sentence:T4-BTID-30035 head:T92 label:cmod
+R78	Dependency dependent:T92 sentence:T4-BTID-30035 head:T89 label:dobj
+R79	Dependency dependent:T89 sentence:T4-BTID-30035 head:T88 label:ncmod
+R80	Dependency dependent:T88 sentence:T4-BTID-30035 head:T86 label:xcomp
+R81	Dependency dependent:T85 sentence:T4-BTID-30035 head:T86 label:ncsubj
+R82	Dependency dependent:T126 sentence:T5-BTID-30035 head:T127 label:det
+R83	Dependency dependent:T130 sentence:T5-BTID-30035 head:T131 label:ncmod
+R84	Dependency dependent:T129 sentence:T5-BTID-30035 head:T131 label:det
+R85	Dependency dependent:T131 sentence:T5-BTID-30035 head:T128 label:dobj
+R86	Dependency dependent:T128 sentence:T5-BTID-30035 head:T127 label:ncmod
+R87	Dependency dependent:T132 sentence:T5-BTID-30035 head:T133 label:aux
+R88	Dependency dependent:T127 sentence:T5-BTID-30035 head:T133 label:ncsubj
+R89	Dependency dependent:T133 sentence:T5-BTID-30035 head:T125 label:ccomp
+R90	Dependency dependent:T135 sentence:T5-BTID-30035 head:T136 label:det
+R91	Dependency dependent:T138 sentence:T5-BTID-30035 head:T139 label:det
+R92	Dependency dependent:T139 sentence:T5-BTID-30035 head:T137 label:dobj
+R93	Dependency dependent:T137 sentence:T5-BTID-30035 head:T136 label:ncmod
+R94	Dependency dependent:T146 sentence:T5-BTID-30035 head:T147 label:ncmod
+R95	Dependency dependent:T145 sentence:T5-BTID-30035 head:T147 label:ncmod
+R96	Dependency dependent:T144 sentence:T5-BTID-30035 head:T147 label:det
+R97	Dependency dependent:T147 sentence:T5-BTID-30035 head:T143 label:dobj
+R98	Dependency dependent:T143 sentence:T5-BTID-30035 head:T142 label:ncmod
+R99	Dependency dependent:T140 sentence:T5-BTID-30035 head:T142 label:aux
+R100	Dependency dependent:T141 sentence:T5-BTID-30035 head:T142 label:ncmod
+R101	Dependency dependent:T136 sentence:T5-BTID-30035 head:T142 label:ncsubj
+R102	Dependency dependent:T125 sentence:T5-BTID-30035 head:T142 label:cmod
+R103	Dependency dependent:T150 sentence:T6-BTID-30035 head:T151 label:det
+R104	Dependency dependent:T153 sentence:T6-BTID-30035 head:T154 label:det
+R105	Dependency dependent:T154 sentence:T6-BTID-30035 head:T152 label:dobj
+R106	Dependency dependent:T152 sentence:T6-BTID-30035 head:T151 label:ncmod
+R107	Dependency dependent:T158 sentence:T6-BTID-30035 head:T159 label:ncmod
+R108	Dependency dependent:T167 sentence:T6-BTID-30035 head:T168 label:ncmod
+R109	Dependency dependent:T166 sentence:T6-BTID-30035 head:T168 label:ncmod
+R110	Dependency dependent:T168 sentence:T6-BTID-30035 head:T165 label:conj
+R111	Dependency dependent:T164 sentence:T6-BTID-30035 head:T165 label:conj
+R112	Dependency dependent:T168 sentence:T6-BTID-30035 head:T163 label:dobj
+R113	Dependency dependent:T164 sentence:T6-BTID-30035 head:T163 label:dobj
+R114	Dependency dependent:T163 sentence:T6-BTID-30035 head:T162 label:iobj
+R115	Dependency dependent:T162 sentence:T6-BTID-30035 head:T161 label:xmod
+R116	Dependency dependent:T161 sentence:T6-BTID-30035 head:T162 label:ncsubj
+R117	Dependency dependent:T161 sentence:T6-BTID-30035 head:T160 label:dobj
+R118	Dependency dependent:T160 sentence:T6-BTID-30035 head:T159 label:ncmod
+R119	Dependency dependent:T159 sentence:T6-BTID-30035 head:T157 label:dobj
+R120	Dependency dependent:T155 sentence:T6-BTID-30035 head:T157 label:aux
+R121	Dependency dependent:T156 sentence:T6-BTID-30035 head:T157 label:ncmod
+R122	Dependency dependent:T151 sentence:T6-BTID-30035 head:T157 label:ncsubj
+R123	Dependency dependent:T175 sentence:T7-BTID-30035 head:T174 label:conj
+R124	Dependency dependent:T173 sentence:T7-BTID-30035 head:T174 label:conj
+R125	Dependency dependent:T175 sentence:T7-BTID-30035 head:T176 label:ncmod
+R126	Dependency dependent:T173 sentence:T7-BTID-30035 head:T176 label:ncmod
+R127	Dependency dependent:T172 sentence:T7-BTID-30035 head:T176 label:det
+R128	Dependency dependent:T176 sentence:T7-BTID-30035 head:T171 label:dobj
+R129	Dependency dependent:T171 sentence:T7-BTID-30035 head:T170 label:ncmod
+R130	Dependency dependent:T180 sentence:T7-BTID-30035 head:T181 label:ncmod
+R131	Dependency dependent:T179 sentence:T7-BTID-30035 head:T181 label:det
+R132	Dependency dependent:T183 sentence:T7-BTID-30035 head:T184 label:det
+R133	Dependency dependent:T184 sentence:T7-BTID-30035 head:T182 label:dobj
+R134	Dependency dependent:T182 sentence:T7-BTID-30035 head:T181 label:ncmod
+R135	Dependency dependent:T189 sentence:T7-BTID-30035 head:T188 label:dobj
+R136	Dependency dependent:T188 sentence:T7-BTID-30035 head:T187 label:iobj
+R137	Dependency dependent:T191 sentence:T7-BTID-30035 head:T190 label:conj
+R138	Dependency dependent:T186 sentence:T7-BTID-30035 head:T190 label:conj
+R139	Dependency dependent:T197 sentence:T7-BTID-30035 head:T198 label:ncmod
+R140	Dependency dependent:T196 sentence:T7-BTID-30035 head:T198 label:det
+R141	Dependency dependent:T198 sentence:T7-BTID-30035 head:T195 label:conj
+R142	Dependency dependent:T194 sentence:T7-BTID-30035 head:T195 label:conj
+R143	Dependency dependent:T198 sentence:T7-BTID-30035 head:T193 label:dobj
+R144	Dependency dependent:T194 sentence:T7-BTID-30035 head:T193 label:dobj
+R145	Dependency dependent:T193 sentence:T7-BTID-30035 head:T191 label:ncmod
+R146	Dependency dependent:T193 sentence:T7-BTID-30035 head:T186 label:ncmod
+R147	Dependency dependent:T191 sentence:T7-BTID-30035 head:T185 label:dobj
+R148	Dependency dependent:T186 sentence:T7-BTID-30035 head:T185 label:dobj
+R149	Dependency dependent:T181 sentence:T7-BTID-30035 head:T185 label:ncsubj
+R150	Dependency dependent:T185 sentence:T7-BTID-30035 head:T178 label:ccomp
+R151	Dependency dependent:T178 sentence:T7-BTID-30035 head:T177 label:ccomp
+R152	Dependency dependent:T170 sentence:T7-BTID-30035 head:T177 label:ncsubj
+R153	Dependency dependent:T202 sentence:T8-BTID-30035 head:T203 label:ncmod
+R154	Dependency dependent:T201 sentence:T8-BTID-30035 head:T203 label:ncmod
+R155	Dependency dependent:T206 sentence:T8-BTID-30035 head:T207 label:ncmod
+R156	Dependency dependent:T205 sentence:T8-BTID-30035 head:T207 label:det
+R157	Dependency dependent:T210 sentence:T8-BTID-30035 head:T211 label:ncmod
+R158	Dependency dependent:T209 sentence:T8-BTID-30035 head:T211 label:det
+R159	Dependency dependent:T211 sentence:T8-BTID-30035 head:T208 label:dobj
+R160	Dependency dependent:T208 sentence:T8-BTID-30035 head:T207 label:ncmod
+R161	Dependency dependent:T207 sentence:T8-BTID-30035 head:T204 label:dobj
+R162	Dependency dependent:T203 sentence:T8-BTID-30035 head:T204 label:ncsubj
+R163	Dependency dependent:T213 sentence:T9-BTID-30035 head:T214 label:det
+R164	Dependency dependent:T216 sentence:T9-BTID-30035 head:T215 label:dobj
+R165	Dependency dependent:T215 sentence:T9-BTID-30035 head:T214 label:ncmod
+R166	Dependency dependent:T220 sentence:T9-BTID-30035 head:T221 label:det
+R167	Dependency dependent:T225 sentence:T9-BTID-30035 head:T226 label:ncmod
+R168	Dependency dependent:T229 sentence:T9-BTID-30035 head:T230 label:ncmod
+R169	Dependency dependent:T232 sentence:T9-BTID-30035 head:T233 label:ncmod
+R170	Dependency dependent:T233 sentence:T9-BTID-30035 head:T231 label:dobj
+R171	Dependency dependent:T230 sentence:T9-BTID-30035 head:T231 label:ncsubj
+R172	Dependency dependent:T231 sentence:T9-BTID-30035 head:T226 label:cmod
+R173	Dependency dependent:T226 sentence:T9-BTID-30035 head:T224 label:dobj
+R174	Dependency dependent:T224 sentence:T9-BTID-30035 head:T223 label:iobj
+R175	Dependency dependent:T222 sentence:T9-BTID-30035 head:T223 label:aux
+R176	Dependency dependent:T221 sentence:T9-BTID-30035 head:T223 label:ncsubj
+R177	Dependency dependent:T219 sentence:T9-BTID-30035 head:T223 label:ncmod
+R178	Dependency dependent:T218 sentence:T9-BTID-30035 head:T223 label:cmod
+R179	Dependency dependent:T236 sentence:T9-BTID-30035 head:T235 label:conj
+R180	Dependency dependent:T218 sentence:T9-BTID-30035 head:T235 label:conj
+R181	Dependency dependent:T238 sentence:T9-BTID-30035 head:T237 label:conj
+R182	Dependency dependent:T236 sentence:T9-BTID-30035 head:T237 label:conj
+R183	Dependency dependent:T218 sentence:T9-BTID-30035 head:T237 label:conj
+R184	Dependency dependent:T238 sentence:T9-BTID-30035 head:T217 label:xcomp
+R185	Dependency dependent:T236 sentence:T9-BTID-30035 head:T217 label:xcomp
+R186	Dependency dependent:T218 sentence:T9-BTID-30035 head:T217 label:xcomp
+R187	Dependency dependent:T214 sentence:T9-BTID-30035 head:T217 label:ncsubj
+R188	Dependency dependent:T243 sentence:T10-BTID-30035 head:T244 label:det
+R189	Dependency dependent:T244 sentence:T10-BTID-30035 head:T242 label:dobj
+R190	Dependency dependent:T248 sentence:T10-BTID-30035 head:T249 label:ncmod
+R191	Dependency dependent:T249 sentence:T10-BTID-30035 head:T247 label:dobj
+R192	Dependency dependent:T253 sentence:T10-BTID-30035 head:T254 label:ncmod
+R193	Dependency dependent:T252 sentence:T10-BTID-30035 head:T254 label:ncmod
+R194	Dependency dependent:T251 sentence:T10-BTID-30035 head:T254 label:det
+R195	Dependency dependent:T256 sentence:T10-BTID-30035 head:T257 label:det
+R196	Dependency dependent:T262 sentence:T10-BTID-30035 head:T261 label:dobj
+R197	Dependency dependent:T262 sentence:T10-BTID-30035 head:T264 label:ncsubj
+R198	Dependency dependent:T264 sentence:T10-BTID-30035 head:T261 label:xcomp
+R199	Dependency dependent:T260 sentence:T10-BTID-30035 head:T261 label:aux
+R200	Dependency dependent:T259 sentence:T10-BTID-30035 head:T261 label:ncsubj
+R201	Dependency dependent:T261 sentence:T10-BTID-30035 head:T257 label:cmod
+R202	Dependency dependent:T257 sentence:T10-BTID-30035 head:T255 label:dobj
+R203	Dependency dependent:T255 sentence:T10-BTID-30035 head:T254 label:ncmod
+R204	Dependency dependent:T254 sentence:T10-BTID-30035 head:T250 label:dobj
+R205	Dependency dependent:T268 sentence:T10-BTID-30035 head:T267 label:xcomp
+R206	Dependency dependent:T267 sentence:T10-BTID-30035 head:T266 label:conj
+R207	Dependency dependent:T250 sentence:T10-BTID-30035 head:T266 label:conj
+R208	Dependency dependent:T267 sentence:T10-BTID-30035 head:T247 label:ncmod
+R209	Dependency dependent:T250 sentence:T10-BTID-30035 head:T247 label:ncmod
+R210	Dependency dependent:T269 sentence:T10-BTID-30035 head:T247 label:iobj
+R211	Dependency dependent:T245 sentence:T10-BTID-30035 head:T247 label:aux
+R212	Dependency dependent:T246 sentence:T10-BTID-30035 head:T247 label:ncmod
+R213	Dependency dependent:T274 sentence:T10-BTID-30035 head:T275 label:ncmod
+R214	Dependency dependent:T273 sentence:T10-BTID-30035 head:T275 label:ncmod
+R215	Dependency dependent:T272 sentence:T10-BTID-30035 head:T275 label:det
+R216	Dependency dependent:T275 sentence:T10-BTID-30035 head:T271 label:conj
+R217	Dependency dependent:T270 sentence:T10-BTID-30035 head:T271 label:conj
+R218	Dependency dependent:T275 sentence:T10-BTID-30035 head:T269 label:dobj
+R219	Dependency dependent:T270 sentence:T10-BTID-30035 head:T269 label:dobj
+R220	Dependency dependent:T242 sentence:T10-BTID-30035 head:T247 label:ncsubj
+R221	Localization Bacterium:T11 Localization:T26
+R222	Localization Bacterium:T15 Localization:T16
+R223	Localization Bacterium:T9 Localization:T33
+R224	Localization Bacterium:T9 Localization:T25
+R225	Localization Bacterium:T3 Localization:T4
+R226	Localization Bacterium:T3 Localization:T6
+R227	Localization Bacterium:T9 Localization:T26
+R228	Localization Bacterium:T13 Localization:T14
+R229	Localization Bacterium:T11 Localization:T25
+R230	Localization Bacterium:T13 Localization:T26
+R231	Localization Bacterium:T11 Localization:T12
+R232	Localization Bacterium:T13 Localization:T25
+R233	Localization Bacterium:T9 Localization:T31
+R234	Anaphora Anaphor:37-43 Ante:T1
+R235	Anaphora Anaphor:45-66 Ante:T1
+R236	Anaphora Anaphor:136-150 Ante:T1
+R237	Anaphora Anaphor:260-264 Ante:T1
+R238	Anaphora Anaphor:334-342 Ante:T9
+R239	Anaphora Anaphor:569-579 Ante:T18
+R240	Anaphora Anaphor:628-654 Ante:T19
+R241	Anaphora Anaphor:632-640 Ante:T19
+R242	Anaphora Anaphor:751-759 Ante:T19
+R243	Anaphora Anaphor:844-858 Ante:T19
+R244	Anaphora Anaphor:850-858 Ante:T19
+R245	Anaphora Anaphor:1027-1052 Ante:T27
+R246	Anaphora Anaphor:1054-1066 Ante:T27
+R247	Anaphora Anaphor:1059-1066 Ante:T27
+R248	Anaphora Anaphor:1104-1111 Ante:T30
+R249	Anaphora Anaphor:1144-1157 Ante:T30
+R250	Anaphora Anaphor:1150-1157 Ante:T30
+R251	Anaphora Anaphor:1297-1311 Ante:T30
+R252	Anaphora Anaphor:1303-1311 Ante:T30
+R253	Anaphora Anaphor:1381-1384 Ante:T30
